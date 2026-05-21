@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-21 09:59">
+<yml_catalog date="2026-05-21 11:09">
   <offers>
   <offer id="3_07594" available="true">
     <price>4347</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/6920260419_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/6920260420_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/6920260422_ip-kamera-videonablyudeniya.jpg</picture>
@@ -83,18 +83,29 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="7ee70c8bbabc39fbf27e571f76f4c306">автоматичний</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Сонячна панель, двосторонній аудіозв'язок, нічне бачення, IP66 водонепроникний корпус</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="1cff4a1465014a822270759fbbfec31d">1920x1080 (FullHD)</param>
-    <param name="Комплектація" paramcode="767">IP камера VQ05 4G, сонячна панель, кронштейн для сонячної панелі, монтажний набір, інструкція англійською мовою, фірмова упаковка</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">6.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Діапазон робочих температур" paramcode="1648">50.0</param>
+    <param name="Живлення" paramcode="1661">3.7</param>
+    <param name="Тип об'єктива" paramcode="1917" valuecode="8099d684c0e03bc8a919444e6cdf1afd">фікс</param>
+    <param name="Споживана потужність" paramcode="244">3.0</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3">вулична, IP-камера</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="fba1ab83e1a3c73da64c1d7e9717104d">1920x1080 (Full HD)</param>
+    <param name="Автоматичне регулювання підсилення (AGC)" paramcode="5871" valuecode="398e4dcc7feb05521834a9f7750e97c3">є</param>
+    <param name="Баланс білого (AWB)" paramcode="5875" valuecode="a7028c499f9a3cc8831668d15fad88f9">є</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">30.0</param>
+    <param name="Застосування" paramcode="671" valuecode="c6001d52adb4c444dc99f400afa1585f,771488c6776228b226f78665bbda62cc">для вулиці, внутрішня</param>
+    <param name="Ступінь захисту оболонки відеокамери IP" paramcode="7032">66.0</param>
     <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="3b5a666b885e14158ea3a25b1140d00b,a42b989ef6c9bcb650d34b3491966da1">вбудований мікрофон, підсвітка</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24050">чорний</param>
-    <param name="Штрих код" paramcode="barcodes">2812388956</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi,cnfuazdqkuj91kr0">Wi-Fi, microSD</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_07594</param>
     <width>100</width>
     <height>150</height>
     <weight>1000</weight>
@@ -102,8 +113,8 @@
   </offer>
   <offer id="3_07834" available="true">
     <price>3295</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/7048440421_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7048440423_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7048440422_ip-kamera-videonablyudeniya.jpg</picture>
@@ -169,16 +180,32 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="7ee70c8bbabc39fbf27e571f76f4c306">автоматичний</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Тройная линза, каждый объектив 2 МП. Поддержка локального и облачного хранилища. Углы обзора: горизонтально 320°, вертикально 90°. Совместимость с приложением V380 Pro на iOS и Android. Инфракрасные и белые светодиоды для цветного изображения ночью. Умные оповещения и push-уведомления.</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="1cff4a1465014a822270759fbbfec31d">1920x1080 (FullHD)</param>
-    <param name="Комплектація" paramcode="767">IP камера 3L-R1 4G, Блок питания 220В, Инструкция на английском языке, Фирменная упаковка</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">6.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Світлофільтр" paramcode="13348" valuecode="9b1cc742c754cd937c9ef215609a908f">авто</param>
+    <param name="Живлення" paramcode="1661">220.0</param>
+    <param name="Тип об'єктива" paramcode="1917" valuecode="8099d684c0e03bc8a919444e6cdf1afd">фікс</param>
+    <param name="Кут огляду по вертикалі" paramcode="1961">90.0</param>
+    <param name="Кут огляду по горизонталі" paramcode="1964">320.0</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3">вулична, IP-камера</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="fba1ab83e1a3c73da64c1d7e9717104d">1920x1080 (Full HD)</param>
+    <param name="Баланс білого (AWB)" paramcode="5875" valuecode="a7028c499f9a3cc8831668d15fad88f9">є</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Спосіб монтажу" paramcode="6233" valuecode="92318411db13ca0d19af41703b1acbd0">зовнішній</param>
+    <param name="Тип матриці" paramcode="6643" valuecode="019e6960ddb750f4f0a0bc454141c7ea">CMOS</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">20.0</param>
+    <param name="Застосування" paramcode="671" valuecode="177ad1a218beb2b5a89e838fc0003a19">зовнішня</param>
+    <param name="Ступінь захисту оболонки відеокамери IP" paramcode="7032">66.0</param>
+    <param name="Комплектація" paramcode="767">IP камера 3L-R1 4G, Блок живлення 220В, Інструкція англійською мовою, Фірмова упаковка</param>
     <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="a42b989ef6c9bcb650d34b3491966da1,3b5a666b885e14158ea3a25b1140d00b,ed59d32aa7813a70e660f6b2d6de3d76">підсвітка, вбудований мікрофон, механічний привід стеження</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24050">чорний</param>
-    <param name="Штрих код" paramcode="barcodes">2902726130</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi">Wi-Fi</param>
+    <param name="Кількість мегапікселів матриці" paramcode="882">6.0</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
     <param name="Модель виробника (референцiя)" paramcode="producer_code">3_07834</param>
     <width>100</width>
@@ -188,8 +215,8 @@
   </offer>
   <offer id="3_08034" available="true">
     <price>803</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/7158192558_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7158192562_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7158192574_ip-kamera-videonablyudeniya.jpg</picture>
@@ -289,16 +316,27 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="18cb419049e739b91562a18e2b2dca26">фіксований</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Двостороннє аудіо, датчик руху, підтримка Android та IOS, запис на Micro SD, Wi-Fi підключення</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="1cff4a1465014a822270759fbbfec31d">1920x1080 (FullHD)</param>
-    <param name="Комплектація" paramcode="767">Wifi камера NJ PRO, IP360, блок живлення 220V, USB кабель, набір для кріплення, інструкція по налаштуванню англійською, упаковка</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">2.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Споживана потужність" paramcode="244">3</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Мінімальна освітленість (кольорова зйомка)" paramcode="3598">0.01</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3,06vxbw0myqqafas4">вулична, IP-камера, роботизована</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="fba1ab83e1a3c73da64c1d7e9717104d">1920x1080 (Full HD)</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Спосіб монтажу" paramcode="6233" valuecode="398a6b9abc98822a9d7fe357c9f3e646">внутрішній/для вулиці</param>
+    <param name="Фокус відеокамери" paramcode="6422">3.6</param>
+    <param name="Тип матриці" paramcode="6643" valuecode="019e6960ddb750f4f0a0bc454141c7ea">CMOS</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">20</param>
     <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="c3779c7429e7cf02ed6623a2822dd0e1,693c3349caaf6589576ef6bce0362a62,3b5a666b885e14158ea3a25b1140d00b">поворот на 360°, CMOS, вбудований мікрофон</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24051">білий</param>
-    <param name="Штрих код" paramcode="barcodes">2962220202</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi,cnfuazdqkuj91kr0">Wi-Fi, microSD</param>
+    <param name="Кількість мегапікселів матриці" paramcode="882">2.0</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
     <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08034</param>
     <width>100</width>
@@ -308,8 +346,8 @@
   </offer>
   <offer id="3_07103" available="true">
     <price>2454</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/6806891747_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/6806891719_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/6806891718_ip-kamera-videonablyudeniya.jpg</picture>
@@ -385,26 +423,34 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="7ee70c8bbabc39fbf27e571f76f4c306">автоматичний</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Два об'єктиви 3MP, автоматичне відстеження руху, двосторонній голосовий зв'язок, водонепроникність IP66</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="9407280aebcee565b7e4f7a6f241e4ec">2592x1944</param>
-    <param name="Комплектація" paramcode="767">IP Camera P7-QQ6 з двома об'єктивами, блок живлення 220В, кріплення та монтажні гвинти, інструкція користувача англійською мовою, фірмова упаковка</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">3.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Кут огляду по вертикалі" paramcode="1961">90.0</param>
+    <param name="Кут огляду по горизонталі" paramcode="1964">270.0</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="a5c86d7106752d161b241b29c5dbe39c,02e9e2f0a94b3e55eaaeb62c7ff7a818">провідний, безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3">вулична, IP-камера</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="ba1dcf6ef7cad56cd93acc2b0fd54d7b,85aedd73ced56ce47f2ea9e7b8ccbeca,8774c9e872cd96c6f630c1ceb53df3c7">2048х1536, 2304x1536, 2592x1944</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Спосіб монтажу" paramcode="6233" valuecode="398a6b9abc98822a9d7fe357c9f3e646">внутрішній/для вулиці</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">20.0</param>
+    <param name="Застосування" paramcode="671" valuecode="f9326d38e03317cc4f29d5286620eb6f">для вулиці/внутрішня</param>
+    <param name="Ступінь захисту оболонки відеокамери IP" paramcode="7032">66.0</param>
     <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="a42b989ef6c9bcb650d34b3491966da1,3b5a666b885e14158ea3a25b1140d00b">підсвітка, вбудований мікрофон</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24051">білий</param>
-    <param name="Штрих код" paramcode="barcodes">2733161684</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="d5914d0460061b9ed6a8b84ef1db119d,rufomhqi">RJ45, Wi-Fi</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
     <width>100</width>
     <height>150</height>
     <weight>500</weight>
-    <length>100</length>
+    <length>200</length>
   </offer>
   <offer id="3_07592" available="true">
     <price>1332</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/6920256822_ip-kamera-videonyanya.jpg</picture>
     <picture>https://images.prom.ua/6920256823_ip-kamera-videonyanya.jpg</picture>
     <picture>https://images.prom.ua/6920256821_ip-kamera-videonyanya.jpg</picture>
@@ -474,18 +520,26 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="7ee70c8bbabc39fbf27e571f76f4c306">автоматичний</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Підтримка WiFi 2,4 ГГц, панорамування 355°, нахил 90°, підтримка micro SD до 128 ГБ, двосторонній голосовий зв'язок, інтелектуальне виявлення гуманоїдів з ІІ, три налаштування нічного режиму.</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="6b0c6b8233e75f5ddb0a92a671a599e6">3840x2160 (Ultra HD 4K)</param>
-    <param name="Комплектація" paramcode="767">Відеоняня IP WiFi камера Q01-L, блок живлення 220в, USB кабель, фірмова упаковка.</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">8.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Кут огляду по вертикалі" paramcode="1961">90.0</param>
+    <param name="Кут огляду по горизонталі" paramcode="1964">60.0</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="5771b489e59cc51d47ee9e23f2467fb5,weqwrikv2sgmgtn3,06vxbw0myqqafas4">корпусна, IP-камера, роботизована</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="1e105b5d992d3e94ea6cc4afe672b2d2">3840x2160 (4K)</param>
+    <param name="Автоматичне регулювання підсилення (AGC)" paramcode="5871" valuecode="398e4dcc7feb05521834a9f7750e97c3">є</param>
+    <param name="Баланс білого (AWB)" paramcode="5875" valuecode="a7028c499f9a3cc8831668d15fad88f9">є</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">20.0</param>
+    <param name="Застосування" paramcode="671" valuecode="771488c6776228b226f78665bbda62cc">внутрішня</param>
     <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="ed59d32aa7813a70e660f6b2d6de3d76,c3779c7429e7cf02ed6623a2822dd0e1,3b5a666b885e14158ea3a25b1140d00b">механічний привід стеження, поворот на 360°, вбудований мікрофон</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24052">сірий</param>
-    <param name="Штрих код" paramcode="barcodes">2812388954</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi,cnfuazdqkuj91kr0">Wi-Fi, microSD</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <param name="Модель виробника (референцiя)" paramcode="producer_code">Q01-L</param>
     <width>100</width>
     <height>150</height>
     <weight>500</weight>
@@ -493,8 +547,8 @@
   </offer>
   <offer id="3_07593" available="true">
     <price>4309</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/6920258780_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/6920258777_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/6920258781_ip-kamera-videonablyudeniya.jpg</picture>
@@ -571,25 +625,43 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="7ee70c8bbabc39fbf27e571f76f4c306">автоматичний</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Двостороння голосова связь, водонепроникність IP66, підтримка 4G, нічна зйомка</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="1cff4a1465014a822270759fbbfec31d">1920x1080 (FullHD)</param>
-    <param name="Комплектація" paramcode="767">IP камера VQ06 4G, сонячна панель, кронштейн для сонячної панелі, монтажний набір, інструкція англійською мовою, фірмова упаковка</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">8.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Світлофільтр" paramcode="13348" valuecode="9b1cc742c754cd937c9ef215609a908f">авто</param>
+    <param name="Особливості" paramcode="2860">Возможность ночной съемки</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3">вулична, IP-камера</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Спосіб монтажу" paramcode="6233" valuecode="398a6b9abc98822a9d7fe357c9f3e646">внутрішній/для вулиці</param>
+    <param name="Тип матриці" paramcode="6643" valuecode="019e6960ddb750f4f0a0bc454141c7ea">CMOS</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">30.0</param>
+    <param name="Застосування" paramcode="671" valuecode="771488c6776228b226f78665bbda62cc,c6001d52adb4c444dc99f400afa1585f">внутрішня, для вулиці</param>
+    <param name="Ступінь захисту оболонки відеокамери IP" paramcode="7032">66.0</param>
+    <param name="Комплектація" paramcode="767">IP камера VQ06 4G, Сонячна панель, Кронштейн для сонячної панелі, Монтажний набір, Інструкція англійською мовою, Фірмова упаковка</param>
     <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="ed59d32aa7813a70e660f6b2d6de3d76,a42b989ef6c9bcb650d34b3491966da1,3b5a666b885e14158ea3a25b1140d00b">механічний привід стеження, підсвітка, вбудований мікрофон</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24050">чорний</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi,cnfuazdqkuj91kr0">Wi-Fi, microSD</param>
+    <param name="Особливості" paramcode="8484">Возможность ночной съемки</param>
+    <param name="Кількість мегапікселів матриці" paramcode="882">8.0</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>200</length>
+    <param name="Висота упаковки" paramcode="height">250.0</param>
+    <param name="Глибина упаковки" paramcode="length">300.0</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_07593</param>
+    <param name="Вага упаковки" paramcode="weight">1500.0</param>
+    <param name="Ширина упаковки" paramcode="width">150.0</param>
+    <width>160</width>
+    <height>260</height>
+    <weight>1600</weight>
+    <length>310</length>
   </offer>
   <offer id="3_07871" available="true">
     <price>2732</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/7067488107_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7067488106_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7067488105_ip-kamera-videonablyudeniya.jpg</picture>
@@ -665,18 +737,34 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="7ee70c8bbabc39fbf27e571f76f4c306">автоматичний</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Два об'єктива по 3 Мп, поворот на 360°, водонепроникний корпус IP66</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="9407280aebcee565b7e4f7a6f241e4ec">2592x1944</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">6.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Світлофільтр" paramcode="13348" valuecode="9b1cc742c754cd937c9ef215609a908f">авто</param>
+    <param name="Живлення" paramcode="1661">220.0</param>
+    <param name="Тип об'єктива" paramcode="1917" valuecode="8099d684c0e03bc8a919444e6cdf1afd">фікс</param>
+    <param name="Особливості" paramcode="2860">Возможность ночной съемки, Для улицы, Запись звука</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="5771b489e59cc51d47ee9e23f2467fb5,weqwrikv2sgmgtn3">корпусна, IP-камера</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="ba1dcf6ef7cad56cd93acc2b0fd54d7b,85aedd73ced56ce47f2ea9e7b8ccbeca,8774c9e872cd96c6f630c1ceb53df3c7">2048х1536, 2304x1536, 2592x1944</param>
+    <param name="Баланс білого (AWB)" paramcode="5875" valuecode="a7028c499f9a3cc8831668d15fad88f9">є</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Спосіб монтажу" paramcode="6233" valuecode="398a6b9abc98822a9d7fe357c9f3e646">внутрішній/для вулиці</param>
+    <param name="Тип матриці" paramcode="6643" valuecode="019e6960ddb750f4f0a0bc454141c7ea">CMOS</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">20.0</param>
+    <param name="Застосування" paramcode="671" valuecode="771488c6776228b226f78665bbda62cc,c6001d52adb4c444dc99f400afa1585f">внутрішня, для вулиці</param>
+    <param name="Ступінь захисту оболонки відеокамери IP" paramcode="7032">66.0</param>
     <param name="Комплектація" paramcode="767">IP WiFi камера V35, Блок живлення 220V, Кріплення, Фірмова упаковка</param>
     <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="c3779c7429e7cf02ed6623a2822dd0e1,a42b989ef6c9bcb650d34b3491966da1,3b5a666b885e14158ea3a25b1140d00b">поворот на 360°, підсвітка, вбудований мікрофон</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24050">чорний</param>
-    <param name="Штрих код" paramcode="barcodes">2918101818</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi">Wi-Fi</param>
+    <param name="Особливості" paramcode="8484">Возможность ночной съемки, Для улицы, Запись звука</param>
+    <param name="Кількість мегапікселів матриці" paramcode="882">6.0</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_07871</param>
     <width>100</width>
     <height>150</height>
     <weight>500</weight>
@@ -684,8 +772,8 @@
   </offer>
   <offer id="3_07872" available="true">
     <price>3971</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/7067491497_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7067491496_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7067491494_ip-kamera-videonablyudeniya.jpg</picture>
@@ -801,27 +889,42 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="18cb419049e739b91562a18e2b2dca26">фіксований</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Два об'єктиви 2MP+2MP, PTZ-управління, сонячна панель, акумулятор 8000 мАг, кольорове нічне бачення, PIR-датчик</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="1cff4a1465014a822270759fbbfec31d">1920x1080 (FullHD)</param>
-    <param name="Комплектація" paramcode="767">IP камера LD010 4G, сонячна панель, кронштейн, монтажний набір, інструкція англійською, упаковка</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">4.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Світлофільтр" paramcode="13348" valuecode="9b1cc742c754cd937c9ef215609a908f">авто</param>
+    <param name="Тип об'єктива" paramcode="1917" valuecode="8099d684c0e03bc8a919444e6cdf1afd">фікс</param>
+    <param name="Особливості" paramcode="2860">Возможность ночной съемки, Для улицы, Запись звука</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3">вулична, IP-камера</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="fba1ab83e1a3c73da64c1d7e9717104d">1920x1080 (Full HD)</param>
+    <param name="Баланс білого (AWB)" paramcode="5875" valuecode="a7028c499f9a3cc8831668d15fad88f9">є</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Спосіб монтажу" paramcode="6233" valuecode="398a6b9abc98822a9d7fe357c9f3e646">внутрішній/для вулиці</param>
+    <param name="Фокус відеокамери" paramcode="6422">4.0</param>
+    <param name="Екранне меню (OSD)" paramcode="6458" valuecode="d5078dcc941aedc9f5286ec1586390fa">є</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">20.0</param>
+    <param name="Застосування" paramcode="671" valuecode="c6001d52adb4c444dc99f400afa1585f,771488c6776228b226f78665bbda62cc">для вулиці, внутрішня</param>
+    <param name="Комплектація" paramcode="767">IP камера LD010 4G, Сонячна панель, Кронштейн, Монтажний набір, Інструкція англійською, Упаковка</param>
     <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="3b5a666b885e14158ea3a25b1140d00b,a42b989ef6c9bcb650d34b3491966da1">вбудований мікрофон, підсвітка</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24050">чорний</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi">Wi-Fi</param>
+    <param name="Особливості" paramcode="8484">Возможность ночной съемки, Для улицы, Запись звука</param>
+    <param name="Кількість мегапікселів матриці" paramcode="882">4.0</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Штрих код" paramcode="barcodes">2918101819</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_07872</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1000</weight>
-    <length>200</length>
+    <width>150</width>
+    <height>250</height>
+    <weight>1500</weight>
+    <length>150</length>
   </offer>
   <offer id="3_08090" available="true">
     <price>3333</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/7286022453_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7286022454_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7286022458_ip-kamera-videonablyudeniya.jpg</picture>
@@ -903,16 +1006,25 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="7ee70c8bbabc39fbf27e571f76f4c306">автоматичний</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Двосторонній аудіо канал, Нічна зйомка, Поворот 350°, Нахил 90°, Інфрачервона підсвітка до 25 м</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="1cff4a1465014a822270759fbbfec31d">1920x1080 (FullHD)</param>
-    <param name="Комплектація" paramcode="767">Камера відеоспостереження Q821, Блок живлення, Кріплення, Інструкція англійською, Фірмова упаковка</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">4.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Діапазон робочих температур" paramcode="1648">75.0</param>
+    <param name="Тип об'єктива" paramcode="1917" valuecode="3b8a0e81e8c344cc3641e9edee5e4cb3">зум</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3">вулична, IP-камера</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="fba1ab83e1a3c73da64c1d7e9717104d">1920x1080 (Full HD)</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">25.0</param>
+    <param name="Застосування" paramcode="671" valuecode="c6001d52adb4c444dc99f400afa1585f">для вулиці</param>
     <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="3b5a666b885e14158ea3a25b1140d00b,a42b989ef6c9bcb650d34b3491966da1">вбудований мікрофон, підсвітка</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24050">чорний</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi">Wi-Fi</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">Q821</param>
     <width>100</width>
     <height>150</height>
     <weight>500</weight>
@@ -920,8 +1032,8 @@
   </offer>
   <offer id="3_08089" available="true">
     <price>1325</price>
-    <category code="192">Веб-камери</category>
-    <attribute_set code="192">Веб-камери</attribute_set>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
     <picture>https://images.prom.ua/7285998101_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7285998109_ip-kamera-videonablyudeniya.jpg</picture>
     <picture>https://images.prom.ua/7285998089_ip-kamera-videonablyudeniya.jpg</picture>
@@ -1012,15 +1124,34 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Фокус" paramcode="11083" valuecode="e04881f4d0995d8ab21578217c12812a">ручний</param>
-    <param name="Кріплення" paramcode="11095" valuecode="5a9c251cac4c65997c03a89ef6aabe3a">універсальне</param>
-    <param name="Додаткові характеристики" paramcode="2771">Поворот на 350° по горизонталі, 90° по вертикалі, захист від вологи IP66, нічне бачення</param>
-    <param name="Максимальна роздільна здатність" paramcode="3918" valuecode="1cff4a1465014a822270759fbbfec31d">1920x1080 (FullHD)</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">2.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Діапазон робочих температур" paramcode="1648">-20, 50</param>
+    <param name="Живлення" paramcode="1661">12</param>
+    <param name="Кут огляду по вертикалі" paramcode="1961">90</param>
+    <param name="Кут огляду по горизонталі" paramcode="1964">350</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Мінімальна освітленість (ч/б зйомка)" paramcode="3597">0.1</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3,06vxbw0myqqafas4">вулична, IP-камера, роботизована</param>
+    <param name="Матеріал" paramcode="52" valuecode="163f1744c899418d7d33b81249436386">метал/пластик</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="fba1ab83e1a3c73da64c1d7e9717104d">1920x1080 (Full HD)</param>
+    <param name="Автоматичне регулювання підсилення (AGC)" paramcode="5871" valuecode="398e4dcc7feb05521834a9f7750e97c3">є</param>
+    <param name="Баланс білого (AWB)" paramcode="5875" valuecode="a7028c499f9a3cc8831668d15fad88f9">є</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Фокус відеокамери" paramcode="6422">3.6</param>
+    <param name="Тип матриці" paramcode="6643" valuecode="019e6960ddb750f4f0a0bc454141c7ea">CMOS</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">20</param>
+    <param name="Розмір матриці" paramcode="6715" valuecode="b4fd01b42d827017de26f70718a30d15">1/4&amp;quot;</param>
+    <param name="Ступінь захисту оболонки відеокамери IP" paramcode="7032">66</param>
     <param name="Комплектація" paramcode="767">WiFi камера для зовнішнього відеоспостереження UKC V5, Набір для кріплення, Мережевий адаптер 220В, Інструкція з експлуатації англійською мовою, Заводська упаковка</param>
     <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
-    <param name="Особливості веб-камери" paramcode="935" valuecode="693c3349caaf6589576ef6bce0362a62,a42b989ef6c9bcb650d34b3491966da1,3b5a666b885e14158ea3a25b1140d00b">CMOS, підсвітка, вбудований мікрофон</param>
-    <param name="Базовий колір" paramcode="9640" valuecode="24051">білий</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi,p0ybj3nh">Wi-Fi, SD</param>
+    <param name="Кількість мегапікселів матриці" paramcode="882">2.0</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
     <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08089</param>
     <width>100</width>
@@ -1028,420 +1159,10 @@
     <weight>500</weight>
     <length>100</length>
   </offer>
-  <offer id="3_07519" available="true">
-    <price>2094</price>
-    <category code="2865">Автоакустика</category>
-    <attribute_set code="2865">Автоакустика</attribute_set>
-    <picture>https://images.prom.ua/6916296739_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916296738_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916296748_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916296737_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916296736_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916296749_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916296750_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916296751_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916297002_avtomobilnye-kolonki-rias.jpg</picture>
-    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
-    <name lang="ru">Автомобильные колонки RIAS TS-6995 коаксиальные 2-полосные 6x9 см 900W Black (3_07519)</name>
-    <name lang="ua">Автомобільні колонки RIAS TS-6995  коаксіальні 2-смугові 6x9 900W Black (3_07519)</name>
-    <description lang="ru"><![CDATA[<p><b><strong>Автомобильные колонки RIAS TS-6995 коаксиальные овалы 6x9 900W</strong></b></p>
-<p>Автомобильные колонки RIAS TS-6995 — это мощная овальная акустическая система, предназначенная для установки в автомобили. Они обеспечивают широкий диапазон звука с насыщенными басами и динамичным звучанием благодаря высокой чувствительности и новым диффузорам со слюдяными вкраплениями. Резиновая окантовка диффузора обеспечивает долговечность и качество звучания. Эти динамики идеально подходят как для подключения к штатной магнитоле, так и к автомобильному усилителю, обеспечивая громкий и мощный бас.</p>
-<p><b><strong>Преимущества:</strong></b></p>
-<ul>
-<li>Высокая мощность до 900 Вт для насыщенного звучания.</li>
-<li>Легкость установки под заднее стекло автомобиля.</li>
-<li>Идеально подходят для автомобилей типа седан.</li>
-<li>Высокая чувствительность и качественные материалы для лучшего звука.</li>
-</ul>
-<p><b><strong>Характеристики:</strong></b></p>
-<ul>
-<li>Модель: TS-6995</li>
-<li>Тип: коаксиальная</li>
-<li>Серия: TS</li>
-<li>Типоразмер: эллиптический</li>
-<li>Количество полос: 2-х полосная</li>
-<li>Размер динамика: 6 x 9" (150 x 230 мм)</li>
-<li>Максимальная мощность: 900 Вт</li>
-<li>Номинальная мощность: 90 Вт</li>
-<li>Импеданс: 4 Ом</li>
-<li>Диапазон частот: 27-37000 Гц</li>
-</ul>
-<p><b><strong>Комплектация:</strong></b></p>
-<ul>
-<li>Динамики TS-6995: 2 шт.</li>
-<li>Упаковка</li>
-</ul>
-<p>Автомобильные колонки RIAS TS-6995 — это идеальный выбор для тех, кто ценит мощное и качественное звучание в автомобиле. Установка этих колонок принесет настоящее удовольствие от прослушивания музыки.</p>]]></description>
-    <description lang="ua"><![CDATA[<p><b><strong>Автомобільні колонки RIAS TS-6995 коаксіальні овали 6x9 900W</strong></b></p>
-<p>Автомобільні колонки RIAS TS-6995 — це потужна овальна акустична система, призначена для встановлення в автомобілі. Вони забезпечують широкий діапазон звуку з насиченими басами і динамічним звучанням завдяки високій чутливості і новим дифузорам зі слюдяними вкрапленнями. Гумова окантовка дифузора забезпечує довговічність і якість звучання. Ці динаміки ідеально підходять як для підключення до штатної магнітоли, так і до автомобільного підсилювача, забезпечуючи гучний і потужний бас.</p>
-<p><b><strong>Переваги:</strong></b></p>
-<ul>
-<li>Висока потужність до 900 Вт для насиченого звучання.</li>
-<li>Легкість встановлення під заднє скло автомобіля.</li>
-<li>Ідеально підходять для автомобілів типу седан.</li>
-<li>Висока чутливість і якісні матеріали для кращого звуку.</li>
-</ul>
-<p><b><strong>Характеристики:</strong></b></p>
-<ul>
-<li>Модель: TS-6995</li>
-<li>Тип: коаксіальна</li>
-<li>Серія: TS</li>
-<li>Типорозмір: еліптичний</li>
-<li>Кількість смуг: 2-х смугова</li>
-<li>Розмір динаміка: 6 x 9" (150 x 230 мм)</li>
-<li>Максимальна потужність: 900 Вт</li>
-<li>Номінальна потужність: 90 Вт</li>
-<li>Імпеданс: 4 Ом</li>
-<li>Діапазон частот: 27-37000 Гц</li>
-</ul>
-<p><b><strong>Комплектація:</strong></b></p>
-<ul>
-<li>Динаміки TS-6995: 2 шт.</li>
-<li>Упаковка</li>
-</ul>
-<p>Автомобільні колонки RIAS TS-6995 — це ідеальний вибір для тих, хто цінує потужне та якісне звучання в автомобілі. Встановлення цих колонок принесе справжнє задоволення від прослуховування музики.</p>]]></description>
-    <country_of_origin>Китай</country_of_origin>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Матеріал динаміка" paramcode="12078" valuecode="01c4b5773164e057c1d846804b010501">слюда</param>
-    <param name="Діаметр НЧ динаміка" paramcode="12079" valuecode="70d16665257b4b1884dd71c8a9021f1e">150х230</param>
-    <param name="Захисна решітка" paramcode="12080" valuecode="d8184ffec755d6dde22618cde6882d0f">немає</param>
-    <param name="Типовий розмір" paramcode="12082">6x9</param>
-    <param name="Особливості" paramcode="130" valuecode="c76016c9bfc531c21ffddc68085cba7d">резиновий підвіс диффузора</param>
-    <param name="Кількість смуг" paramcode="1379" valuecode="58b29d4c1776cfa534300f3be07f7405">двосмугові</param>
-    <param name="Номінальний опір" paramcode="1412">4</param>
-    <param name="Тип акустичної системи" paramcode="1414" valuecode="3ee07b160799db31cfe084c0f79ef836">коаксиальна</param>
-    <param name="Кількість в упаковці" paramcode="2872">2</param>
-    <param name="Форма" paramcode="2995" valuecode="80751bedc57bdeebad64b18c995d4f5f">овальна</param>
-    <param name="Номінальна потужність" paramcode="372">90</param>
-    <param name="Максимальна потужність" paramcode="5551">900</param>
-    <param name="Діапазон частот" paramcode="6961">27-37000</param>
-    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <width>250</width>
-    <height>100</height>
-    <weight>2000</weight>
-    <length>170</length>
-  </offer>
-  <offer id="3_08027" available="true">
-    <price>576</price>
-    <category code="2865">Автоакустика</category>
-    <attribute_set code="2865">Автоакустика</attribute_set>
-    <picture>https://images.prom.ua/7158086123_avtomobilnye-kolonki-tiaoping.jpg</picture>
-    <picture>https://images.prom.ua/7158086108_avtomobilnye-kolonki-tiaoping.jpg</picture>
-    <picture>https://images.prom.ua/7158086112_avtomobilnye-kolonki-tiaoping.jpg</picture>
-    <picture>https://images.prom.ua/7158086114_avtomobilnye-kolonki-tiaoping.jpg</picture>
-    <picture>https://images.prom.ua/7158086116_avtomobilnye-kolonki-tiaoping.jpg</picture>
-    <picture>https://images.prom.ua/7158086120_avtomobilnye-kolonki-tiaoping.jpg</picture>
-    <picture>https://images.prom.ua/7158086117_avtomobilnye-kolonki-tiaoping.jpg</picture>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <name lang="ru">Автомобильные колонки Tiaoping TP-006A высокочастотные твитеры 150W 2 шт Black (3_08027)</name>
-    <name lang="ua">Автомобільні колонки Tiaoping TP-006A високочастотні твітери 150W 2 шт Black (3_08027)</name>
-    <description lang="ru"><![CDATA[<p><b><strong>Автомобильные колонки Tiaoping TP-006A высокочастотные твитеры 150W 2 шт</strong></b></p>
-
-<p>Пищалки Tiaoping TP-006A — это высококачественные высокочастотные динамики, которые идеально дополнят верхний частотный диапазон аудиосистемы вашего автомобиля. Эти твитеры обеспечивают чистый и качественный звуковой фон, что значительно повышает комфорт во время поездок. Максимальная мощность составляет 150 Вт, а долговременная номинальная мощность — 20 Вт. Высококачественные материалы диффузора обеспечивают долгий срок службы устройства. Tiaoping TP-006A — это отличное сочетание качества и доступной цены.</p>
-
-<p><b><strong>Преимущества:</strong></b></p>
-
-<ul>
-<li>Чистый и качественный звук</li>
-<li>Максимальная мощность 150 Вт</li>
-<li>Долговечные материалы диффузора</li>
-<li>Легкий монтаж в салон автомобиля</li>
-<li>Надежная защита динамиков стальной сеткой</li>
-</ul>
-
-<p><b><strong>Характеристики:</strong></b></p>
-
-<ul>
-<li>Тип: Твитер</li>
-<li>Форма: Круглая</li>
-<li>Номинальная мощность: 20 Вт</li>
-<li>Максимальная мощность: 150 Вт</li>
-<li>Импеданс: 4 Ом</li>
-<li>Количество динамиков: 2</li>
-<li>Диаметр: 41 мм</li>
-<li>Материал диафрагмы: PEI</li>
-<li>Чувствительность: 105 дБ / Вт / м</li>
-<li>Частотный диапазон: 3000-20000 Гц</li>
-<li>Вес: 240 г</li>
-</ul>
-
-<p><b><strong>Комплектация:</strong></b></p>
-
-<ul>
-<li>Пищалки Tiaoping TP-006A твитеры 150W</li>
-<li>Провода</li>
-<li>Фирменная упаковка</li>
-</ul>]]></description>
-    <description lang="ua"><![CDATA[<p><b><strong>Автомобільні колонки Tiaoping TP-006A високочастотні твітери 150W 2 шт</strong></b></p>
-
-<p>Пищалки Tiaoping TP-006A — це високоякісні високочастотні динаміки, які ідеально доповнять верхній частотний діапазон аудіосистеми вашого автомобіля. Ці твітери забезпечують чистий і якісний звуковий фон, що значно підвищує комфорт під час поїздок. Максимальна потужність становить 150 Вт, а довготривала номінальна потужність — 20 Вт. Високоякісні матеріали дифузора забезпечують довгий термін служби пристрою. Tiaoping TP-006A — це відмінне поєднання якості та доступної ціни.</p>
-
-<p><b><strong>Переваги:</strong></b></p>
-
-<ul>
-<li>Чистий і якісний звук</li>
-<li>Максимальна потужність 150 Вт</li>
-<li>Довговічні матеріали дифузора</li>
-<li>Легкий монтаж в салон автомобіля</li>
-<li>Надійний захист динаміків сталевою сіткою</li>
-</ul>
-
-<p><b><strong>Характеристики:</strong></b></p>
-
-<ul>
-<li>Тип: Твітер</li>
-<li>Форма: Кругла</li>
-<li>Номінальна потужність: 20 Вт</li>
-<li>Максимальна потужність: 150 Вт</li>
-<li>Імпеданс: 4 Ом</li>
-<li>Кількість динаміків: 2</li>
-<li>Діаметр: 41 мм</li>
-<li>Матеріал діафрагми: PEI</li>
-<li>Чутливість: 105 дБ / Вт / м</li>
-<li>Частотний діапазон: 3000-20000 Гц</li>
-<li>Вага: 240 г</li>
-</ul>
-
-<p><b><strong>Комплектація:</strong></b></p>
-
-<ul>
-<li>Пищалки Tiaoping TP-006A твітери 150W</li>
-<li>Проводи</li>
-<li>Фірмова упаковка</li>
-</ul>]]></description>
-    <country_of_origin>Китай</country_of_origin>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Матеріал динаміка" paramcode="12078" valuecode="da3155e29504c1cd2a4f374b30c8680b">поліефіремід</param>
-    <param name="Захисна решітка" paramcode="12080" valuecode="ef8fbcfc7f1aeb633c9d97a9d59a5985">є</param>
-    <param name="Типовий розмір" paramcode="12082">1.5</param>
-    <param name="Особливості" paramcode="130" valuecode="3eea8e7b4b52e33220139ce3e1e93128">матеріал ВЧ-динаміка PEI</param>
-    <param name="Кількість смуг" paramcode="1379" valuecode="e5570cc425511bd4d32cb785ef4a3596">односмугові</param>
-    <param name="Номінальний опір" paramcode="1412">4.0</param>
-    <param name="Тип акустичної системи" paramcode="1414" valuecode="eaef01983563d15a2c718d16a8cebea6">твітери</param>
-    <param name="Кількість в упаковці" paramcode="2872">2.0</param>
-    <param name="Форма" paramcode="2995" valuecode="3668ea6511a3bcb74282488f33da4486">кругла</param>
-    <param name="Номінальна потужність" paramcode="372">20.0</param>
-    <param name="Максимальна потужність" paramcode="5551">150.0</param>
-    <param name="Діапазон частот" paramcode="6961">3000-20000</param>
-    <param name="Чутливість" paramcode="890">105.0</param>
-    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <width>50</width>
-    <height>50</height>
-    <weight>240</weight>
-    <length>50</length>
-  </offer>
-  <offer id="3_07518" available="true">
-    <price>2094</price>
-    <category code="2865">Автоакустика</category>
-    <attribute_set code="2865">Автоакустика</attribute_set>
-    <picture>https://images.prom.ua/6916292834_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292829_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292832_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292830_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292828_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292838_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292831_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292836_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292837_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6916292835_avtomobilnye-kolonki-rias.jpg</picture>
-    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
-    <name lang="ru">Автомобильные колонки RIAS TS-6973B коаксиальные 2-полосные 6x9 см 900W Black (3_07518)</name>
-    <name lang="ua">Автомобільні колонки RIAS TS-6973B коаксіальні 2-смугові 6x9 см 900W Black (3_07518)</name>
-    <description lang="ru"><![CDATA[<p><b><strong>Автомобильные колонки RIAS TS-6973B коаксиальные 4-полосные 900W 6x9 см</strong></b></p>
-<p>Автомобильные колонки RIAS TS-6973B представляют собой 4-х полосную коаксиальную акустическую систему с мощностью 900 Вт. Эти колонки обеспечивают качественное и чистое звучание благодаря двум встроенным твитерам. Стильный дизайн и высокая мощность делают их отличным выбором для любителей громкой и качественной музыки.</p>
-<p><b><strong>Преимущества:</strong></b></p>
-<ul>
-<li>Качественное и чистое звучание благодаря двум твитерам.</li>
-<li>Высокая мощность до 900 Вт для громкого звука.</li>
-<li>Стильный и современный дизайн.</li>
-<li>Подходит для установки в автомобили с овальными местами под динамики.</li>
-</ul>
-<p><b><strong>Характеристики:</strong></b></p>
-<ul>
-<li>Тип: Коаксиальная АС</li>
-<li>Форма: Овальная</li>
-<li>Номинальная мощность: 90 Вт</li>
-<li>Импеданс: 4 Ом</li>
-<li>Типоразмер: 16"</li>
-<li>Встроенный усилитель: Нет</li>
-<li>Корпус сабвуфера: Да</li>
-<li>Максимальная мощность: 900 Вт</li>
-<li>Количество полос: 2</li>
-<li>Количество динамиков: 2</li>
-<li>Чувствительность: 93 дБ</li>
-<li>Диапазон частоты: от 25 Гц до 35000 Гц</li>
-<li>Материал магнита: Феррит</li>
-<li>Вид сабвуфера: Пасивный</li>
-</ul>
-<p><b><strong>Комплектация:</strong></b></p>
-<ul>
-<li>Овальная колонка TS-6973B – 2 шт</li>
-<li>Провод подключения – 2 шт</li>
-<li>Фирменная коробка – 1 шт</li>
-</ul>
-<p>Автомобильные колонки RIAS TS-6973B — это идеальный выбор для тех, кто ценит качество звука и стильный дизайн. Они подарят вам незабываемые эмоции от прослушивания любимой музыки.</p>]]></description>
-    <description lang="ua"><![CDATA[<p><b><strong>Автомобільні колонки RIAS TS-6973B коаксіальні 4-смугові 900W 6x9 см</strong></b></p>
-<p>Автомобільні колонки RIAS TS-6973B представляють собою 4-смугову коаксіальну акустичну систему з потужністю 900 Вт. Ці колонки забезпечують якісне і чисте звучання завдяки двом вбудованим твітерам. Стильний дизайн і висока потужність роблять їх відмінним вибором для любителів гучної та якісної музики.</p>
-<p><b><strong>Переваги:</strong></b></p>
-<ul>
-<li>Якісне і чисте звучання завдяки двом твітерам.</li>
-<li>Висока потужність до 900 Вт для гучного звуку.</li>
-<li>Стильний та сучасний дизайн.</li>
-<li>Підходить для встановлення в автомобілі з овальними місцями під динаміки.</li>
-</ul>
-<p><b><strong>Характеристики:</strong></b></p>
-<ul>
-<li>Тип: Коаксіальна АС</li>
-<li>Форма: Овальна</li>
-<li>Номінальна потужність: 90 Вт</li>
-<li>Імпеданс: 4 Ом</li>
-<li>Типорозмір: 16"</li>
-<li>Вбудований підсилювач: Ні</li>
-<li>Корпус сабвуфера: Так</li>
-<li>Максимальна потужність: 900 Вт</li>
-<li>Кількість смуг: 2</li>
-<li>Кількість динаміків: 2</li>
-<li>Чутливість: 93 дБ</li>
-<li>Діапазон частоти: від 25 Гц до 35000 Гц</li>
-<li>Матеріал магніту: Ферит</li>
-<li>Вид сабвуфера: Пасивний</li>
-</ul>
-<p><b><strong>Комплектація:</strong></b></p>
-<ul>
-<li>Овальна колонка TS-6973B – 2 шт</li>
-<li>Провід підключення – 2 шт</li>
-<li>Фірмова коробка – 1 шт</li>
-</ul>
-<p>Автомобільні колонки RIAS TS-6973B — це ідеальний вибір для тих, хто цінує якість звуку та стильний дизайн. Вони подарують вам незабутні емоції від прослуховування улюбленої музики.</p>]]></description>
-    <country_of_origin>Китай</country_of_origin>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Матеріал магніта" paramcode="12077" valuecode="f6f42e47365e0e7c139e6a03ef012149">ферит</param>
-    <param name="Діаметр НЧ динаміка" paramcode="12079" valuecode="d98b762207df2f14e8c42373c7c8750b">160х230</param>
-    <param name="Захисна решітка" paramcode="12080" valuecode="d8184ffec755d6dde22618cde6882d0f">немає</param>
-    <param name="Типовий розмір" paramcode="12082">6, 9</param>
-    <param name="Особливості" paramcode="130" valuecode="eeae8d88607d5edc9a966536599c78dd,08a40c07b17fb6536dec2256603f7f89">два СВЧ-динаміка, 2-смугова коаксіальна колонка</param>
-    <param name="Кількість смуг" paramcode="1379" valuecode="58b29d4c1776cfa534300f3be07f7405">двосмугові</param>
-    <param name="Номінальний опір" paramcode="1412">4.0</param>
-    <param name="Тип акустичної системи" paramcode="1414" valuecode="3ee07b160799db31cfe084c0f79ef836">коаксиальна</param>
-    <param name="Кількість в упаковці" paramcode="2872">2.0</param>
-    <param name="Форма" paramcode="2995" valuecode="80751bedc57bdeebad64b18c995d4f5f">овальна</param>
-    <param name="Номінальна потужність" paramcode="372">90.0</param>
-    <param name="Максимальна потужність" paramcode="5551">900.0</param>
-    <param name="Діапазон частот" paramcode="6961">25-35000</param>
-    <param name="Чутливість" paramcode="890">93.0</param>
-    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <width>250</width>
-    <height>100</height>
-    <weight>2000</weight>
-    <length>350</length>
-  </offer>
-  <offer id="3_07754" available="true">
-    <price>1470</price>
-    <category code="2865">Автоакустика</category>
-    <attribute_set code="2865">Автоакустика</attribute_set>
-    <picture>https://images.prom.ua/6966989578_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6966989567_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6966989577_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6966989580_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6966989561_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6966989579_avtomobilnye-kolonki-rias.jpg</picture>
-    <picture>https://images.prom.ua/6966989572_avtomobilnye-kolonki-rias.jpg</picture>
-    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
-    <name lang="ru">Автомобильные колонки RIAS TS-A1695S 16 см двухполосные 350W Black (3_07754)</name>
-    <name lang="ua">Автомобільні колонки RIAS TS-A1695S 16 см двосмугові 350W Black (3_07754)</name>
-    <description lang="ru"><![CDATA[<p><b><strong>Автомобильные колонки RIAS TS-A1695S 16 см двухполосные 350W</strong></b></p>
-<p>Автомобильные колонки RIAS TS-A1695S — это качественная акустическая система, которая обеспечит превосходное звучание вашей любимой музыки в автомобиле. Эти 16-сантиметровые двухполосные динамики обладают оригинальным и стильным дизайном, который не оставит равнодушным ни одного автолюбителя. С максимальной мощностью в 350 Вт они способны воспроизводить достаточно громкий и чистый звук.</p>
-<p><b><strong>Преимущества:</strong></b></p>
-<ul>
-<li>Высокое качество звучания для вашей любимой музыки.</li>
-<li>Оригинальный и стильный дизайн.</li>
-<li>Простота установки и подключения.</li>
-<li>Долговечность и надежность в использовании.</li>
-</ul>
-<p><b><strong>Характеристики:</strong></b></p>
-<ul>
-<li>Диаметр динамика: 160 мм</li>
-<li>Диаметр внутреннего динамика: 30 мм</li>
-<li>Диаметр магнита: 75 мм</li>
-<li>Импеданс: 4 Ом</li>
-<li>Чувствительность: 90 дБ ± 1,5 дБ</li>
-<li>Частотный диапазон: 60 - 22000 Гц</li>
-<li>Максимальная музыкальная мощность: 350 Вт</li>
-<li>Максимальная номинальная мощность: 30 Вт</li>
-</ul>
-<p><b><strong>Комплектация:</strong></b></p>
-<ul>
-<li>2 динамика TS-A1695S</li>
-<li>Провода для подключения</li>
-<li>Упаковка</li>
-</ul>
-<p>Автомобильные колонки RIAS TS-A1695S — это идеальный выбор для тех, кто ценит качественный звук и стильный дизайн в своем автомобиле.</p>]]></description>
-    <description lang="ua"><![CDATA[<p><b><strong>Автомобільні колонки RIAS TS-A1695S 16 см двосмугові 350W</strong></b></p>
-<p>Автомобільні колонки RIAS TS-A1695S — це якісна акустична система, яка забезпечить чудове звучання вашої улюбленої музики в автомобілі. Ці 16-сантиметрові двосмугові динаміки мають оригінальний і стильний дизайн, який не залишить байдужим жодного автолюбителя. З максимальною потужністю у 350 Вт вони здатні відтворювати достатньо гучний і чистий звук.</p>
-<p><b><strong>Переваги:</strong></b></p>
-<ul>
-<li>Висока якість звучання для вашої улюбленої музики.</li>
-<li>Оригінальний і стильний дизайн.</li>
-<li>Простота встановлення та підключення.</li>
-<li>Довговічність і надійність у використанні.</li>
-</ul>
-<p><b><strong>Характеристики:</strong></b></p>
-<ul>
-<li>Діаметр динаміка: 160 мм</li>
-<li>Діаметр внутрішнього динаміка: 30 мм</li>
-<li>Діаметр магніту: 75 мм</li>
-<li>Імпеданс: 4 Ом</li>
-<li>Чутливість: 90 дБ ± 1,5 дБ</li>
-<li>Частотний діапазон: 60 - 22000 Гц</li>
-<li>Максимальна музична потужність: 350 Вт</li>
-<li>Максимальна номінальна потужність: 30 Вт</li>
-</ul>
-<p><b><strong>Комплектація:</strong></b></p>
-<ul>
-<li>2 динаміки TS-A1695S</li>
-<li>Проводи для підключення</li>
-<li>Упаковка</li>
-</ul>
-<p>Автомобільні колонки RIAS TS-A1695S — це ідеальний вибір для тих, хто цінує якісний звук і стильний дизайн у своєму автомобілі.</p>]]></description>
-    <country_of_origin>Китай</country_of_origin>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Матеріал магніта" paramcode="12077" valuecode="f6f42e47365e0e7c139e6a03ef012149">ферит</param>
-    <param name="Матеріал динаміка" paramcode="12078" valuecode="b52fe6684cda6f8a77af1bce8291ea2e">полімерний матеріал</param>
-    <param name="Діаметр НЧ динаміка" paramcode="12079" valuecode="4932ddcb242c6d0c3448252393c6e4c8">160</param>
-    <param name="Захисна решітка" paramcode="12080" valuecode="ef8fbcfc7f1aeb633c9d97a9d59a5985">є</param>
-    <param name="Типовий розмір" paramcode="12082">6</param>
-    <param name="Особливості" paramcode="130" valuecode="08a40c07b17fb6536dec2256603f7f89">2-смугова коаксіальна колонка</param>
-    <param name="Кількість смуг" paramcode="1379" valuecode="58b29d4c1776cfa534300f3be07f7405">двосмугові</param>
-    <param name="Номінальний опір" paramcode="1412">4</param>
-    <param name="Тип акустичної системи" paramcode="1414" valuecode="3ee07b160799db31cfe084c0f79ef836">коаксиальна</param>
-    <param name="Кількість в упаковці" paramcode="2872">2</param>
-    <param name="Форма" paramcode="2995" valuecode="3668ea6511a3bcb74282488f33da4486">кругла</param>
-    <param name="Номінальна потужність" paramcode="372">30</param>
-    <param name="Максимальна потужність" paramcode="5551">350</param>
-    <param name="Діапазон частот" paramcode="6961">60 - 22000</param>
-    <param name="Чутливість" paramcode="890">90</param>
-    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <width>180</width>
-    <height>180</height>
-    <weight>1500</weight>
-    <length>100</length>
-  </offer>
   <offer id="3_07881" available="true">
     <price>1293</price>
-    <category code="2932">Автомобільні аптечки</category>
-    <attribute_set code="2932">Автомобільні аптечки</attribute_set>
+    <category code="2964">Автопилососи</category>
+    <attribute_set code="2964">Автопилососи</attribute_set>
     <picture>https://images.prom.ua/7083806509_avtomobilnyj-pylesos-maxtop.jpg</picture>
     <picture>https://images.prom.ua/7083806511_avtomobilnyj-pylesos-maxtop.jpg</picture>
     <picture>https://images.prom.ua/7083806512_avtomobilnyj-pylesos-maxtop.jpg</picture>
@@ -1521,21 +1242,26 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Додаткові характеристики" paramcode="2771">Індикатор подзарядки батареи</param>
-    <param name="Призначення" paramcode="4342" valuecode="828cd2613c8b4ad0b4034cfb8147be0f,893f199cc6fe739f6a2fa1f93e57e6e3,d5bc34ad9f8bc38c578c3f55b398728a">для автомобіля, для дому, для підприємств та офісів</param>
-    <param name="Комплектація" paramcode="767">Автомобільний акумуляторний пилосос, Акумуляторна батарея, Зарядний пристрій, Подовжена щілинна насадка, Конічна вузька насадка, Широка насадка для поверхонь, Щітка для дрібних елементів, Перехідник, Інструкція з експлуатації, Заводське пакування</param>
-    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Особливості" paramcode="2290">Індикатор подзарядки батареи</param>
+    <param name="Комплектація" paramcode="6021">Автомобільний акумуляторний пилосос, Акумуляторна батарея, Зарядний пристрій, Подовжена щілинна насадка, Конічна вузька насадка, Широка насадка для поверхонь, Щітка для дрібних елементів, Перехідник, Інструкція з експлуатації, Заводське пакування</param>
+    <param name="Напруга живлення" paramcode="6100">48</param>
+    <param name="Тип пилозбірника" paramcode="6563" valuecode="6f81066544cd463a33a36dca36800d97">контейнер</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
     <param name="Модель виробника (референцiя)" paramcode="producer_code">3_07881</param>
     <width>100</width>
     <height>150</height>
-    <weight>1500</weight>
+    <weight>1000</weight>
     <length>300</length>
   </offer>
   <offer id="3_07880" available="true">
     <price>1274</price>
-    <category code="2932">Автомобільні аптечки</category>
-    <attribute_set code="2932">Автомобільні аптечки</attribute_set>
+    <category code="2964">Автопилососи</category>
+    <attribute_set code="2964">Автопилососи</attribute_set>
     <picture>https://images.prom.ua/7083806496_avtomobilnyj-pylesos-maxtop.jpg</picture>
     <picture>https://images.prom.ua/7083806493_avtomobilnyj-pylesos-maxtop.jpg</picture>
     <picture>https://images.prom.ua/7083806495_avtomobilnyj-pylesos-maxtop.jpg</picture>
@@ -1615,10 +1341,16 @@
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Додаткові характеристики" paramcode="2771">Індикатор подзарядки батареи</param>
-    <param name="Призначення" paramcode="4342" valuecode="828cd2613c8b4ad0b4034cfb8147be0f">для автомобіля</param>
-    <param name="Комплектація" paramcode="767">Автомобільний акумуляторний пилосос — 1 шт., Акумуляторна батарея — 1 шт., Змінні насадки — 5 шт., Інструкція з експлуатації — 1 шт.</param>
-    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Особливості" paramcode="2290">Індикатор подзарядки батареи</param>
+    <param name="Комплектація" paramcode="6021">Автомобільний акумуляторний пилосос — 1 шт., Акумуляторна батарея — 1 шт., Змінні насадки — 5 шт., Інструкція з експлуатації — 1 шт.</param>
+    <param name="Потужність" paramcode="6077">150</param>
+    <param name="Сила всмоктування" paramcode="6562">8500</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <param name="Штрих код" paramcode="barcodes">2929404477</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
     <param name="Модель виробника (референцiя)" paramcode="producer_code">MP-251</param>
     <width>100</width>
@@ -1626,183 +1358,717 @@
     <weight>1000</weight>
     <length>300</length>
   </offer>
-  <offer id="3_06870" available="true">
-    <price>557</price>
-    <category code="2826">Автошини</category>
-    <attribute_set code="2826">Автошини</attribute_set>
-    <picture>https://images.prom.ua/6758319676_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319678_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319680_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319682_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319684_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319686_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319688_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319690_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319692_setka-avtomobilnaya-rias.jpg</picture>
-    <picture>https://images.prom.ua/6758319694_setka-avtomobilnaya-rias.jpg</picture>
-    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
-    <name lang="ru">Сетка автомобильная RIAS LQP-F11 антимоскитная солнцезащитная 52x61 см 2 шт Black (3_06870)</name>
-    <name lang="ua">Сітка автомобільна RIAS LQP-F11 антимоскітна сонцезахисна 52x61 см 2 шт Black (3_06870)</name>
-    <description lang="ru"><![CDATA[<p><b><strong>Двойная автомобильная сетка для передних окон LQP-F11</strong></b></p>
-
-<p>Защита от солнца и насекомых с комфортом и удобством! Двойная автомобильная сетка предназначена для передних окон большинства легковых автомобилей. Легко устанавливается на дверь, не мешает опусканию стекла, позволяет свободно передавать предметы через окно и обеспечивает естественную вентиляцию без риска попадания насекомых.</p>
-
-<p><strong>Преимущества:</strong></p>
-
-<ul>
-<li>Защита от комаров, мух и других насекомых;</li>
-<li>Защита от прямых солнечных лучей;</li>
-<li>Снижение температуры в салоне;</li>
-<li>Поддержание приватности (меньше видно внутрь);</li>
-<li>Простая установка — без липких лент и присосок;</li>
-<li>Можно опускать стекло даже с установленной сеткой;</li>
-<li>Улучшает внешний вид автомобиля.</li>
-</ul>
-
-<p><strong>Характеристики:</strong></p>
-
-<ul>
-<li>Назначение: для передних окон автомобиля;</li>
-<li>Количество в комплекте: 2 штуки;</li>
-<li>Размер сетки: 52 × 61 см;</li>
-<li>Материал: двойная плотная сетка (мягкая и износостойкая);</li>
-<li>Тип установки: натягивается на дверь (полностью закрывает окно);</li>
-<li>Цвет: Черный;</li>
-<li>Крепление: Веревки.</li>
-</ul>
-
-<p><strong>Комплектация:</strong></p>
-
-<ul>
-<li>Шторы на 2 окна.</li>
-</ul>
-
-<p>Данный продукт обеспечит надежную защиту вашего автомобиля от насекомых и солнечных лучей, добавив комфорта и стиля вашему транспортному средству.</p>]]></description>
-    <description lang="ua"><![CDATA[<p><b><strong>Подвійна автомобільна сітка для передніх вікон LQP-F11</strong></b></p>
-
-<p>Захист від сонця та комах з комфортом та зручністю! Подвійна автомобільна сітка призначена для передніх вікон більшості легкових автомобілів. Легко встановлюється на двері, не заважає опусканню скла, дозволяє вільно передавати предмети через вікно та забезпечує природну вентиляцію без ризику потрапляння комах.</p>
-
-<p><strong>Переваги:</strong></p>
-
-<ul>
-<li>Захист від комарів, мух та інших комах;</li>
-<li>Захист від прямих сонячних променів;</li>
-<li>Зниження температури в салоні;</li>
-<li>Підтримка приватності (менше видно всередину);</li>
-<li>Просте встановлення — без липких стрічок та присосок;</li>
-<li>Можна опускати скло навіть з встановленою сіткою;</li>
-<li>Покращує зовнішній вигляд автомобіля.</li>
-</ul>
-
-<p><strong>Характеристики:</strong></p>
-
-<ul>
-<li>Призначення: для передніх вікон автомобіля;</li>
-<li>Кількість у комплекті: 2 штуки;</li>
-<li>Розмір сітки: 52 × 61 см;</li>
-<li>Матеріал: подвійна щільна сітка (м'яка та зносостійка);</li>
-<li>Тип встановлення: натягується на двері (повністю закриває вікно);</li>
-<li>Колір: Чорний;</li>
-<li>Кріплення: Мотузки.</li>
-</ul>
-
-<p><strong>Комплектація:</strong></p>
-
-<ul>
-<li>Штори на 2 вікна.</li>
-</ul>
-
-<p>Цей продукт забезпечить надійний захист вашого автомобіля від комах та сонячних променів, додаючи комфорту та стилю вашому транспортному засобу.</p>]]></description>
-    <country_of_origin>Китай</country_of_origin>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Особливості" paramcode="11965">Антимоскітна та сонцезахисна сітка для автомобільних вікон.</param>
-    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_06870</param>
-    <width>630</width>
-    <height>620</height>
-    <weight>500</weight>
-    <length>20</length>
-  </offer>
-  <offer id="3_07301" available="true">
-    <price>698</price>
-    <category code="2826">Автошини</category>
-    <attribute_set code="2826">Автошини</attribute_set>
-    <picture>https://images.prom.ua/6854870131_solntsezaschitnye-avtomobilnye-shtory.jpg</picture>
-    <picture>https://images.prom.ua/6854870133_solntsezaschitnye-avtomobilnye-shtory.jpg</picture>
-    <picture>https://images.prom.ua/6854870136_solntsezaschitnye-avtomobilnye-shtory.jpg</picture>
-    <picture>https://images.prom.ua/6854870140_solntsezaschitnye-avtomobilnye-shtory.jpg</picture>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <name lang="ru">Солнцезащитные автомобильные шторы Ultimate Speed US-2107 для боковых окон 48x38 см 2 шт Black (3_07301)</name>
-    <name lang="ua">Сонцезахисні автомобільні штори Ultimate Speed US-2107 для бокових вікон 48x38 см 2 шт Black (3_07301)</name>
-    <description lang="ru"><![CDATA[<p><b><strong>Солнцезащитные шторки Ultimate Speed US-2107 для боковых окон 48x38 см 2 шт</strong></b></p>
-<p>Практичный набор солнцезащитных шторок Ultimate Speed US-2107 предназначен для защиты салона и пассажиров от прямых солнечных лучей. Эти шторки легко устанавливаются с помощью крючков или присосок, что обеспечивает быстрый монтаж и демонтаж без повреждения стекла. Компактные и удобные в хранении, они станут идеальным решением для большинства автомобилей.</p>
+  <offer id="3_08035" available="true">
+    <price>2995</price>
+    <category code="6829">Електропили</category>
+    <attribute_set code="6829">Електропили</attribute_set>
+    <picture>https://images.prom.ua/7158224674_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224681_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224665_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224680_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224670_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224668_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224687_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224691_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224690_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <picture>https://images.prom.ua/7158224703_akkumulyatornaya-tsepnaya-mini-pila.jpg</picture>
+    <vendor>Без бренду</vendor>
+    <name lang="ru">Аккумуляторная цепная мини-пила Mini Electric Chainsaw 8" с масляным баком 24V 2хАКБ в кейсе Blue (3_08035)</name>
+    <name lang="ua">Акумуляторна ланцюгова міні-пила Mini Electric Chainsaw 8" з масляним баком 24V 2хАКБ в кейсі Blue (3_08035)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Аккумуляторная цепная мини-пила с масляным баком 24V 8" 2хАКБ в кейсе</strong></b></p>
+<p>Аккумуляторная цепная мини-пила – это идеальный инструмент для ухода за садом, обрезки деревьев и выполнения различных задач на даче. Оснащенная мощным 24V аккумулятором 5Ah, она обеспечивает длительное время работы без необходимости подзарядки. Высокая скорость цепи и автоматическая смазка гарантируют чистый и ровный рез, а также продлевают срок службы пилы. Благодаря компактному размеру и небольшому весу, эта пила идеально подходит для работы в труднодоступных местах и для обрезки веток на высоте. Эргономичный дизайн рукоятки обеспечивает удобный захват и снижает усталость во время работы. Система защиты от случайного включения и обратного удара гарантирует безопасность использования. Перед использованием обязательно залейте масло!</p>
 <p><b><strong>Преимущества:</strong></b></p>
 <ul>
-<li>Оптимальная защита от солнца для боковых окон;</li>
-<li>Лёгкая установка с помощью присосок или крючков;</li>
-<li>Компактно сворачиваются для удобного хранения;</li>
-<li>Универсальный размер, подходящий для большинства автомобилей.</li>
+<li>Невероятно легкая и маневренная – работайте одной рукой без усилий</li>
+<li>Мощный двигатель для быстрой и эффективной распиловки</li>
+<li>Автоматическая смазка цепи – для долгой и бесперебойной работы</li>
+<li>Эргономичная рукоятка – комфорт и контроль в каждой задаче</li>
+<li>Простая и быстрая заправка маслом</li>
+<li>Прочный и надежный корпус – выдержит любые испытания</li>
+<li>Полная свобода передвижения – забудьте о проводах и розетках!</li>
 </ul>
 <p><b><strong>Характеристики:</strong></b></p>
 <ul>
-<li>Количество: 2 шт.;</li>
-<li>Размер одной шторки: 48 × 38 см;</li>
-<li>Вес: 200 г;</li>
-<li>Материал: полиэстер, пластик;</li>
-<li>Крепление: присоски и крючки (в комплекте).</li>
+<li>Тип: электропила на аккумуляторе / аккумуляторная цепная пила</li>
+<li>Длина шины: 8"</li>
+<li>Напряжение: 24 В</li>
+<li>Емкость аккумулятора: 5,0 Ач</li>
+<li>Скорость вращения цепи: 4500 об/мин</li>
+<li>Автоматическая смазка цепи: есть</li>
+<li>Материал корпуса: ударопрочный пластик</li>
+<li>Количество аккумуляторов в комплекте: 2</li>
+<li>Упаковка: пластиковый кейс</li>
 </ul>
 <p><b><strong>Комплектация:</strong></b></p>
 <ul>
-<li>2 солнцезащитные шторки;</li>
-<li>4 присоски для крепления;</li>
-<li>Инструкция.</li>
+<li>Аккумуляторная мини пила 8"</li>
+<li>Аккумуляторы - 2 шт</li>
+<li>Цепь</li>
+<li>Зарядное устройство 220В</li>
+<li>Защитные очки</li>
+<li>Кейс</li>
 </ul>]]></description>
-    <description lang="ua"><![CDATA[<p><b><strong>Сонцезахисні шторки Ultimate Speed US-2107 для бокових вікон 48x38 см 2 шт</strong></b></p>
-<p>Практичний набір сонцезахисних шторок Ultimate Speed US-2107 призначений для захисту салону та пасажирів від прямих сонячних променів. Ці шторки легко встановлюються за допомогою гачків або присосок, що забезпечує швидкий монтаж та демонтаж без пошкодження скла. Компактні та зручні у зберіганні, вони стануть ідеальним рішенням для більшості автомобілів.</p>
+    <description lang="ua"><![CDATA[<p><b><strong>Акумуляторна ланцюгова міні-пила з масляним баком 24V 8" 2хАКБ у кейсі</strong></b></p>
+<p>Акумуляторна ланцюгова міні-пила – це ідеальний інструмент для догляду за садом, обрізки дерев та виконання різних завдань на дачі. Оснащена потужним 24V акумулятором 5Ah, вона забезпечує тривалий час роботи без необхідності підзарядки. Висока швидкість ланцюга та автоматичне змащення гарантують чистий та рівний різ, а також подовжують термін служби пили. Завдяки компактному розміру та невеликій вазі, ця пила ідеально підходить для роботи у важкодоступних місцях і для обрізки гілок на висоті. Ергономічний дизайн рукоятки забезпечує зручний захват і знижує втому під час роботи. Система захисту від випадкового ввімкнення та зворотного удару гарантує безпеку використання. Перед використанням обов'язково залийте масло!</p>
 <p><b><strong>Переваги:</strong></b></p>
 <ul>
-<li>Оптимальний захист від сонця для бокових вікон;</li>
-<li>Легка установка за допомогою присосок або гачків;</li>
-<li>Компактно згортаються для зручного зберігання;</li>
-<li>Універсальний розмір, підходить для більшості автомобілів.</li>
+<li>Неймовірно легка та маневрена – працюйте однією рукою без зусиль</li>
+<li>Потужний двигун для швидкого та ефективного розпилювання</li>
+<li>Автоматичне змащення ланцюга – для довгої та безперебійної роботи</li>
+<li>Ергономічна рукоятка – комфорт та контроль у кожному завданні</li>
+<li>Просте та швидке заправлення маслом</li>
+<li>Міцний та надійний корпус – витримує будь-які випробування</li>
+<li>Повна свобода пересування – забудьте про дроти та розетки!</li>
 </ul>
 <p><b><strong>Характеристики:</strong></b></p>
 <ul>
-<li>Кількість: 2 шт.;</li>
-<li>Розмір однієї шторки: 48 × 38 см;</li>
-<li>Вага: 200 г;</li>
-<li>Матеріал: поліестер, пластик;</li>
-<li>Кріплення: присоски та гачки (в комплекті).</li>
+<li>Тип: електропила на акумуляторі / акумуляторна ланцюгова пила</li>
+<li>Довжина шини: 8"</li>
+<li>Напруга: 24 В</li>
+<li>Ємність акумулятора: 5,0 Ач</li>
+<li>Швидкість обертання ланцюга: 4500 об/хв</li>
+<li>Автоматичне змащення ланцюга: є</li>
+<li>Матеріал корпусу: ударостійкий пластик</li>
+<li>Кількість акумуляторів у комплекті: 2</li>
+<li>Упаковка: пластиковий кейс</li>
 </ul>
 <p><b><strong>Комплектація:</strong></b></p>
 <ul>
-<li>2 сонцезахисні шторки;</li>
-<li>4 присоски для кріплення;</li>
-<li>Інструкція.</li>
+<li>Акумуляторна міні пила 8"</li>
+<li>Акумулятори - 2 шт</li>
+<li>Ланцюг</li>
+<li>Зарядний пристрій 220В</li>
+<li>Захисні окуляри</li>
+<li>Кейс</li>
 </ul>]]></description>
     <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Особливості" paramcode="11965">Легка установка з допомогою присосок або гачків, компактно згортаються для зручного зберігання</param>
-    <param name="Ширина" paramcode="11966" valuecode="fba954d163835b494e4b9c0bd4da3fd1">480</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип живлення" paramcode="10839" valuecode="3455f43540ae397424ef79f4725d1055">акумулятор</param>
+    <param name="Швидкість обертання ланцюга" paramcode="10850">75.0</param>
+    <param name="Довжина шини" paramcode="10851">203.0</param>
+    <param name="Автоматична змазка ланцюга" paramcode="10854" valuecode="yes">так</param>
+    <param name="Розміщення двигуна" paramcode="10856" valuecode="f967a9a904dd9416ed3d6179348c7ef8">поперекове</param>
+    <param name="Автоматичне блокування ланцюга" paramcode="10857" valuecode="yes">так</param>
+    <param name="Особливості" paramcode="2129" valuecode="1d2426c5a129bd7d9641a014dbed265b,b55303e1de539dbd783748dcfbd2437f">соло (для роботи однією рукою), автоматичне змащування ланцюга</param>
+    <param name="Клас" paramcode="2364" valuecode="07c4974b5740e4492840c2e74c82caa9">міні</param>
+    <param name="Тип акумулятора" paramcode="238" valuecode="c68d72a4a3632625b6532b07a6a6528a">Li-ion</param>
+    <param name="Ємність акумулятора" paramcode="239">5000.0</param>
+    <param name="Модель" paramcode="4351">Mini Electric Chainsaw 8"</param>
+    <param name="Вага" paramcode="4684" valuecode="457a33552e7f53dc60f3646c2d061132">до 2.6 кг</param>
+    <param name="Довжина шини" paramcode="5235" valuecode="24925fcdf1e4b1519d25c8a70cbfd548">105-230 мм</param>
+    <param name="Популярні запити" paramcode="7165" valuecode="390546434865a30143aa2b2c9cc16d14,e94e5a6f1f0000f9eb3a50054014e908">для дачі, для обрізки дерев</param>
+    <param name="Комплектація" paramcode="767">Акумуляторна міні пила 8", Акумулятори - 2 шт, Ланцюг, Зарядний пристрій 220В, Захисні окуляри, Кейс</param>
+    <param name="Матеріал корпусу" paramcode="8296" valuecode="57e8f4823d4921e6a4830b6e05e367f3">пластик</param>
+    <param name="Напруга" paramcode="8309" valuecode="e15ca26139a48f54604816afc2c2f702">24,0</param>
+    <param name="Комплектація" paramcode="8828" valuecode="7608b43d29bd4f6da41c8fb6e000c047,c4482f455e4f699b6fee7bee368a3510">2 акумулятора, з зарядним пристроєм</param>
+    <param name="Штрих код" paramcode="barcodes">2962220203</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <param name="Висота упаковки" paramcode="height">380</param>
-    <param name="Глибина упаковки" paramcode="length">500</param>
-    <param name="Модель виробника (референцiя)" paramcode="producer_code">US-2107</param>
-    <param name="Вага упаковки" paramcode="weight">200</param>
-    <param name="Ширина упаковки" paramcode="width">50</param>
+    <width>150</width>
+    <height>250</height>
+    <weight>2500</weight>
+    <length>300</length>
+  </offer>
+  <offer id="3_07398" available="true">
+    <price>574</price>
+    <category code="515">Аксесуари для гриля</category>
+    <attribute_set code="515">Аксесуари для гриля</attribute_set>
+    <picture>https://images.prom.ua/6869541613_nabor-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869541614_nabor-dlya-grilya.jpg</picture>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Набор для гриля Grill Meister HG08715C вилка и кисточка для маринада Black (3_07398)</name>
+    <name lang="ua">Набір для гриля Grill Meister HG08715C виделка та пензлик для маринаду Black (3_07398)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор для гриля Grill Meister HG08715C (вилка и кисточка для маринада) 40-35 см</strong></b></p>
+<p>Практичный набор аксессуаров для гриля Grill Meister HG08715C включает в себя вилку из нержавеющей стали и силиконовую кисточку для маринада. Эти инструменты станут незаменимыми помощниками на вашей кухне и при приготовлении барбекю. Удобные ручки с противоскользящим покрытием и петли для подвешивания делают их использование максимально комфортным.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Вилка из нержавеющей стали для надежного удержания и переворачивания мяса и овощей.</li>
+<li>Силиконовая кисточка устойчива к температурам до 250 °C, идеально подходит для нанесения маринадов и соусов.</li>
+<li>Эргономичные ручки с противоскользящим покрытием обеспечивают удобство в использовании.</li>
+<li>Петли для подвешивания позволяют удобно хранить инструменты.</li>
+<li>Идеально подходят для барбекю, гриля и кухни.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Длина вилки: 40 см.</li>
+<li>Длина кисточки: 35 см.</li>
+<li>Вес набора: 260 г.</li>
+<li>Материал: нержавеющая сталь, силикон, пластик.</li>
+<li>Количество предметов в наборе: 2.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Вилка для гриля.</li>
+<li>Кисточка для маринада.</li>
+</ul>
+<p>Набор для гриля Grill Meister HG08715C станет отличным дополнением к вашему кухонному арсеналу, обеспечивая удобство и комфорт в приготовлении ваших любимых блюд.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір для гриля Grill Meister HG08715C (вилка та пензлик для маринаду) 40-35 см</strong></b></p>
+<p>Практичний набір аксесуарів для гриля Grill Meister HG08715C включає в себе вилку з нержавіючої сталі та силіконовий пензлик для маринаду. Ці інструменти стануть незамінними помічниками на вашій кухні та при приготуванні барбекю. Зручні ручки з протиковзким покриттям та петлі для підвішування роблять їх використання максимально комфортним.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Вилка з нержавіючої сталі для надійного утримання та перевертання м'яса і овочів.</li>
+<li>Силіконовий пензлик стійкий до температур до 250 °C, ідеально підходить для нанесення маринадів та соусів.</li>
+<li>Ергономічні ручки з протиковзким покриттям забезпечують зручність у використанні.</li>
+<li>Петлі для підвішування дозволяють зручно зберігати інструменти.</li>
+<li>Ідеально підходять для барбекю, гриля та кухні.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Довжина вилки: 40 см.</li>
+<li>Довжина пензлика: 35 см.</li>
+<li>Вага набору: 260 г.</li>
+<li>Матеріал: нержавіюча сталь, силікон, пластик.</li>
+<li>Кількість предметів у наборі: 2.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Вилка для гриля.</li>
+<li>Пензлик для маринаду.</li>
+</ul>
+<p>Набір для гриля Grill Meister HG08715C стане чудовим доповненням до вашого кухонного арсеналу, забезпечуючи зручність та комфорт у приготуванні ваших улюблених страв.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Розмір" paramcode="10792">40-35</param>
+    <param name="Тип" paramcode="11289" valuecode="75ffc9cd6b35f97eaf34d970b84f989a">набір</param>
+    <param name="Довжина" paramcode="1172">0.4</param>
+    <param name="Матеріал" paramcode="2481" valuecode="vzuo0pe0,0vwwxqee,cwcwxpvb">нержавіюча сталь, силікон, пластик</param>
+    <param name="Особливості" paramcode="2860">Ергономічні ручки з протиковзким покриттям, петлі для підвішування</param>
+    <param name="Вага" paramcode="762">0.26</param>
+    <param name="Комплектація" paramcode="767">Вилка для гриля, пензлик для маринаду</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Штрих код" paramcode="barcodes">2783194872</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>100</width>
+    <height>50</height>
+    <weight>300</weight>
+    <length>450</length>
+  </offer>
+  <offer id="3_07399" available="true">
+    <price>419</price>
+    <category code="515">Аксесуари для гриля</category>
+    <attribute_set code="515">Аксесуари для гриля</attribute_set>
+    <picture>https://images.prom.ua/6869541616_lopatka-dlya-barbekyu.jpg</picture>
+    <picture>https://images.prom.ua/6869541615_lopatka-dlya-barbekyu.jpg</picture>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Лопатка для барбекю Grill Meister HG08205C с отверстиями 34 см Silver-Black (3_07399)</name>
+    <name lang="ua">Лопатка для барбекю Grill Meister HG08205C з отворами 34 см Silver-Black (3_07399)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Лопатка для барбекю Grill Meister HG08205C с отверстиями 34 см</strong></b></p>
+<p>Лопатка Grill Meister — надежный и удобный аксессуар для приготовления блюд на гриле и барбекю. Она оснащена прочным металлическим полотном с отверстиями, которые позволяют стекать лишнему жиру во время приготовления, и эргономичной пластиковой ручкой, обеспечивающей удобный захват даже при высоких температурах. Лопатка устойчива к коррозии и проста в уходе, что делает её незаменимой для любого любителя барбекю.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Прочное металлическое полотно с отверстиями для удобства при жарке;</li>
+<li>Эргономичная пластиковая ручка с противоскользящим эффектом;</li>
+<li>Длина 34 см — оптимальная для безопасной работы возле огня;</li>
+<li>Устойчива к высоким температурам и коррозии;</li>
+<li>Легко моется и очищается.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Бренд: Grill Meister;</li>
+<li>Длина: 34 см;</li>
+<li>Материал полотна: металл;</li>
+<li>Материал ручки: пластик;</li>
+<li>Назначение: для гриля и барбекю;</li>
+<li>Вес: 55 г;</li>
+<li>Количество предметов в наборе: 1.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Лопатка для барбекю: 1 шт.</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Лопатка для барбекю Grill Meister HG08205C з отворами 34 см</strong></b></p>
+<p>Лопатка Grill Meister — надійний і зручний аксесуар для приготування страв на грилі та барбекю. Вона оснащена міцним металевим полотном з отворами, які дозволяють стікати зайвому жиру під час приготування, і ергономічною пластиковою ручкою, що забезпечує зручний захват навіть при високих температурах. Лопатка стійка до корозії і проста в догляді, що робить її незамінною для будь-якого любителя барбекю.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Міцне металеве полотно з отворами для зручності при смаженні;</li>
+<li>Ергономічна пластикова ручка з протиковзким ефектом;</li>
+<li>Довжина 34 см — оптимальна для безпечної роботи біля вогню;</li>
+<li>Стійка до високих температур і корозії;</li>
+<li>Легко миється і очищається.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Бренд: Grill Meister;</li>
+<li>Довжина: 34 см;</li>
+<li>Матеріал полотна: метал;</li>
+<li>Матеріал ручки: пластик;</li>
+<li>Призначення: для гриля та барбекю;</li>
+<li>Вага: 55 г;</li>
+<li>Кількість предметів у наборі: 1.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Лопатка для барбекю: 1 шт.</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Розмір" paramcode="10792">34</param>
+    <param name="Тип" paramcode="11289" valuecode="98329ef6625a11da955b57a491534340">лопатка</param>
+    <param name="Довжина" paramcode="1172">0.34</param>
+    <param name="Матеріал" paramcode="2481" valuecode="ohpuwj1j,cwcwxpvb">метал, пластик</param>
+    <param name="Особливості" paramcode="2860">Прочное металлическое полотно с отверстиями, эргономичная пластиковая ручка</param>
+    <param name="Вага" paramcode="762">0.055</param>
+    <param name="Комплектація" paramcode="767">Лопатка для барбекю: 1 шт.</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">HG08205C</param>
+    <width>80</width>
+    <height>40</height>
+    <weight>60</weight>
+    <length>350</length>
+  </offer>
+  <offer id="3_07400" available="true">
+    <price>400</price>
+    <category code="515">Аксесуари для гриля</category>
+    <attribute_set code="515">Аксесуари для гриля</attribute_set>
+    <picture>https://images.prom.ua/6871499916_vilka-dlya-barbekyu.jpg</picture>
+    <picture>https://images.prom.ua/6869541618_vilka-dlya-barbekyu.jpg</picture>
+    <picture>https://images.prom.ua/6869541619_vilka-dlya-barbekyu.jpg</picture>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Вилка для барбекю Grill Meister HG08205A с пластиковой ручкой 34 см Silver (3_07400)</name>
+    <name lang="ua">Вилка для барбекю Grill Meister HG08205A з пластиковою ручкою 34 см Silver (3_07400)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Вилка для барбекю Grill Meister HG08205A с пластиковой ручкой 34 см</strong></b></p>
+<p>Вилка для барбекю Grill Meister — это практичный инструмент для приготовления блюд на гриле. С длиной 34 см она обеспечивает безопасную работу у открытого огня, позволяя легко переворачивать и фиксировать мясо, овощи или другие продукты. Оснащена прочным металлическим стержнем и удобной пластиковой ручкой, которая не нагревается и обеспечивает надёжный захват.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Оптимальная длина 34 см для комфортного использования;</li>
+<li>Прочная металлическая часть, устойчивая к высоким температурам;</li>
+<li>Эргономичная пластиковая ручка с отверстием для подвешивания;</li>
+<li>Легко очищается, удобна в использовании;</li>
+<li>Незаменимый аксессуар для гриля, барбекю или пикника.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Бренд: Grill Meister;</li>
+<li>Тип: вилка для барбекю;</li>
+<li>Длина: 34 см;</li>
+<li>Материал: металл + пластик;</li>
+<li>Назначение: для приготовления пищи на гриле и барбекю;</li>
+<li>Вес: 40 г;</li>
+<li>Количество предметов в наборе: 1;</li>
+<li>Материал ручек: пластик.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Вилка для мяса: 1 шт.</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Виделка для барбекю Grill Meister HG08205A з пластиковою ручкою 34 см</strong></b></p>
+<p>Виделка для барбекю Grill Meister — це практичний інструмент для приготування страв на грилі. Завдяки довжині 34 см вона забезпечує безпечну роботу біля відкритого вогню, дозволяючи легко перевертати та фіксувати м'ясо, овочі або інші продукти. Оснащена міцним металевим стрижнем і зручною пластиковою ручкою, яка не нагрівається і забезпечує надійний захват.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Оптимальна довжина 34 см для комфортного використання;</li>
+<li>Міцна металева частина, стійка до високих температур;</li>
+<li>Ергономічна пластикова ручка з отвором для підвішування;</li>
+<li>Легко очищується, зручна у використанні;</li>
+<li>Незамінний аксесуар для гриля, барбекю або пікніка.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Бренд: Grill Meister;</li>
+<li>Тип: виделка для барбекю;</li>
+<li>Довжина: 34 см;</li>
+<li>Матеріал: метал + пластик;</li>
+<li>Призначення: для приготування їжі на грилі та барбекю;</li>
+<li>Вага: 40 г;</li>
+<li>Кількість предметів у наборі: 1;</li>
+<li>Матеріал ручок: пластик.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Виделка для м'яса: 1 шт.</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Розмір" paramcode="10792">34</param>
+    <param name="Тип" paramcode="11289" valuecode="7f99a1868623c7e560e10685f5911a32">виделка</param>
+    <param name="Довжина" paramcode="1172">0.34</param>
+    <param name="Матеріал" paramcode="2481" valuecode="ohpuwj1j,cwcwxpvb">метал, пластик</param>
+    <param name="Особливості" paramcode="2860">Ергономічна пластикова ручка з отвором для підвішування</param>
+    <param name="Вага" paramcode="762">0.04</param>
+    <param name="Комплектація" paramcode="767">Виделка для м'яса: 1 шт.</param>
+    <param name="Колір виробника" paramcode="78" valuecode="673">сріблястий металік</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">HG08205A</param>
     <width>50</width>
-    <height>380</height>
-    <weight>200</weight>
-    <length>500</length>
+    <height>50</height>
+    <weight>50</weight>
+    <length>350</length>
+  </offer>
+  <offer id="3_07394" available="true">
+    <price>615</price>
+    <category code="515">Аксесуари для гриля</category>
+    <attribute_set code="515">Аксесуари для гриля</attribute_set>
+    <picture>https://images.prom.ua/6869541600_schetka-dlya-chistki.jpg</picture>
+    <picture>https://images.prom.ua/6869541601_schetka-dlya-chistki.jpg</picture>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Щетка для чистки барбекю Grill Meister HG10553C с латунной щетиной 46 см (3_07394)</name>
+    <name lang="ua">Щітка для чищення барбекю Grill Meister HG10553C з латунною щетиною 46 см (3_07394)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Щетка для чистки барбекю Grill Meister HG10553C с латунной щетиной 46 см</strong></b></p>
+<p>Щетка для гриля Grill Meister станет надежным помощником во время приготовления барбекю. Она оснащена прочной латунной щетиной, которая эффективно удаляет нагар, остатки пищи и жир с решеток и поверхностей гриля. Благодаря длинной ручке можно безопасно очищать горячие поверхности, не приближаясь слишком близко.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Прочная латунная щетина для качественной очистки.</li>
+<li>Длинная ручка обеспечивает удобство и безопасность при использовании.</li>
+<li>Эффективно удаляет нагар и жир.</li>
+<li>Идеально подходит для чистки решеток гриля и барбекю.</li>
+<li>Компактная и удобная в хранении.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Бренд: Grill Meister.</li>
+<li>Длина: примерно 46 см.</li>
+<li>Материал щетины: латунь.</li>
+<li>Материал ручек: пластик.</li>
+<li>Вес: 230 г.</li>
+<li>Упаковка: коробка.</li>
+<li>Количество предметов в наборе: 1.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Щетка для чистки барбекю: 1 шт.</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Щітка для чищення барбекю Grill Meister HG10553C з латунною щетиною 46 см</strong></b></p>
+<p>Щітка для гриля Grill Meister стане надійним помічником під час приготування барбекю. Вона оснащена міцною латунною щетиною, яка ефективно видаляє нагар, залишки їжі та жир з решіток і поверхонь гриля. Завдяки довгій ручці можна безпечно очищати гарячі поверхні, не наближаючись занадто близько.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Міцна латунна щетина для якісного очищення.</li>
+<li>Довга ручка забезпечує зручність і безпеку при використанні.</li>
+<li>Ефективно видаляє нагар і жир.</li>
+<li>Ідеально підходить для чищення решіток гриля та барбекю.</li>
+<li>Компактна і зручна в зберіганні.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Бренд: Grill Meister.</li>
+<li>Довжина: приблизно 46 см.</li>
+<li>Матеріал щетини: латунь.</li>
+<li>Матеріал ручок: пластик.</li>
+<li>Вага: 230 г.</li>
+<li>Упаковка: коробка.</li>
+<li>Кількість предметів у наборі: 1.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Щітка для чищення барбекю: 1 шт.</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Розмір" paramcode="10792">46</param>
+    <param name="Тип" paramcode="11289" valuecode="f21fbd3a0e71226fb72a88d50bba1880">щітка</param>
+    <param name="Довжина" paramcode="1172">0.46</param>
+    <param name="Матеріал" paramcode="2481" valuecode="ohpuwj1j,cwcwxpvb,wsgaogjewllqjn9j">метал, пластик, латунь</param>
+    <param name="Особливості" paramcode="2860">Довга ручка забезпечує зручність і безпеку при використанні.</param>
+    <param name="Вага" paramcode="762">0.23</param>
+    <param name="Комплектація" paramcode="767">Щітка для чищення барбекю: 1 шт.</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ji7xemhv">жовтий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">HG10553C</param>
+    <width>100</width>
+    <height>50</height>
+    <weight>250</weight>
+    <length>470</length>
+  </offer>
+  <offer id="3_07401" available="true">
+    <price>557</price>
+    <category code="515">Аксесуари для гриля</category>
+    <attribute_set code="515">Аксесуари для гриля</attribute_set>
+    <picture>https://images.prom.ua/6869542240_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542233_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542234_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542235_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542236_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542237_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542238_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542239_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542241_lopatka-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542242_lopatka-dlya-grilya.jpg</picture>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Лопатка для гриля Grill Meister 91587 с противоскользящей ручкой 41 см Black (3_07401)</name>
+    <name lang="ua">Лопатка для гриля Grill Meister 91587 з протиковзковою ручкою 41 см Black (3_07401)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Лопатка для гриля Grill Meister 91587 с противоскользящей ручкой 41 см</strong></b></p>
+<p>Лопатка для гриля Grill Meister 91587 изготовлена из нержавеющей стали, что гарантирует её долговечность и устойчивость к высоким температурам. Эргономичная ручка с мягким противоскользящим покрытием обеспечивает удобство использования даже при длительном приготовлении. Оптимальная длина 41 см позволяет безопасно работать рядом с жаром и комфортно переворачивать мясо, рыбу или овощи на гриле.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Прочная рабочая часть из нержавеющей стали.</li>
+<li>Удобная ручка с мягким противоскользящим покрытием.</li>
+<li>Безопасная длина 41 см для работы рядом с жаром.</li>
+<li>Легко очищается, достаточно промыть тёплой водой с мягким моющим средством.</li>
+<li>Идеально подходит для приготовления на гриле и барбекю.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: лопатка для гриля.</li>
+<li>Материал: нержавеющая сталь, пластик с мягким покрытием.</li>
+<li>Длина: 41 см.</li>
+<li>Вес: 260 г.</li>
+<li>Упаковка: блистер.</li>
+<li>Количество предметов в наборе: 1.</li>
+<li>Материал ручек: пластик.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Лопатка для барбекю: 1 шт.</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Лопатка для гриля Grill Meister 91587 з протиковзкою ручкою 41 см</strong></b></p>
+<p>Лопатка для гриля Grill Meister 91587 виготовлена з нержавіючої сталі, що гарантує її довговічність та стійкість до високих температур. Ергономічна ручка з м'яким протиковзким покриттям забезпечує зручність використання навіть при тривалому приготуванні. Оптимальна довжина 41 см дозволяє безпечно працювати поруч з жаром та комфортно перевертати м'ясо, рибу чи овочі на грилі.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Міцна робоча частина з нержавіючої сталі.</li>
+<li>Зручна ручка з м'яким протиковзким покриттям.</li>
+<li>Безпечна довжина 41 см для роботи поруч з жаром.</li>
+<li>Легко очищується, достатньо промити теплою водою з м'яким мийним засобом.</li>
+<li>Ідеально підходить для приготування на грилі та барбекю.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: лопатка для гриля.</li>
+<li>Матеріал: нержавіюча сталь, пластик з м'яким покриттям.</li>
+<li>Довжина: 41 см.</li>
+<li>Вага: 260 г.</li>
+<li>Упаковка: блістер.</li>
+<li>Кількість предметів у наборі: 1.</li>
+<li>Матеріал ручок: пластик.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Лопатка для барбекю: 1 шт.</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Розмір" paramcode="10792">41</param>
+    <param name="Тип" paramcode="11289" valuecode="98329ef6625a11da955b57a491534340">лопатка</param>
+    <param name="Довжина" paramcode="1172">0.41</param>
+    <param name="Матеріал" paramcode="2481" valuecode="vzuo0pe0,cwcwxpvb">нержавіюча сталь, пластик</param>
+    <param name="Особливості" paramcode="2860">Протиковзка ручка</param>
+    <param name="Вага" paramcode="762">0.26</param>
+    <param name="Комплектація" paramcode="767">Лопатка для барбекю: 1 шт.</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">91587</param>
+    <width>100</width>
+    <height>50</height>
+    <weight>300</weight>
+    <length>450</length>
+  </offer>
+  <offer id="3_07402" available="true">
+    <price>623</price>
+    <category code="515">Аксесуари для гриля</category>
+    <attribute_set code="515">Аксесуари для гриля</attribute_set>
+    <picture>https://images.prom.ua/6869542243_nabor-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542245_nabor-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542244_nabor-dlya-grilya.jpg</picture>
+    <picture>https://images.prom.ua/6869542246_nabor-dlya-grilya.jpg</picture>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Набор для гриля Grill Meister с вилкой и силиконовой кисточкой 41 см Black (3_07402)</name>
+    <name lang="ua">Набір для гриля Grill Meister з виделкою та силіконовим пензлем 41 см Black (3_07402)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор для гриля Grill Meister с вилкой и силиконовой кисточкой 41 см</strong></b></p>
+<p>Набор для гриля Grill Meister включает в себя практичные аксессуары: вилку и силиконовую кисточку для маринада. Эти инструменты изготовлены из высококачественной нержавеющей стали и силикона, что обеспечивает их прочность, долговечность и удобство в использовании. Силиконовая насадка кисточки выдерживает температуру до 250°C, что делает её идеальной для работы с горячими продуктами. Вилка предназначена для легкого переворачивания и подачи блюд во время приготовления на гриле. Оба инструмента имеют длину 41 см, что позволяет безопасно работать на расстоянии от жара.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Изготовлены из нержавеющей стали и термостойкого силикона.</li>
+<li>Кисточка выдерживает температуру до 250°C.</li>
+<li>Идеально подходят для маринования и приготовления блюд на гриле.</li>
+<li>Длина инструментов — 41 см для комфортного использования.</li>
+<li>Легко мыть — достаточно тёплой воды и мягкого моющего средства.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: набор аксессуаров для гриля.</li>
+<li>Материал: нержавеющая сталь, силикон.</li>
+<li>Длина: 41 см каждый инструмент.</li>
+<li>Термостойкость кисточки: до 250°C.</li>
+<li>Назначение: для гриля и барбекю.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Вилка для гриля.</li>
+<li>Силиконовая кисточка для маринада.</li>
+</ul>
+<p>Набор для гриля Grill Meister — это идеальное решение для любителей барбекю, обеспечивающее удобство и безопасность в процессе приготовления.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір для гриля Grill Meister з виделкою та силіконовим пензлем 41 см</strong></b></p>
+<p>Набір для гриля Grill Meister включає в себе практичні аксесуари: виделку та силіконовий пензель для маринаду. Ці інструменти виготовлені з високоякісної нержавіючої сталі та силікону, що забезпечує їх міцність, довговічність та зручність у використанні. Силіконова насадка пензля витримує температуру до 250°C, що робить її ідеальною для роботи з гарячими продуктами. Виделка призначена для легкого перевертання та подачі страв під час приготування на грилі. Обидва інструменти мають довжину 41 см, що дозволяє безпечно працювати на відстані від жару.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Виготовлені з нержавіючої сталі та термостійкого силікону.</li>
+<li>Пензель витримує температуру до 250°C.</li>
+<li>Ідеально підходять для маринування та приготування страв на грилі.</li>
+<li>Довжина інструментів — 41 см для комфортного використання.</li>
+<li>Легко мити — достатньо теплої води та м'якого мийного засобу.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: набір аксесуарів для гриля.</li>
+<li>Матеріал: нержавіюча сталь, силікон.</li>
+<li>Довжина: 41 см кожен інструмент.</li>
+<li>Термостійкість пензля: до 250°C.</li>
+<li>Призначення: для гриля та барбекю.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Виделка для гриля.</li>
+<li>Силіконовий пензель для маринаду.</li>
+</ul>
+<p>Набір для гриля Grill Meister — це ідеальне рішення для любителів барбекю, що забезпечує зручність та безпеку в процесі приготування.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Розмір" paramcode="10792">41</param>
+    <param name="Тип" paramcode="11289" valuecode="75ffc9cd6b35f97eaf34d970b84f989a">набір</param>
+    <param name="Довжина" paramcode="1172">0.41</param>
+    <param name="Матеріал" paramcode="2481" valuecode="vzuo0pe0,0vwwxqee">нержавіюча сталь, силікон</param>
+    <param name="Особливості" paramcode="2860">Термостійкість пензля до 250°C</param>
+    <param name="Вага" paramcode="762">0.38</param>
+    <param name="Комплектація" paramcode="767">Виделка для гриля, Силіконовий пензель для маринаду</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>100</width>
+    <height>50</height>
+    <weight>400</weight>
+    <length>450</length>
+  </offer>
+  <offer id="3_07196" available="true">
+    <price>2151</price>
+    <category code="210">Картрідери та USB-хаби</category>
+    <attribute_set code="210">Картрідери та USB-хаби</attribute_set>
+    <picture>https://images.prom.ua/6835098656_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098633_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098653_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098652_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098638_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098641_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098642_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098645_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098647_kontsentrator-usb-hab-rias.jpg</picture>
+    <picture>https://images.prom.ua/6835098649_kontsentrator-usb-hab-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Концентратор USB-хаб RIAS YG-2120 7в1 Type-C HDMI/3×USB/TF+SD Grey (3_07196)</name>
+    <name lang="ua">Концентратор USB-хаб RIAS YG-2120 7в1 Type-C HDMI/3×USB/TF+SD Grey (3_07196)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Концентратор USB-хаб RIAS YG-2120 7в1 USB Type-C</strong></b></p>
+
+<p>Многофункциональный адаптер RIAS YG-2120 расширяет возможности вашего ноутбука, планшета или смартфона с портом USB-C. Он обеспечивает удобное подключение к внешним устройствам, позволяет выводить изображение в формате 4K, копировать данные с карт памяти и одновременно заряжать ваши гаджеты.</p>
+
+<p><b><strong>Преимущества:</strong></b></p>
+
+<ul>
+<li>7 портов в одном корпусе – HDMI, 3×USB (1×3.0, 2×2.0), кардридеры TF и SD, USB-C PD.</li>
+<li>Поддержка 4K @ 30Hz – качественное отображение на большом экране (телевизор, проектор, монитор).</li>
+<li>Передача данных – USB 3.0 до 500 МБ/с, USB 2.0 до 60 МБ/с, TF/SD – до 60 МБ/с.</li>
+<li>Подключение телефонов и планшетов – поддержка OTG для работы с большим экраном или флешкой.</li>
+<li>Питание – поддержка PD 15–87 Вт (через USB-C), что позволяет заряжать ноутбуки.</li>
+<li>Материал – алюминиевый сплав, эффективный отвод тепла для стабильной работы.</li>
+<li>Компактный и лёгкий – удобно брать в поездки и использовать дома или в офисе.</li>
+</ul>
+
+<p><b><strong>Характеристики:</strong></b></p>
+
+<ul>
+<li>Модель: YG-2120</li>
+<li>Тип интерфейса: Type-C 3.1</li>
+<li>Размеры: 29×117×12 мм</li>
+<li>Вес: ~46 г</li>
+<li>Количество портов: 7</li>
+<li>Питание (Input/Output): 5V/1.5A, 5V–20V</li>
+<li>Совместимость: ноутбуки MacBook, Chromebook, Huawei, Samsung, Lenovo, HP, Dell и другие с Type-C; смартфоны с OTG (Huawei, Samsung, Oppo, HTC и др.)</li>
+</ul>
+
+<p><b><strong>Комплектация:</strong></b></p>
+
+<ul>
+<li>Концентратор USB-хаб RIAS YG-2120</li>
+<li>Инструкция пользователя</li>
+<li>Упаковка</li>
+</ul>
+
+<p>Во время работы адаптер может нагреваться — это нормально, так как корпус из алюминиевого сплава отводит тепло наружу. Для стабильной работы рекомендуется использовать блок питания мощностью не менее 15 Вт. При одновременном использовании HDMI + зарядка + несколько USB-устройств необходимо подключить дополнительное питание через порт PD. Совместимость с телефонами и планшетами зависит от поддержки OTG. При длительной нагрузке корпус может становиться тёплым, поэтому не перекрывайте вентиляцию.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Концентратор USB-хаб RIAS YG-2120 7в1 USB Type-C</strong></b></p>
+
+<p>Багатофункціональний адаптер RIAS YG-2120 розширює можливості вашого ноутбука, планшета або смартфона з портом USB-C. Він забезпечує зручне підключення до зовнішніх пристроїв, дозволяє виводити зображення у форматі 4K, копіювати дані з карт пам'яті та одночасно заряджати ваші гаджети.</p>
+
+<p><b><strong>Переваги:</strong></b></p>
+
+<ul>
+<li>7 портів в одному корпусі – HDMI, 3×USB (1×3.0, 2×2.0), кардрідери TF і SD, USB-C PD.</li>
+<li>Підтримка 4K @ 30Hz – якісне відображення на великому екрані (телевізор, проектор, монітор).</li>
+<li>Передача даних – USB 3.0 до 500 МБ/с, USB 2.0 до 60 МБ/с, TF/SD – до 60 МБ/с.</li>
+<li>Підключення телефонів і планшетів – підтримка OTG для роботи з великим екраном або флешкою.</li>
+<li>Живлення – підтримка PD 15–87 Вт (через USB-C), що дозволяє заряджати ноутбуки.</li>
+<li>Матеріал – алюмінієвий сплав, ефективне відведення тепла для стабільної роботи.</li>
+<li>Компактний і легкий – зручно брати в поїздки та використовувати вдома або в офісі.</li>
+</ul>
+
+<p><b><strong>Характеристики:</strong></b></p>
+
+<ul>
+<li>Модель: YG-2120</li>
+<li>Тип інтерфейсу: Type-C 3.1</li>
+<li>Розміри: 29×117×12 мм</li>
+<li>Вага: ~46 г</li>
+<li>Кількість портів: 7</li>
+<li>Живлення (Input/Output): 5V/1.5A, 5V–20V</li>
+<li>Сумісність: ноутбуки MacBook, Chromebook, Huawei, Samsung, Lenovo, HP, Dell та інші з Type-C; смартфони з OTG (Huawei, Samsung, Oppo, HTC та ін.)</li>
+</ul>
+
+<p><b><strong>Комплектація:</strong></b></p>
+
+<ul>
+<li>Концентратор USB-хаб RIAS YG-2120</li>
+<li>Інструкція користувача</li>
+<li>Упаковка</li>
+</ul>
+
+<p>Під час роботи адаптер може нагріватися — це нормально, оскільки корпус з алюмінієвого сплаву відводить тепло назовні. Для стабільної роботи рекомендується використовувати блок живлення потужністю не менше 15 Вт. При одночасному використанні HDMI + зарядка + декілька USB-пристроїв необхідно підключити додаткове живлення через порт PD. Сумісність з телефонами та планшетами залежить від підтримки OTG. При тривалому навантаженні корпус може ставати теплим, тому не перекривайте вентиляцію.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Розмір" paramcode="10792">29×117×12</param>
+    <param name="Висота" paramcode="110">1.2</param>
+    <param name="Ширина" paramcode="111">11.7</param>
+    <param name="Підключення" paramcode="1112" valuecode="97b38876b06821b41d5af84395f1452d,d1845f202a7a7a7714429923da06b7f3,9535f0f075ebdc5e49b2cdf855a7b3db,9558c8ae374cdc54514ebeeaa28b735c">HDMI, USB 3.0, USB Type-C, USB 2.0</param>
+    <param name="Тип USB-хаба" paramcode="1113" valuecode="9c1493bb0fe4f3fb21511c411af3866b">зовнішній</param>
+    <param name="Кількість USB-входів" paramcode="1115">3</param>
+    <param name="Кількість слотів для карт пам'яті" paramcode="1116">2</param>
+    <param name="Розміщення пристрою" paramcode="1117" valuecode="fc7aadc618f49820f5bce962aafc1334">зовнішній</param>
+    <param name="Слоти під карти" paramcode="1118" valuecode="72362ded19ad943641b3d8847c2b910c">SD, TF</param>
+    <param name="Швидкість передачі даних" paramcode="1119">500</param>
+    <param name="Глибина" paramcode="112">2.9</param>
+    <param name="Тип пристрою" paramcode="152" valuecode="1kyeqxfw">кардрідер/USB-хаб</param>
+    <param name="Особливості пристрою" paramcode="167" valuecode="hnrewq6w,lvtjhvp3,vicxsmza">компактні розміри, захист від перегріву, підключення USB 3.0</param>
+    <param name="Матеріал" paramcode="52" valuecode="42xjsluiktvf4k7j">алюміній</param>
+    <param name="Вага" paramcode="762">0.046</param>
+    <param name="Комплектація" paramcode="767">Концентратор USB-хаб RIAS YG-2120, Інструкція користувача, Упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">YG-2120</param>
+    <width>130</width>
+    <height>20</height>
+    <weight>100</weight>
+    <length>40</length>
   </offer>
   <offer id="3_07106" available="true">
     <price>810</price>
-    <category code="93">Аксесуари до техніки для догляду за домом</category>
-    <attribute_set code="93">Аксесуари до техніки для догляду за домом</attribute_set>
+    <category code="2919">Щітки для миття авто</category>
+    <attribute_set code="2919">Щітки для миття авто</attribute_set>
     <picture>https://images.prom.ua/6806956107_komplekt-polotenets-i.jpg</picture>
     <picture>https://images.prom.ua/6806956106_komplekt-polotenets-i.jpg</picture>
     <picture>https://images.prom.ua/6806956105_komplekt-polotenets-i.jpg</picture>
@@ -1893,20 +2159,14 @@
 <li>3 × полірувальних круга</li>
 </ul>]]></description>
     <country_of_origin>Китай</country_of_origin>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Розмір" paramcode="10792">22×19 см, 12.5 см, 28×5 см, 21×11.5 см, 25×25 см</param>
-    <param name="Особливості" paramcode="2860">не залишає ворсинок, не дряпає поверхню</param>
-    <param name="Тип" paramcode="4275" valuecode="1f8417084c423c16291cdfd1f0b433b9">набір аксесуарів</param>
-    <param name="Модель" paramcode="4351">CS-200</param>
-    <param name="Комплектація" paramcode="767">1 × рукавичка для миття, 1 × губка з мікрофібри, 1 × щітка для дисків з ручкою, 3 × серветки з мікрофібри, 3 × полірувальних круга</param>
-    <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
-    <param name="Особливості" paramcode="8359">не залишає ворсинок, не дряпає поверхню</param>
-    <param name="Матеріал виготовлення/покриття" paramcode="9868">мікрофібра</param>
+    <param name="Додаткові характеристики" paramcode="2771">Матеріал: мікрофібра, Кількість предметів: 9, Призначення: догляд за кузовом, салоном, стеклами, дисками, Тип чистки: суха та волога, Особливості: не залишає ворсинок, не дряпає поверхню, Повторне використання: так, витримує багаторазові прання, Температурна стійкість: до 60 °C при пранні, Сумісність з автохімією: так, підходить для використання з шампунями та поліролями</param>
+    <param name="Тип" paramcode="7124" valuecode="5c5d3f3ba4717a16b4b4b3317ee42162">щітка для миття</param>
+    <param name="Штрих код" paramcode="barcodes">2733161690</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <width>200</width>
-    <height>230</height>
+    <width>250</width>
+    <height>60</height>
     <weight>500</weight>
     <length>300</length>
   </offer>

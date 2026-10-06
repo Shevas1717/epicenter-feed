@@ -1,6 +1,1829 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-06 21:29">
+<yml_catalog date="2026-10-06 22:04">
   <offers>
-
+  <offer id="3222690218" available="true">
+    <price>2153</price>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
+    <picture>https://images.prom.ua/7771250060_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628268_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628269_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628270_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628272_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628275_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628276_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771250066_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">IP-камера видеонаблюдения RIAS TY305 Tuya 6MP с поворотом и ночным видением White (3_08792)</name>
+    <name lang="ua">IP-камера відеонагляду RIAS TY305 Tuya 6MP з поворотом і нічним баченням White (3_08792)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>IP-камера RIAS TY305 Tuya 6MP с поворотом и ночным видением</strong></b></p>
+<p>IP-камера TY305 от RIAS — это современное решение для видеонаблюдения, которое подходит для использования в доме, офисе или магазине. Оснащенная 6 Мп разрешением, эта камера обеспечивает четкое изображение и позволяет следить за происходящим в режиме реального времени через мобильное приложение Tuya, доступное для Android и iOS. Поворотная конструкция камеры и поддержка ночного видения делают её универсальным инструментом для круглосуточного мониторинга.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Высокое разрешение 6 Мп для детализированного изображения.</li>
+<li>Поворотная конструкция с углом поворота 355° по горизонтали и 90° по вертикали.</li>
+<li>Ночное видение с инфракрасной подсветкой для наблюдения в темноте.</li>
+<li>Двусторонняя аудиосвязь для общения через камеру.</li>
+<li>Управление через удобное мобильное приложение Tuya.</li>
+<li>Поддержка карт памяти microSD до 128 ГБ для хранения записей.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип камеры: IP Wi-Fi камера видеонаблюдения.</li>
+<li>Назначение: для внутреннего использования.</li>
+<li>Форм-фактор: поворотный.</li>
+<li>Режим съемки "день/ночь": да.</li>
+<li>Наличие ИК-подсветки: да.</li>
+<li>Изображение: цветное.</li>
+<li>Датчик движения: да.</li>
+<li>Подключение: Wi-Fi 2,4 ГГц.</li>
+<li>Питание: Micro USB, 12 В/1 А.</li>
+<li>Максимальная нагрузка: 5 Вт.</li>
+<li>Размеры: 120×60 мм.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Wi-Fi камера TY305</li>
+<li>Кабель питания Micro USB</li>
+<li>Блок питания 220V</li>
+<li>Крепежные элементы</li>
+<li>Фирменная упаковка</li>
+</ul>
+<p>IP-камера TY305 от RIAS — это надежное и удобное решение для обеспечения безопасности вашего пространства. Благодаря множеству функций и простоте использования, она станет незаменимым помощником в вашем доме или офисе.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>IP-камера RIAS TY305 Tuya 6MP з поворотом і нічним баченням</strong></b></p>
+<p>IP-камера TY305 від RIAS — це сучасне рішення для відеоспостереження, яке підходить для використання в домі, офісі або магазині. Оснащена 6 Мп роздільною здатністю, ця камера забезпечує чітке зображення та дозволяє стежити за подіями в режимі реального часу через мобільний додаток Tuya, доступний для Android та iOS. Поворотна конструкція камери та підтримка нічного бачення роблять її універсальним інструментом для цілодобового моніторингу.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Висока роздільна здатність 6 Мп для детального зображення.</li>
+<li>Поворотна конструкція з кутом повороту 355° по горизонталі та 90° по вертикалі.</li>
+<li>Нічне бачення з інфрачервоною підсвіткою для спостереження в темряві.</li>
+<li>Двосторонній аудіозв'язок для спілкування через камеру.</li>
+<li>Керування через зручний мобільний додаток Tuya.</li>
+<li>Підтримка карт пам'яті microSD до 128 ГБ для зберігання записів.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип камери: IP Wi-Fi камера відеоспостереження.</li>
+<li>Призначення: для внутрішнього використання.</li>
+<li>Форм-фактор: поворотний.</li>
+<li>Режим зйомки "день/ніч": так.</li>
+<li>Наявність ІК-підсвітки: так.</li>
+<li>Зображення: кольорове.</li>
+<li>Датчик руху: так.</li>
+<li>Підключення: Wi-Fi 2,4 ГГц.</li>
+<li>Живлення: Micro USB, 12 В/1 А.</li>
+<li>Максимальне навантаження: 5 Вт.</li>
+<li>Розміри: 120×60 мм.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Wi-Fi камера TY305</li>
+<li>Кабель живлення Micro USB</li>
+<li>Блок живлення 220V</li>
+<li>Кріпильні елементи</li>
+<li>Фірмова упаковка</li>
+</ul>
+<p>IP-камера TY305 від RIAS — це надійне та зручне рішення для забезпечення безпеки вашого простору. Завдяки безлічі функцій та простоті використання, вона стане незамінним помічником у вашому домі чи офісі.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">6.0</param>
+    <param name="Розміри" paramcode="12576">120×60</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Живлення" paramcode="1661">12.0</param>
+    <param name="Кут огляду по вертикалі" paramcode="1961">90.0</param>
+    <param name="Кут огляду по горизонталі" paramcode="1964">355.0</param>
+    <param name="Споживана потужність" paramcode="244">5.0</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="hf4lbuhebpreyhpp">купольна</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">10.0</param>
+    <param name="Застосування" paramcode="671" valuecode="771488c6776228b226f78665bbda62cc">внутрішня</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi,cnfuazdqkuj91kr0">Wi-Fi, microSD</param>
+    <param name="Кількість мегапікселів матриці" paramcode="882">6.0</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>70</width>
+    <height>130</height>
+    <weight>500</weight>
+    <length>130</length>
+  </offer>
+  <offer id="3222690219" available="true">
+    <price>3415</price>
+    <category code="3516">Камери відеоспостереження</category>
+    <attribute_set code="3516">Камери відеоспостереження</attribute_set>
+    <picture>https://images.prom.ua/7771259640_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771259639_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628278_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628283_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628284_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628285_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628287_ip-kamera-videonablyudeniya-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">IP-камера видеонаблюдения RIAS D003-4G (v380Pro App) 4G 3MP уличная с солнечной панелью White (3_08793)</name>
+    <name lang="ua">IP-камера відеонагляду RIAS D003-4G (v380Pro App) 4G 3MP вулична з сонячною панеллю White (3_08793)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Уличная 4G IP камера RIAS D003-4G 3MP с солнечной панелью</strong></b></p>
+<p>Уличная 4G IP камера RIAS D003-4G — это автономное решение для видеонаблюдения, которое идеально подходит для удаленного контроля территории без необходимости в домашней Wi-Fi сети. Благодаря мобильному 4G-подключению и поворотной PTZ-конструкции, камера обеспечивает полный обзор до 360°, а встроенная подсветка позволяет вести наблюдение даже в ночное время. Зарядка от солнечной панели делает эту модель практичным выбором для использования на даче, в гараже, на складе или других объектах, где сложно организовать постоянное проводное питание.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>4G-подключение для использования в местах без Wi-Fi.</li>
+<li>Поворотная PTZ-конструкция для удаленного изменения направления обзора.</li>
+<li>Обзор до 360° для контроля разных участков территории.</li>
+<li>Аккумуляторное питание с зарядкой от солнечной панели.</li>
+<li>Ночной режим и встроенная подсветка для наблюдения в темное время суток.</li>
+<li>Две внешние антенны для стабильного беспроводного соединения.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: уличная камера видеонаблюдения</li>
+<li>Конструкция: PTZ, поворотная</li>
+<li>Подключение: мобильная сеть 4G</li>
+<li>Приложение: v380Pro</li>
+<li>Обзор: до 360°</li>
+<li>Ночное наблюдение: предусмотрено</li>
+<li>Подсветка: предусмотрена</li>
+<li>Количество внешних антенн: 2</li>
+<li>Питание: аккумулятор с зарядкой от солнечной панели</li>
+<li>Применение: Внутренняя/Уличная</li>
+<li>Форм-фактор: Поворотный</li>
+<li>Тип камеры: IP</li>
+<li>Режим съемки "день/ночь": Да</li>
+<li>Наличие ИК-подсветки: Да</li>
+<li>Изображение картинки: Цветная</li>
+<li>Датчик движения: Да</li>
+<li>Наличие LED-подсветки: Да</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>IP камера видеонаблюдения PTZ D003-4G</li>
+<li>Солнечная панель с креплением</li>
+<li>Элементы для установки</li>
+<li>Фирменная упаковка</li>
+</ul>
+<p>Перед монтажом важно проверить качество мобильного 4G-покрытия в предполагаемом месте установки камеры. Это обеспечит стабильность и надежность видеонаблюдения.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Вулична 4G IP камера RIAS D003-4G 3MP із сонячною панеллю</strong></b></p>
+<p>Вулична 4G IP камера RIAS D003-4G — це автономне рішення для відеоспостереження, яке ідеально підходить для віддаленого контролю території без необхідності в домашній Wi-Fi мережі. Завдяки мобільному 4G-підключенню та поворотній PTZ-конструкції, камера забезпечує повний огляд до 360°, а вбудоване підсвічування дозволяє вести спостереження навіть у нічний час. Зарядка від сонячної панелі робить цю модель практичним вибором для використання на дачі, в гаражі, на складі чи інших об'єктах, де складно організувати постійне дротове живлення.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>4G-підключення для використання в місцях без Wi-Fi.</li>
+<li>Поворотна PTZ-конструкція для віддаленої зміни напрямку огляду.</li>
+<li>Огляд до 360° для контролю різних ділянок території.</li>
+<li>Акумуляторне живлення із зарядкою від сонячної панелі.</li>
+<li>Нічний режим і вбудоване підсвічування для спостереження в темний час доби.</li>
+<li>Дві зовнішні антени для стабільного бездротового з'єднання.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: вулична камера відеоспостереження</li>
+<li>Конструкція: PTZ, поворотна</li>
+<li>Підключення: мобільна мережа 4G</li>
+<li>Додаток: v380Pro</li>
+<li>Огляд: до 360°</li>
+<li>Нічне спостереження: передбачено</li>
+<li>Підсвічування: передбачено</li>
+<li>Кількість зовнішніх антен: 2</li>
+<li>Живлення: акумулятор із зарядкою від сонячної панелі</li>
+<li>Застосування: Внутрішнє/Вуличне</li>
+<li>Форм-фактор: Поворотний</li>
+<li>Тип камери: IP</li>
+<li>Режим зйомки "день/ніч": Так</li>
+<li>Наявність ІК-підсвічування: Так</li>
+<li>Зображення картинки: Кольорова</li>
+<li>Датчик руху: Так</li>
+<li>Наявність LED-підсвічування: Так</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>IP камера відеоспостереження PTZ D003-4G</li>
+<li>Сонячна панель з кріпленням</li>
+<li>Елементи для встановлення</li>
+<li>Фірмова упаковка</li>
+</ul>
+<p>Перед монтажем важливо перевірити якість мобільного 4G-покриття в передбачуваному місці встановлення камери. Це забезпечить стабільність і надійність відеоспостереження.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Кількість ефективних мегапікселів" paramcode="12162">3.0</param>
+    <param name="Динамік зворотного зв’язку" paramcode="12735" valuecode="eb235afa91e77000bd3dc6bd577e3f36">є</param>
+    <param name="Світлофільтр" paramcode="13348" valuecode="9b1cc742c754cd937c9ef215609a908f">авто</param>
+    <param name="Особливості" paramcode="2860">Возможность ночной съемки, Для улицы, Запись звука</param>
+    <param name="Кольорова зйомка" paramcode="3074" valuecode="f42faba584ec99224c84b56094452e72">є</param>
+    <param name="Інфрачервоний освітлювач" paramcode="4090" valuecode="9267c6bebe8f69102af2f805e96ce0fd">так</param>
+    <param name="Тип" paramcode="50" valuecode="02e9e2f0a94b3e55eaaeb62c7ff7a818">безпровідний</param>
+    <param name="Вид" paramcode="51" valuecode="yxumwz7oiua8qxyk,weqwrikv2sgmgtn3,06vxbw0myqqafas4">вулична, IP-камера, роботизована</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Роздільна здатність" paramcode="5684" valuecode="fba1ab83e1a3c73da64c1d7e9717104d">1920x1080 (Full HD)</param>
+    <param name="Автоматичне регулювання підсилення (AGC)" paramcode="5871" valuecode="398e4dcc7feb05521834a9f7750e97c3">є</param>
+    <param name="Баланс білого (AWB)" paramcode="5875" valuecode="a7028c499f9a3cc8831668d15fad88f9">є</param>
+    <param name="Режим «день/ніч»" paramcode="6205" valuecode="5818ccedb92a13a0184fffa4952b5609">є</param>
+    <param name="Спосіб монтажу" paramcode="6233" valuecode="398a6b9abc98822a9d7fe357c9f3e646">внутрішній/для вулиці</param>
+    <param name="Дальність ІЧ-підсвічування" paramcode="6707">20.0</param>
+    <param name="Застосування" paramcode="671" valuecode="f9326d38e03317cc4f29d5286620eb6f">для вулиці/внутрішня</param>
+    <param name="Комплектація" paramcode="767">IP камера відеоспостереження PTZ D003-4G, Сонячна панель з кріпленням, Елементи для встановлення, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+    <param name="Інтерфейси" paramcode="835" valuecode="rufomhqi">Wi-Fi</param>
+    <param name="Кількість мегапікселів матриці" paramcode="882">3.0</param>
+    <param name="Мікрофон" paramcode="884" valuecode="b60ece5d365cb5dfba9000bf19eb10f8">є</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">D003-4G</param>
+    <width>150</width>
+    <height>250</height>
+    <weight>1000</weight>
+    <length>150</length>
+  </offer>
+  <offer id="3222690230" available="true">
+    <price>484</price>
+    <category code="1409">Захисні бандажі</category>
+    <attribute_set code="1409">Захисні бандажі</attribute_set>
+    <picture>https://images.prom.ua/7771358621_korset-dlya-spiny.jpg</picture>
+    <picture>https://images.prom.ua/7771358627_korset-dlya-spiny.jpg</picture>
+    <picture>https://images.prom.ua/7771358616_korset-dlya-spiny.jpg</picture>
+    <picture>https://images.prom.ua/7771358613_korset-dlya-spiny.jpg</picture>
+    <picture>https://images.prom.ua/7771358620_korset-dlya-spiny.jpg</picture>
+    <picture>https://images.prom.ua/7771358617_korset-dlya-spiny.jpg</picture>
+    <vendor>Без бренда</vendor>
+    <name lang="ru">Корсет для спины RIAS Back Pain Need Help с лямками Универсальный Black (3_08804)</name>
+    <name lang="ua">Корсет для спини RIAS Back Pain Need Help з лямками Універсальний Black (3_08804)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Корсет для спины RIAS Back Pain Need Help с лямками Универсальный</strong></b></p>
+<p>Корсет для спины RIAS Back Pain Need Help — это универсальное решение для коррекции осанки и облегчения болей в спине. Он помогает держать позвоночник в правильном положении, предотвращает сутулость и стабилизирует мышечный корсет. Этот корректор осанки подходит как для мужчин, так и для женщин, страдающих заболеваниями или травмами позвоночника, такими как сколиоз, хондроз или остеопороз.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Помогает держать позвоночник в правильном положении</li>
+<li>Не дает сутулиться</li>
+<li>Стабилизирует мышечный корсет</li>
+<li>Надежно фиксирует пояснично-крестцовый отдел</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Материал: Нейлон</li>
+<li>Вид застежки: липучка</li>
+<li>Размер: Универсальный, растягивается/затягивается</li>
+<li>Степень фиксации: Мягкая/умеренная</li>
+<li>Вес товара с упаковкой: 270 г</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Корректор осанки Back Pain Need Help</li>
+<li>Заводская упаковка</li>
+</ul>
+<p>Этот корсет является идеальным выбором для тех, кто стремится улучшить свою осанку и избавиться от болей в спине. Прост в использовании: наденьте его на тело, отрегулируйте лямки и плотно зафиксируйте с помощью липучек.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Корсет для спини RIAS Back Pain Need Help з лямками Універсальний</strong></b></p>
+<p>Корсет для спини RIAS Back Pain Need Help — це універсальне рішення для корекції постави та полегшення болю в спині. Він допомагає тримати хребет у правильному положенні, запобігає сутулості та стабілізує м'язовий корсет. Цей коректор постави підходить як для чоловіків, так і для жінок, які страждають на захворювання або травми хребта, такі як сколіоз, хондроз або остеопороз.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Допомагає тримати хребет у правильному положенні</li>
+<li>Не дає сутулитися</li>
+<li>Стабілізує м'язовий корсет</li>
+<li>Надійно фіксує попереково-крижовий відділ</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Матеріал: Нейлон</li>
+<li>Тип застібки: липучка</li>
+<li>Розмір: Універсальний, розтягується/затягується</li>
+<li>Ступінь фіксації: М'яка/помірна</li>
+<li>Вага товару з упаковкою: 270 г</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Коректор постави Back Pain Need Help</li>
+<li>Заводська упаковка</li>
+</ul>
+<p>Цей корсет є ідеальним вибором для тих, хто прагне покращити свою поставу та позбутися болю в спині. Простий у використанні: надягніть його на тіло, відрегулюйте лямки та щільно зафіксуйте за допомогою липучок.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+    <param name="Модель" paramcode="12248">Back Pain Need Help</param>
+    <param name="Категорія" paramcode="13341" valuecode="47797">Фітнес</param>
+    <param name="Тип застібки" paramcode="2184" valuecode="59a704def41de16ed79ebab169ae12bf">липучка</param>
+    <param name="Стать" paramcode="2469" valuecode="c1d4ea0359dbad82a0910641f07e4dfd">унісекс</param>
+    <param name="Додаткові характеристики" paramcode="2771">Універсальний розмір, підходить для чоловіків і жінок</param>
+    <param name="Властивості" paramcode="2861">Корекція постави, полегшення болю в спині</param>
+    <param name="Вид захисту" paramcode="3985" valuecode="97413acd999e6720ac5d6d8b65e6bb3e,f580881742d155a2f343aff1979b2b9c">для спини, для попереку</param>
+    <param name="Матеріал виробу" paramcode="4328" valuecode="f3e7a040732c6d334fc30e09d002da21">нейлон</param>
+    <param name="Особливості" paramcode="4411" valuecode="0106afe73455151c83b3443d88cb7162">прискорює відновлення організму після травм</param>
+    <param name="Тип" paramcode="4579" valuecode="7caab9c3626ef7d5e453631a6846d03e">фіксатор</param>
+    <param name="Комплектація" paramcode="6021">Коректор постави Back Pain Need Help, Заводська упаковка</param>
+    <param name="Розмір" paramcode="6486" valuecode="b504df441c35b2f2de9a442ceea4c81e">one size</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>150</width>
+    <height>50</height>
+    <weight>270</weight>
+    <length>200</length>
+  </offer>
+  <offer id="3222690225" available="true">
+    <price>473</price>
+    <category code="2952">Тримачі для телефонів в машину</category>
+    <attribute_set code="2952">Тримачі для телефонів в машину</attribute_set>
+    <picture>https://images.prom.ua/7771302550_avtomobilnyj-derzhatel-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7771302547_avtomobilnyj-derzhatel-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7771302552_avtomobilnyj-derzhatel-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7771302551_avtomobilnyj-derzhatel-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7771302554_avtomobilnyj-derzhatel-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7771302555_avtomobilnyj-derzhatel-dlya.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Автомобильный держатель для телефона RIAS CCT28 магнитный с вакуумной присоской Black-Silver (3_08799)</name>
+    <name lang="ua">Автомобільний тримач для телефону RIAS CCT28 магнітний з вакуумною присоскою Black-Silver (3_08799)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Автомобильный держатель для телефона магнитный с вакуумной присоской 62×40 мм</strong></b></p>
+<p>Автомобильный магнитный держатель для телефона CCT28 — это универсальное и стильное решение для тех, кто ценит удобство и надёжность. Благодаря мощной вакуумной присоске держатель легко фиксируется на любой гладкой поверхности — от панели автомобиля до стекла или рабочего стола. Прочный корпус из металла и пластика обеспечивает долговечность конструкции и устойчивость к ежедневному использованию. Магнитная система гарантирует надёжное удержание смартфона, предотвращая его падение даже при резких движениях, вибрациях или торможении.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Мощные магниты надёжно удерживают ваш смартфон</li>
+<li>Вакуумная присоска подходит для любых поверхностей</li>
+<li>Полный поворот и наклон для комфортного обзора</li>
+<li>Прочный корпус выдерживает ежедневное использование</li>
+<li>Современный дизайн гармонирует с интерьером авто</li>
+<li>Простая установка и удобное снятие телефона</li>
+<li>Подходит для дома, офиса и автомобиля</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: держатель для телефона</li>
+<li>Материал: металл и пластик</li>
+<li>Тип крепления: вакуумная присоска</li>
+<li>Повороты: 360°</li>
+<li>Размер: 62 × 40 мм</li>
+<li>Назначение: для автомобиля</li>
+<li>Тип держателя: универсальный</li>
+<li>Конструкция: складная</li>
+<li>Автомобильное крепление: да</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Автодержатель для телефона CCT28</li>
+<li>Упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Автомобільний тримач для телефону магнітний з вакуумною присоскою 62×40 мм</strong></b></p>
+<p>Автомобільний магнітний тримач для телефону CCT28 — це універсальне та стильне рішення для тих, хто цінує зручність та надійність. Завдяки потужній вакуумній присосці тримач легко фіксується на будь-якій гладкій поверхні — від панелі автомобіля до скла чи робочого столу. Міцний корпус з металу та пластику забезпечує довговічність конструкції та стійкість до щоденного використання. Магнітна система гарантує надійне утримання смартфона, запобігаючи його падінню навіть при різких рухах, вібраціях або гальмуванні.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Потужні магніти надійно утримують ваш смартфон</li>
+<li>Вакуумна присоска підходить для будь-яких поверхонь</li>
+<li>Повний поворот і нахил для комфортного огляду</li>
+<li>Міцний корпус витримує щоденне використання</li>
+<li>Сучасний дизайн гармоніює з інтер'єром авто</li>
+<li>Проста установка та зручне зняття телефону</li>
+<li>Підходить для дому, офісу та автомобіля</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: тримач для телефону</li>
+<li>Матеріал: метал і пластик</li>
+<li>Тип кріплення: вакуумна присоска</li>
+<li>Повороти: 360°</li>
+<li>Розмір: 62 × 40 мм</li>
+<li>Призначення: для автомобіля</li>
+<li>Тип тримача: універсальний</li>
+<li>Конструкція: складна</li>
+<li>Автомобільне кріплення: так</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Автотримач для телефону CCT28</li>
+<li>Упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Ширина пристрою" paramcode="11182">40</param>
+    <param name="Довжина" paramcode="2471">62</param>
+    <param name="Додаткові характеристики" paramcode="2771">Повороти: 360°, Конструкція: складна</param>
+    <param name="Тип" paramcode="50" valuecode="udznhh9nje4j1nhp,vvxbyyrlnitlbbes">тримач, магнітний</param>
+    <param name="Ширина" paramcode="5820">40</param>
+    <param name="Місце встановлення" paramcode="7088" valuecode="3c79c33eba9910ad77dbcf6197c821e8,bbb7b2ad56f58f6be05b09b92bc6443f">на присоску, на лобове скло</param>
+    <param name="Модель пристрою" paramcode="7089" valuecode="6965fa642a15490f9cc7e0f3a94c2957">універсальні</param>
+    <param name="Призначення тримача" paramcode="7090" valuecode="abb8c3688e83e40f3fe44ccdee58ab14,a0c05e1361aeadb7b12614f4d60293d2">для мобільного телефону, для смартфона</param>
+    <param name="Матеріал" paramcode="7144" valuecode="881fyfum,i4r9hrox">метал, пластик</param>
+    <param name="Комплектація" paramcode="767">Автотримач для телефону CCT28, Упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>50</width>
+    <height>70</height>
+    <weight>150</weight>
+    <length>80</length>
+  </offer>
+  <offer id="3222690232" available="true">
+    <price>653</price>
+    <category code="6624">Тримачі для рушників</category>
+    <attribute_set code="6624">Тримачі для рушників</attribute_set>
+    <picture>https://images.prom.ua/7771337106_polotentsederzhatel-nastennyj-povorotnyj.jpg</picture>
+    <picture>https://images.prom.ua/7767628555_polotentsederzhatel-nastennyj-povorotnyj.jpg</picture>
+    <picture>https://images.prom.ua/7767628558_polotentsederzhatel-nastennyj-povorotnyj.jpg</picture>
+    <picture>https://images.prom.ua/7767628562_polotentsederzhatel-nastennyj-povorotnyj.jpg</picture>
+    <picture>https://images.prom.ua/7767628559_polotentsederzhatel-nastennyj-povorotnyj.jpg</picture>
+    <picture>https://images.prom.ua/7767628566_polotentsederzhatel-nastennyj-povorotnyj.jpg</picture>
+    <picture>https://images.prom.ua/7767628569_polotentsederzhatel-nastennyj-povorotnyj.jpg</picture>
+    <vendor>Без бренда</vendor>
+    <name lang="ru">Полотенцедержатель настенный поворотный RIAS R-364 на 4 перекладины Black (3_08806)</name>
+    <name lang="ua">Тримач для рушників настінний поворотний RIAS R-364 на 4 перекладини Black (3_08806)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Полотенцедержатель настенный поворотный на 4 перекладины RIAS R-364</strong></b></p>
+<p>Настенный полотенцедержатель RIAS R-364 — это практичное решение для организации пространства в ванной комнате. Благодаря поворотной конструкции, вы сможете удобно развешивать и снимать полотенца, не занимая лишнего места. Этот держатель подходит для размещения нескольких полотенец одновременно, что особенно удобно для семьи или гостей. Легко устанавливается на стену, обеспечивая быстрый доступ к полотенцам в любой момент. Прочный и долговечный, он помогает поддерживать порядок и чистоту, предотвращая скопление влажных полотенец. Универсальный дизайн впишется в любой интерьер ванной комнаты, предлагая комфорт и функциональность в быту.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Экономит место в ванной</li>
+<li>Легко устанавливается</li>
+<li>Удобный в использовании</li>
+<li>Подходит для различных полотенец</li>
+<li>Сохраняет порядок</li>
+<li>Прочный и долговечный</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: полотенцедержатель</li>
+<li>Материал: металл и пластик</li>
+<li>Конструкция: поворотная</li>
+<li>Количество перекладин: 4</li>
+<li>Длина перекладин: 30 см</li>
+<li>Высота: 30 см</li>
+<li>Расстояние между перекладинами: 2 см</li>
+<li>Способ установки: настенный</li>
+<li>Тип крепления: винтовое</li>
+<li>Тип держателя: перекладина</li>
+<li>Количество крючков: 1</li>
+<li>Вместимость полотенец: 4 и более</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Полотенцедержатель</li>
+<li>Крепление: 1 комплект</li>
+<li>Инструкция</li>
+<li>Упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Настінний поворотний тримач для рушників на 4 перекладини RIAS R-364</strong></b></p>
+<p>Настінний тримач для рушників RIAS R-364 — це практичне рішення для організації простору у ванній кімнаті. Завдяки поворотній конструкції, ви зможете зручно розвішувати та знімати рушники, не займаючи зайвого місця. Цей тримач підходить для розміщення кількох рушників одночасно, що особливо зручно для сім'ї або гостей. Легко встановлюється на стіну, забезпечуючи швидкий доступ до рушників у будь-який момент. Міцний і довговічний, він допомагає підтримувати порядок і чистоту, запобігаючи скупченню вологих рушників. Універсальний дизайн впишеться в будь-який інтер'єр ванної кімнати, пропонуючи комфорт і функціональність у побуті.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Економить місце у ванній</li>
+<li>Легко встановлюється</li>
+<li>Зручний у використанні</li>
+<li>Підходить для різних рушників</li>
+<li>Зберігає порядок</li>
+<li>Міцний і довговічний</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: тримач для рушників</li>
+<li>Матеріал: метал і пластик</li>
+<li>Конструкція: поворотна</li>
+<li>Кількість перекладин: 4</li>
+<li>Довжина перекладин: 30 см</li>
+<li>Висота: 30 см</li>
+<li>Відстань між перекладинами: 2 см</li>
+<li>Спосіб встановлення: настінний</li>
+<li>Тип кріплення: гвинтове</li>
+<li>Тип тримача: перекладина</li>
+<li>Кількість гачків: 1</li>
+<li>Вмістимість рушників: 4 і більше</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Тримач для рушників</li>
+<li>Кріплення: 1 комплект</li>
+<li>Інструкція</li>
+<li>Упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Висота" paramcode="110">30</param>
+    <param name="Глибина" paramcode="112">30</param>
+    <param name="Призначення" paramcode="1120" valuecode="d458befe305ec53fc2e85c0d630f3a1d">для рушників</param>
+    <param name="Спосіб монтажу" paramcode="13496" valuecode="0c706eec63c8e66ff6f48d3b1aea9341">дюбель</param>
+    <param name="Додаткові характеристики" paramcode="2771">Настінний, поворотний, 4 перекладини, метал і пластик</param>
+    <param name="Матеріал" paramcode="3256" valuecode="eff975e11ffb92ee7f4fde2d096b625d,beb075a82e9a77495ab361bddef8a6e0">метал, пластик</param>
+    <param name="Тип" paramcode="3329" valuecode="0fdb305456f250044d9d58623d981bc4">поворотний</param>
+    <param name="Колір виробу" paramcode="3361" valuecode="7e0f893652c89548d352e4fe5e532744">чорний</param>
+    <param name="Модель" paramcode="6075">R-364</param>
+    <param name="Комплектація" paramcode="767">Полотенцедержатель, кріплення, інструкція, упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>50</width>
+    <height>320</height>
+    <weight>500</weight>
+    <length>320</length>
+  </offer>
+  <offer id="3222690217" available="true">
+    <price>578</price>
+    <category code="130">Електричні зубні щітки</category>
+    <attribute_set code="130">Електричні зубні щітки</attribute_set>
+    <picture>https://images.prom.ua/7767628263_zubnaya-schetka-sonic.jpg</picture>
+    <picture>https://images.prom.ua/7767628267_zubnaya-schetka-sonic.jpg</picture>
+    <picture>https://images.prom.ua/7767628259_zubnaya-schetka-sonic.jpg</picture>
+    <picture>https://images.prom.ua/7767628258_zubnaya-schetka-sonic.jpg</picture>
+    <picture>https://images.prom.ua/7767628260_zubnaya-schetka-sonic.jpg</picture>
+    <picture>https://images.prom.ua/7767628261_zubnaya-schetka-sonic.jpg</picture>
+    <picture>https://images.prom.ua/7767628266_zubnaya-schetka-sonic.jpg</picture>
+    <vendor>Без бренда</vendor>
+    <name lang="ru">Зубная щетка Sonic Electric Toothbrush X-9 с 4 насадками 5 режимов White (3_08791)</name>
+    <name lang="ua">Зубна щітка Sonic Electric Toothbrush X-9 з 4 насадками 5 режимів White (3_08791)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Электрическая зубная щетка Sonic Electric Toothbrush X-9 с 4 насадками и 5 режимами</strong></b></p>
+<p>Электрическая зубная щетка Sonic Electric Toothbrush X-9 обеспечивает эффективную и комфортную чистку зубов. Благодаря сменным насадкам вы легко поддерживаете гигиену и продлеваете срок службы устройства. Щетка проста в использовании и подходит для всей семьи. Компактный размер делает ее удобной для хранения и транспортировки. Аккумуляторная система позволяет использовать щетку без постоянной замены батареек. Это отличное решение для тех, кто ценит удобство и заботится о здоровье полости рта.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Подходит для ежедневного использования</li>
+<li>Легко брать с собой в поездки</li>
+<li>Сменные насадки для удобства</li>
+<li>Экономит время на уходе за полостью рта</li>
+<li>Удобная зарядка аккумулятора</li>
+<li>Простота в использовании</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: электрическая зубная щетка</li>
+<li>Материал корпуса: пластик</li>
+<li>Технология очистки: ультразвуковая</li>
+<li>Питание: встроенный аккумулятор</li>
+<li>Тип зарядки: от USB</li>
+<li>Количество режимов работы: 5</li>
+<li>Тип насадок: сменные</li>
+<li>Количество насадок: 4</li>
+<li>Влагостойкость: да</li>
+<li>Дополнительные функции: массаж, отбеливание, интеллектуальный таймер</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Электрическая зубная щетка Sonic Electric Toothbrush X-9</li>
+<li>Сменные насадки - 4 шт</li>
+<li>USB кабель для зарядки</li>
+<li>Фирменная упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Електрична зубна щітка Sonic Electric Toothbrush X-9 з 4 насадками та 5 режимами</strong></b></p>
+<p>Електрична зубна щітка Sonic Electric Toothbrush X-9 забезпечує ефективне та комфортне чищення зубів. Завдяки змінним насадкам ви легко підтримуєте гігієну та продовжуєте термін служби пристрою. Щітка проста у використанні та підходить для всієї родини. Компактний розмір робить її зручною для зберігання та транспортування. Акумуляторна система дозволяє використовувати щітку без постійної заміни батарейок. Це чудове рішення для тих, хто цінує зручність та дбає про здоров'я ротової порожнини.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Підходить для щоденного використання</li>
+<li>Легко брати з собою в подорожі</li>
+<li>Змінні насадки для зручності</li>
+<li>Економить час на догляд за ротовою порожниною</li>
+<li>Зручна зарядка акумулятора</li>
+<li>Простота у використанні</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: електрична зубна щітка</li>
+<li>Матеріал корпусу: пластик</li>
+<li>Технологія очищення: ультразвукова</li>
+<li>Живлення: вбудований акумулятор</li>
+<li>Тип зарядки: від USB</li>
+<li>Кількість режимів роботи: 5</li>
+<li>Тип насадок: змінні</li>
+<li>Кількість насадок: 4</li>
+<li>Вологозахищеність: так</li>
+<li>Додаткові функції: масаж, відбілювання, інтелектуальний таймер</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Електрична зубна щітка Sonic Electric Toothbrush X-9</li>
+<li>Змінні насадки - 4 шт</li>
+<li>USB кабель для зарядки</li>
+<li>Фірмова упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип" paramcode="10908" valuecode="a6b1a2bd769cccbe02b125fe5d58c26f">зубна щітка</param>
+    <param name="Призначення" paramcode="10909" valuecode="e9fec886d0aad9507a9864454b48f6c1">для дорослих</param>
+    <param name="Технологія чищення" paramcode="10910" valuecode="93bdfe1048b54961fe3cede754f6ea32">ультразвукова</param>
+    <param name="Насадки" paramcode="10911" valuecode="e7ee268fc4c3d24ef7d43d3c1e93395b,59d837188b0bfea98261a74c4a1ffc24">насадка для чищення зубів, вибілююча насадка</param>
+    <param name="Режими чищення" paramcode="10912">5</param>
+    <param name="Зарядка" paramcode="1110" valuecode="66950437b16ebea92132de9d40c5867c">від USB</param>
+    <param name="Призначення" paramcode="11351" valuecode="12b74572631be2fda3d6eb497e34633a,ea463c3c60e1b3f4e9d0687eef791c2f,386e38f0671cd43ba3ac4b54a5c5e8db">масаж ясен, відбілювання й полірування, видалення нальоту</param>
+    <param name="Ступінь жорсткості базової насадки" paramcode="12636" valuecode="92da6857ebfc9e703460bd289fa060dd">середня</param>
+    <param name="Особливості" paramcode="224" valuecode="rafytdu2,kwik1kt8">індикатор зарядки, таймер</param>
+    <param name="Вікова група" paramcode="2868" valuecode="09857ba2f81d8a7fd4370e2f2114abc6">для дорослих</param>
+    <param name="Модель" paramcode="4351">Sonic Electric Toothbrush X-9</param>
+    <param name="Тип елементів живлення" paramcode="4586">вбудований акумулятор</param>
+    <param name="Кількість насадок у комплекті" paramcode="511">4</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Комплектація" paramcode="767">Електрична зубна щітка Sonic Electric Toothbrush X-9, Змінні насадки - 4 шт, USB кабель для зарядки, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+    <param name="Додаткові характеристики" paramcode="9486">Влагостойкость: да, Дополнительные функции: массаж, отбеливание, интеллектуальный таймер</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Штрих код" paramcode="barcodes">3222690217</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>80</width>
+    <height>250</height>
+    <weight>300</weight>
+    <length>80</length>
+  </offer>
+  <offer id="3222690231" available="true">
+    <price>661</price>
+    <category code="2329">Килими</category>
+    <attribute_set code="2329">Килими</attribute_set>
+    <picture>https://images.prom.ua/7771323218_kovrik-pridvernyj-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771323216_kovrik-pridvernyj-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771323204_kovrik-pridvernyj-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771323211_kovrik-pridvernyj-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771323203_kovrik-pridvernyj-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771323208_kovrik-pridvernyj-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771323224_kovrik-pridvernyj-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Коврик придверный RIAS Super Clean Step Mat супервпитывающий нескользящий 70х45 см Brown (3_08805)</name>
+    <name lang="ua">Килимок придверний RIAS Super Clean Step Mat супервбираючий нековзний 70х45 см Brown (3_08805)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Придверный коврик RIAS Super Clean Step Mat супервпитывающий нескользящий 70х45 см</strong></b></p>
+<p>Коврик RIAS Super Clean Step Mat — это инновационное решение для вашего дома, которое эффективно защищает помещение от грязи и влаги. Изготовленный из 55% хлопка и 45% микрофибры, этот коврик обладает превосходными впитывающими свойствами и долговечностью, обеспечивая чистоту и комфорт в вашем доме.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Супервпитывающий материал, который эффективно задерживает грязь и влагу.</li>
+<li>Противоскользящая резиновая основа для надежной фиксации на полу.</li>
+<li>Легкость в уходе: коврик можно стирать в стиральной машинке.</li>
+<li>Долговечность: медленно изнашивается даже при частом использовании.</li>
+<li>Универсальность: подходит для использования в различных помещениях и в качестве коврика для животных.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: коврик в прихожую</li>
+<li>Материал верха: микрофибра</li>
+<li>Основа: резиновая</li>
+<li>Форма: прямоугольная</li>
+<li>Размеры: 70×45 см</li>
+<li>Применение: внутри помещения</li>
+<li>Нескользящее основание: да</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Придверний килимок RIAS Super Clean Step Mat супервбираючий нековзний 70х45 см</strong></b></p>
+<p>Килимок RIAS Super Clean Step Mat — це інноваційне рішення для вашого дому, яке ефективно захищає приміщення від бруду та вологи. Виготовлений з 55% бавовни та 45% мікрофібри, цей килимок має чудові вбираючі властивості та довговічність, забезпечуючи чистоту та комфорт у вашому домі.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Супервбираючий матеріал, який ефективно затримує бруд і вологу.</li>
+<li>Нековзна гумова основа для надійної фіксації на підлозі.</li>
+<li>Легкість у догляді: килимок можна прати в пральній машині.</li>
+<li>Довговічність: повільно зношується навіть при частому використанні.</li>
+<li>Універсальність: підходить для використання в різних приміщеннях та як килимок для тварин.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: килимок у передпокій</li>
+<li>Матеріал верху: мікрофібра</li>
+<li>Основа: гумова</li>
+<li>Форма: прямокутна</li>
+<li>Розміри: 70×45 см</li>
+<li>Застосування: всередині приміщення</li>
+<li>Нековзна основа: так</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Ширина" paramcode="111">45</param>
+    <param name="Матеріал килимка" paramcode="2197" valuecode="43df6f2f5360afe6ed1614249b74da3c,754a0e3d336457d3991c97b32393c1af">мікрофібра, бавовна</param>
+    <param name="Довжина" paramcode="2470">70</param>
+    <param name="Додаткові характеристики" paramcode="2771">Нековзна гумова основа, супервбираючий матеріал</param>
+    <param name="Матеріал основи" paramcode="2849" valuecode="56f48deed34ccb0460fc4fc1272e70e2">гума</param>
+    <param name="Дизайн" paramcode="4835" valuecode="e347538d76d30c365f40de7a138f9a56">однотонний</param>
+    <param name="Тип" paramcode="5147" valuecode="789cb222af0b52a0c81a3e719d40f18e">без ворсу</param>
+    <param name="Популярні запити" paramcode="7165" valuecode="3d3389930c320b0b15982352d86b0189">стійкий до миття</param>
+    <param name="Форма" paramcode="7169" valuecode="ebdfc86cfec914b0eddcfd2724ee70bc">прямокутна</param>
+    <param name="Склад ворсу" paramcode="7172" valuecode="51b87ced296a6fb918b1f1af1c074d2d,093b7a2889f5e62599e03902a9f441f5">мікрофібра, бавовна</param>
+    <param name="Базовий колір" paramcode="7232" valuecode="27d2e185fe02dec0529d802f088d3513">коричневий</param>
+    <param name="Призначення килима" paramcode="7275" valuecode="91221f2438006804c738ed60b98f9439,4b54fbcdced5279abd63e75613956da2">в передпокій, універсальний</param>
+    <param name="Колір виробника" paramcode="78" valuecode="zbjmtjbl">коричневий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>470</width>
+    <height>50</height>
+    <weight>1000</weight>
+    <length>720</length>
+  </offer>
+  <offer id="3222690214" available="true">
+    <price>4876</price>
+    <category code="355">Кріплення для ТВ</category>
+    <attribute_set code="355">Кріплення для ТВ</attribute_set>
+    <picture>https://images.prom.ua/7771190655_kreplenie-dlya-dvuh.jpg</picture>
+    <picture>https://images.prom.ua/7771190659_kreplenie-dlya-dvuh.jpg</picture>
+    <picture>https://images.prom.ua/7771190654_kreplenie-dlya-dvuh.jpg</picture>
+    <picture>https://images.prom.ua/7771190660_kreplenie-dlya-dvuh.jpg</picture>
+    <picture>https://images.prom.ua/7771190665_kreplenie-dlya-dvuh.jpg</picture>
+    <picture>https://images.prom.ua/7771190662_kreplenie-dlya-dvuh.jpg</picture>
+    <picture>https://images.prom.ua/7771190658_kreplenie-dlya-dvuh.jpg</picture>
+    <vendor code="8cf9d14568cf49c6978a2342c86cd979">North Bayou</vendor>
+    <name lang="ru">Крепление для двух мониторов North Bayou F160 газовая пружина 17–27" White (3_08788)</name>
+    <name lang="ua">Кріплення для двох моніторів North Bayou F160 газова пружина 17–27" White (3_08788)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Крепление для двух мониторов с газовой пружиной 17–27" White</strong></b></p>
+<p>Настольное крепление для двух мониторов North Bayou F160 — это идеальное решение для организации рабочего пространства. Оно позволяет установить два монитора с диагональю от 17 до 27 дюймов, обеспечивая удобную настройку их положения. Газовые пружины обеспечивают плавную регулировку, а совместимость со стандартами VESA 75×75 и 100×100 мм делает это крепление универсальным выбором для большинства мониторов.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Подходит для экранов с диагональю 17–27 дюймов.</li>
+<li>Газовые пружины для плавной регулировки положения мониторов.</li>
+<li>Совместимость со стандартами VESA 75×75 и 100×100 мм.</li>
+<li>Максимальная нагрузка до 9 кг на монитор.</li>
+<li>Регулировка высоты, наклона и поворота экранов.</li>
+<li>Настольное зажимное крепление, не требующее сверления.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: настольное крепление для мониторов.</li>
+<li>Количество мониторов: 2.</li>
+<li>Рекомендуемая диагональ: 17–27".</li>
+<li>Нагрузка на один кронштейн: 2–9 кг.</li>
+<li>Тип механизма: газовая пружина.</li>
+<li>Диапазон регулировки по высоте: примерно 260 мм.</li>
+<li>Максимальная высота: примерно 400 мм.</li>
+<li>Максимальный вылет: примерно 530 мм.</li>
+<li>Максимальная общая ширина: примерно 940 мм.</li>
+<li>Толщина столешницы для установки: 20–90 мм.</li>
+<li>Регулировка наклона и поворота: есть.</li>
+<li>Ориентация монитора: горизонтальная / вертикальная.</li>
+<li>Тип установки: настольный зажим.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Двойное настольное крепление NB F160.</li>
+<li>Кронштейны с газовыми пружинами.</li>
+<li>VESA-пластины для мониторов.</li>
+<li>Настольное основание с зажимом.</li>
+<li>Набор крепежных элементов.</li>
+<li>Инструкция пользователя.</li>
+<li>Заводская упаковка.</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Кріплення для двох моніторів з газовою пружиною 17–27" White</strong></b></p>
+<p>Настільне кріплення для двох моніторів North Bayou F160 — це ідеальне рішення для організації робочого простору. Воно дозволяє встановити два монітори з діагоналлю від 17 до 27 дюймів, забезпечуючи зручне налаштування їх положення. Газові пружини забезпечують плавне регулювання, а сумісність зі стандартами VESA 75×75 і 100×100 мм робить це кріплення універсальним вибором для більшості моніторів.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Підходить для екранів з діагоналлю 17–27 дюймів.</li>
+<li>Газові пружини для плавного регулювання положення моніторів.</li>
+<li>Сумісність зі стандартами VESA 75×75 і 100×100 мм.</li>
+<li>Максимальне навантаження до 9 кг на монітор.</li>
+<li>Регулювання висоти, нахилу і повороту екранів.</li>
+<li>Настільне зажимне кріплення, що не вимагає свердління.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: настільне кріплення для моніторів.</li>
+<li>Кількість моніторів: 2.</li>
+<li>Рекомендована діагональ: 17–27".</li>
+<li>Навантаження на один кронштейн: 2–9 кг.</li>
+<li>Тип механізму: газова пружина.</li>
+<li>Діапазон регулювання по висоті: приблизно 260 мм.</li>
+<li>Максимальна висота: приблизно 400 мм.</li>
+<li>Максимальний виліт: приблизно 530 мм.</li>
+<li>Максимальна загальна ширина: приблизно 940 мм.</li>
+<li>Товщина стільниці для встановлення: 20–90 мм.</li>
+<li>Регулювання нахилу і повороту: є.</li>
+<li>Орієнтація монітора: горизонтальна / вертикальна.</li>
+<li>Тип встановлення: настільний зажим.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Подвійне настільне кріплення NB F160.</li>
+<li>Кронштейни з газовими пружинами.</li>
+<li>VESA-пластини для моніторів.</li>
+<li>Настільна основа з зажимом.</li>
+<li>Набір кріпильних елементів.</li>
+<li>Інструкція користувача.</li>
+<li>Заводська упаковка.</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Висота" paramcode="110">40</param>
+    <param name="Вид" paramcode="1121" valuecode="0604d42a901b8178ed1cfca434649ed3">для монітора</param>
+    <param name="Кількість вузлів повороту" paramcode="12221" valuecode="e6c6ae6dc2cbf64f2ed7d6aba796e58b">3</param>
+    <param name="Додаткові характеристики" paramcode="2771">Газова пружина, регулювання висоти, нахилу і повороту, сумісність зі стандартами VESA 75×75 і 100×100 мм</param>
+    <param name="Вид кріплення" paramcode="5443" valuecode="b7855e1e8c561edb8b420337056579f0">настільне кріплення</param>
+    <param name="Максимальна діагональ телевізора" paramcode="5548">27</param>
+    <param name="Максимальне навантаження (вага ТВ)" paramcode="5553">9</param>
+    <param name="Максимальна відстань від стіни" paramcode="5569">530</param>
+    <param name="Мінімальна діагональ телевізора" paramcode="5587">17</param>
+    <param name="Особливості кріплення" paramcode="5632" valuecode="45dd7cf93e23703d85f7650bd235b6d7,b67d4a757dad556147241b4e223c0f2b,05aaa065e120b32ed2d451b494e91acb">набір для монтажу в комплекті, поворотно-похиле, розміщення двох моніторів</param>
+    <param name="Тип кріплення" paramcode="6575" valuecode="29084105caf2da4fbf990f40d119ca30">поворотно-похилі</param>
+    <param name="Сумісність з діагоналлю телевізора" paramcode="6674" valuecode="a1486df73953a7620786299455b7ca34,e8f5b70c46dc6d5f0673b2fa42ece93c,f24599e5a4755d54b4f7b1e12d7ff2f1,8b8676b512fdf7d066e5088e3bb18229,a882f9d6b3da531c7e4970ef705c338f,5f04ac805ccc66d4a132f2e738547569,144929122b145fb58c048b97104c2c37,89dba590059af68ef2e8d184c1ca6301,c812f0e29a4516af4a3a3156a085ab00,e964e94fe5e091bf6dcf3a1f57ba0caf,be91f96e48d3d8fb1c0e7f8b3fc4ee6d">17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27</param>
+    <param name="Стандарт VESA" paramcode="7254" valuecode="46af39dca7bf9811e43aa961b7b73757,93a18b5b67ff77593e9436a37e835571">75x75, 100x100</param>
+    <param name="Комплектація" paramcode="767">Подвійне настільне кріплення NB F160, кронштейни з газовими пружинами, VESA-пластини для моніторів, настільна основа з зажимом, набір кріпильних елементів, інструкція користувача, заводська упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>200</width>
+    <height>450</height>
+    <weight>5000</weight>
+    <length>600</length>
+  </offer>
+  <offer id="3222690222" available="true">
+    <price>1889</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7771271639_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628457_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628448_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628447_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628450_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628453_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628461_rolikovyj-massazher-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Роликовый массажер RIAS LSF-680 аккумуляторный 3 скорости Black (3_08796)</name>
+    <name lang="ua">Роликовий масажер RIAS LSF-680 акумуляторний 3 швидкості Black (3_08796)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Аккумуляторный роликовый массажер RIAS LSF-680 с 3 скоростями</strong></b></p>
+<p>Аккумуляторный роликовый массажер RIAS LSF-680 — это инновационное устройство для самостоятельного массажа различных участков тела. Он идеально подходит для использования после физических нагрузок, тренировок или длительного пребывания в одном положении. Благодаря беспроводной конструкции и компактным размерам, массажер можно использовать дома, в офисе, спортзале или брать с собой в поездки.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Беспроводной и портативный дизайн.</li>
+<li>Три уровня скорости для индивидуальной настройки массажа.</li>
+<li>Шесть роликовых секций с 21 контактной точкой для эффективного массажа.</li>
+<li>Время автономной работы до 270 минут.</li>
+<li>Удобное управление одной кнопкой.</li>
+<li>Подходит для массажа ног, икр, бедер, рук, плеч, шеи, спины и стоп.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: электрический роликовый массажер.</li>
+<li>Материал корпуса: ABS-пластик.</li>
+<li>Размеры массажера: 19.5×16×7.5 см.</li>
+<li>Питание от Li-ion аккумулятора емкостью 1800 мАч.</li>
+<li>Зарядка через разъем Type-C.</li>
+<li>Вес: около 1 кг.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Электрический роликовый массажер LSF-680.</li>
+<li>USB Кабель Type-C.</li>
+<li>Фирменная упаковка.</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Акумуляторний роликовий масажер RIAS LSF-680 з 3 швидкостями</strong></b></p>
+<p>Акумуляторний роликовий масажер RIAS LSF-680 — це інноваційний пристрій для самостійного масажу різних ділянок тіла. Він ідеально підходить для використання після фізичних навантажень, тренувань або тривалого перебування в одному положенні. Завдяки бездротовій конструкції та компактним розмірам, масажер можна використовувати вдома, в офісі, спортзалі або брати з собою в подорожі.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Бездротовий та портативний дизайн.</li>
+<li>Три рівні швидкості для індивідуального налаштування масажу.</li>
+<li>Шість роликових секцій з 21 контактною точкою для ефективного масажу.</li>
+<li>Час автономної роботи до 270 хвилин.</li>
+<li>Зручне управління однією кнопкою.</li>
+<li>Підходить для масажу ніг, литок, стегон, рук, плечей, шиї, спини та стоп.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: електричний роликовий масажер.</li>
+<li>Матеріал корпусу: ABS-пластик.</li>
+<li>Розміри масажера: 19.5×16×7.5 см.</li>
+<li>Живлення від Li-ion акумулятора ємністю 1800 мАг.</li>
+<li>Зарядка через роз'єм Type-C.</li>
+<li>Вага: близько 1 кг.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Електричний роликовий масажер LSF-680.</li>
+<li>USB Кабель Type-C.</li>
+<li>Фірмова упаковка.</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Висота" paramcode="110">7.5</param>
+    <param name="Ширина" paramcode="111">16.0</param>
+    <param name="Глибина" paramcode="112">19.5</param>
+    <param name="Сфера застосування" paramcode="11201" valuecode="4924ea34ebc450b62042867962a353f9,0305dcb7cd7697c85c43ecc72c21a198,0aeaa17d651a3a7b9f80c4cad12fb6da,787ba1f2efd1c498f0d01c69f3b7f35b,fb5faa0124fdb5f78f41ecd58587a72e,5346dcf0d2e2b88d1d4f7f0843bdc13a,ff181b272c0340c1c06be39268c67def">для стегон і сідниць, для рук, для плечей, для ніг, для спини та попереку, для шиї та плечей, для тіла</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Особливості" paramcode="226" valuecode="6t1ahcxc">регулювання сили масажу</param>
+    <param name="Живлення" paramcode="237" valuecode="fb90dd3094db40c411c23cc15f41f54e,a762d6e59c9a59ed54a8357d4495f299">акумулятор, від USB</param>
+    <param name="Вид масажу" paramcode="413" valuecode="tkqxx2xt,x6soastt3s9hqgzu,azjukrwg6nssn9d0">вібраційний, роликовий, розминання</param>
+    <param name="Насадки" paramcode="414" valuecode="pfxa5wdn">роликова насадка</param>
+    <param name="Модель" paramcode="4351">LSF-680</param>
+    <param name="Тип масажеру" paramcode="516" valuecode="b75ea9a64f38a32c8d73851f95bc1b2b">ручний</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+    <param name="Вага" paramcode="762">1.0</param>
+    <param name="Комплектація" paramcode="767">Електричний роликовий масажер LSF-680, USB Кабель Type-C, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>170</width>
+    <height>80</height>
+    <weight>1100</weight>
+    <length>200</length>
+  </offer>
+  <offer id="3222690223" available="true">
+    <price>1834</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7767628473_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7767628477_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7767628462_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7767628464_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7767628479_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7767628468_ruchnoj-massazher-dlya.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Ручной массажер для мышц RIAS Fascial Gun Pro HB-005 30W Black (3_08797)</name>
+    <name lang="ua">Ручний масажер для м'язів RIAS Fascial Gun Pro HB-005 30W Black (3_08797)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Ручной массажер для мышц RIAS Fascial Gun Pro HB-005 30W</strong></b></p>
+<p>Портативный ручной массажный пистолет Fascial Gun Pro HB-005 — это современный перкуссионный массажер, который идеально подходит для использования в домашних условиях. Он помогает снизить мышечное напряжение, улучшить кровообращение, повысить подвижность и стимулировать лимфатическую систему. Этот массажер также способствует улучшению спортивных результатов и увеличению мышечной массы, а также может служить болеутоляющим средством после интенсивных тренировок и реабилитации после травм.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Увеличивает циркуляцию крови в месте воздействия</li>
+<li>Быстрое восстановление после нагрузок</li>
+<li>Уменьшает целлюлитные отложения</li>
+<li>Снимает мышечные боли и напряжение мышц</li>
+<li>Большое количество насадок в комплекте</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: HB-005</li>
+<li>Мощность: 30 Вт</li>
+<li>Зарядный интерфейс: USB Тип-C</li>
+<li>Количество колебаний в минуту: 1800-3200</li>
+<li>Регулировка количества колебаний: 8 уровней</li>
+<li>Материал корпуса: АБС-пластик</li>
+<li>Емкость встроенного аккумулятора: 1800 мАч</li>
+<li>Время работы аккумулятора: до 12 часов</li>
+<li>Глубина воздействия: 10 мм</li>
+<li>Уровень шума: 45 дБ</li>
+<li>Размеры продукта: 142x42x333 мм</li>
+<li>Тип питания: Аккумулятор</li>
+<li>Функциональность массажера: Антицеллюлитный массаж, Вибрационный массаж, Разминающий массаж</li>
+<li>Область применения массажера: Бедра, Брюшной пресс, Все тело, Грудь, Икры, Колени, Ноги, Плечи, Предплечья, Руки, Спина, Ступни, Шея, Ягодицы</li>
+<li>Количество насадок: 4</li>
+<li>Количество массажных головок: 1 шт</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Массажный пистолет Fascial Gun HB-005</li>
+<li>4 насадки</li>
+<li>Ручка</li>
+<li>Фирменная упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Ручний масажер для м'язів RIAS Fascial Gun Pro HB-005 30W</strong></b></p>
+<p>Портативний ручний масажний пістолет Fascial Gun Pro HB-005 — це сучасний перкусійний масажер, який ідеально підходить для використання в домашніх умовах. Він допомагає знизити м'язову напругу, покращити кровообіг, підвищити рухливість і стимулювати лімфатичну систему. Цей масажер також сприяє поліпшенню спортивних результатів і збільшенню м'язової маси, а також може служити знеболювальним засобом після інтенсивних тренувань і реабілітації після травм.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Збільшує циркуляцію крові в місці впливу</li>
+<li>Швидке відновлення після навантажень</li>
+<li>Зменшує целюлітні відкладення</li>
+<li>Знімає м'язові болі та напругу м'язів</li>
+<li>Велика кількість насадок у комплекті</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: HB-005</li>
+<li>Потужність: 30 Вт</li>
+<li>Зарядний інтерфейс: USB Тип-C</li>
+<li>Кількість коливань на хвилину: 1800-3200</li>
+<li>Регулювання кількості коливань: 8 рівнів</li>
+<li>Матеріал корпусу: АБС-пластик</li>
+<li>Ємність вбудованого акумулятора: 1800 мАг</li>
+<li>Час роботи акумулятора: до 12 годин</li>
+<li>Глибина впливу: 10 мм</li>
+<li>Рівень шуму: 45 дБ</li>
+<li>Розміри продукту: 142x42x333 мм</li>
+<li>Тип живлення: Акумулятор</li>
+<li>Функціональність масажера: Антицелюлітний масаж, Вібраційний масаж, Розминаючий масаж</li>
+<li>Область застосування масажера: Стегна, Черевний прес, Все тіло, Груди, Ікри, Коліна, Ноги, Плечі, Передпліччя, Руки, Спина, Ступні, Шия, Сідниці</li>
+<li>Кількість насадок: 4</li>
+<li>Кількість масажних головок: 1 шт</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Масажний пістолет Fascial Gun HB-005</li>
+<li>4 насадки</li>
+<li>Ручка</li>
+<li>Фірмова упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Потужність" paramcode="103">30</param>
+    <param name="Висота" paramcode="110">33.3</param>
+    <param name="Ширина" paramcode="111">4.2</param>
+    <param name="Глибина" paramcode="112">14.2</param>
+    <param name="Сфера застосування" paramcode="11201" valuecode="4924ea34ebc450b62042867962a353f9,0305dcb7cd7697c85c43ecc72c21a198,9ed54f0d0345d0d1a98468fee668221b,0aeaa17d651a3a7b9f80c4cad12fb6da,787ba1f2efd1c498f0d01c69f3b7f35b,ff181b272c0340c1c06be39268c67def,fb5faa0124fdb5f78f41ecd58587a72e,5346dcf0d2e2b88d1d4f7f0843bdc13a">для стегон і сідниць, для рук, для живота, для плечей, для ніг, для тіла, для спини та попереку, для шиї та плечей</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Кількість насадок" paramcode="172">4</param>
+    <param name="Особливості" paramcode="226" valuecode="6t1ahcxc">регулювання сили масажу</param>
+    <param name="Живлення" paramcode="237" valuecode="fb90dd3094db40c411c23cc15f41f54e,a762d6e59c9a59ed54a8357d4495f299">акумулятор, від USB</param>
+    <param name="Вид масажу" paramcode="413" valuecode="tkqxx2xt,kddd10q8wkuebiyj,azjukrwg6nssn9d0">вібраційний, перкусійний, розминання</param>
+    <param name="Насадки" paramcode="414" valuecode="grqo3cofrwk67123,dxk9oipc,qpsbjmx2,kr9cqpver6p6oxph">кругла насадка, конічна насадка, насадка для точкового масажу, U-подібна насадка</param>
+    <param name="Модель" paramcode="4351">HB-005</param>
+    <param name="Тип масажеру" paramcode="516" valuecode="05848134f6fbd7c87fb98fd935f4fdf2">масажний пістолет</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+    <param name="Комплектація" paramcode="767">Масажний пістолет Fascial Gun HB-005, 4 насадки, Ручка, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>60</width>
+    <height>350</height>
+    <weight>1000</weight>
+    <length>150</length>
+  </offer>
+  <offer id="3222690229" available="true">
+    <price>1119</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7771354262_perkussionnyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771354269_perkussionnyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771354268_perkussionnyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771354260_perkussionnyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771354270_perkussionnyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771354258_perkussionnyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771354249_perkussionnyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7771354267_perkussionnyj-massazher-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Перкуссионный массажер RIAS MD-9901 с 5 насадками 25W USB Type-C Black (3_08803)</name>
+    <name lang="ua">Перкусійний масажер RIAS MD-9901 з 5 насадками 25W USB Type-C Black (3_08803)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Перкуссионный массажер MD-9901 с 5 насадками и USB Type-C</strong></b></p>
+<p>Перкуссионный массажер MD-9901 — это инновационное устройство для глубокого массажа мышц, которое поможет снять усталость, устранить мышечные спазмы и ускорить восстановление после физических нагрузок. Благодаря компактным размерам и эргономичной форме, массажер удобно использовать дома, в офисе или в путешествиях.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Глубокий перкуссионный массаж для стимуляции кровообращения и лимфодренажа.</li>
+<li>6 режимов скорости для выбора оптимальной интенсивности массажа.</li>
+<li>5 специализированных насадок для различных групп мышц.</li>
+<li>Автономная работа и зарядка через USB Type-C.</li>
+<li>Тихая работа и простое управление одной кнопкой.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип устройства: Перкуссионный массажер.</li>
+<li>Область применения: Для всего тела (спина, шея, плечи, ноги, ягодицы, руки, стопы).</li>
+<li>Номинальная мощность: 25 Вт.</li>
+<li>Максимальная скорость двигателя: 3200 об/мин.</li>
+<li>Количество режимов скорости: 6.</li>
+<li>Материал корпуса: Ударопрочный ABS-пластик.</li>
+<li>Тип питания: Встроенный литиевый аккумулятор.</li>
+<li>Емкость аккумулятора: 800 мА·ч.</li>
+<li>Входное питание: 5 В.</li>
+<li>Разъем для зарядки: USB Type-C.</li>
+<li>Количество массажных насадок: 5 шт.</li>
+<li>Управление: Кнопочное / Электронное.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Перкуссионный массажер MDHL MD-9901.</li>
+<li>Сменные массажные насадки — 5 шт. (шестишариковая, U-образная, шариковая, пулеобразная, плоская).</li>
+<li>Зарядный кабель USB Type-C.</li>
+<li>Руководство по эксплуатации.</li>
+<li>Заводская упаковка.</li>
+</ul>
+<p>Перкуссионный массажер MD-9901 — ваш личный массажист для эффективного восстановления и расслабления в любое время и в любом месте.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Перкусійний масажер MD-9901 з 5 насадками та USB Type-C</strong></b></p>
+<p>Перкусійний масажер MD-9901 — це інноваційний пристрій для глибокого масажу м'язів, який допоможе зняти втому, усунути м'язові спазми та прискорити відновлення після фізичних навантажень. Завдяки компактним розмірам та ергономічній формі, масажер зручно використовувати вдома, в офісі або в подорожах.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Глибокий перкусійний масаж для стимуляції кровообігу та лімфодренажу.</li>
+<li>6 режимів швидкості для вибору оптимальної інтенсивності масажу.</li>
+<li>5 спеціалізованих насадок для різних груп м'язів.</li>
+<li>Автономна робота та зарядка через USB Type-C.</li>
+<li>Тиха робота та просте управління однією кнопкою.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип пристрою: Перкусійний масажер.</li>
+<li>Область застосування: Для всього тіла (спина, шия, плечі, ноги, сідниці, руки, стопи).</li>
+<li>Номінальна потужність: 25 Вт.</li>
+<li>Максимальна швидкість двигуна: 3200 об/хв.</li>
+<li>Кількість режимів швидкості: 6.</li>
+<li>Матеріал корпусу: Ударостійкий ABS-пластик.</li>
+<li>Тип живлення: Вбудований літієвий акумулятор.</li>
+<li>Ємність акумулятора: 800 мА·год.</li>
+<li>Вхідна напруга: 5 В.</li>
+<li>Роз'єм для зарядки: USB Type-C.</li>
+<li>Кількість масажних насадок: 5 шт.</li>
+<li>Управління: Кнопкове / Електронне.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Перкусійний масажер MDHL MD-9901.</li>
+<li>Змінні масажні насадки — 5 шт. (шестикулькова, U-подібна, кулькова, пулеподібна, плоска).</li>
+<li>Зарядний кабель USB Type-C.</li>
+<li>Керівництво з експлуатації.</li>
+<li>Заводська упаковка.</li>
+</ul>
+<p>Перкусійний масажер MD-9901 — ваш особистий масажист для ефективного відновлення та розслаблення у будь-який час та в будь-якому місці.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Потужність" paramcode="103">25</param>
+    <param name="Сфера застосування" paramcode="11201" valuecode="4924ea34ebc450b62042867962a353f9,0305dcb7cd7697c85c43ecc72c21a198,0aeaa17d651a3a7b9f80c4cad12fb6da,787ba1f2efd1c498f0d01c69f3b7f35b,fb5faa0124fdb5f78f41ecd58587a72e,5346dcf0d2e2b88d1d4f7f0843bdc13a,ff181b272c0340c1c06be39268c67def">для стегон і сідниць, для рук, для плечей, для ніг, для спини та попереку, для шиї та плечей, для тіла</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Кількість насадок" paramcode="172">5</param>
+    <param name="Особливості" paramcode="226" valuecode="6t1ahcxc">регулювання сили масажу</param>
+    <param name="Живлення" paramcode="237" valuecode="fb90dd3094db40c411c23cc15f41f54e,a762d6e59c9a59ed54a8357d4495f299">акумулятор, від USB</param>
+    <param name="Вид масажу" paramcode="413" valuecode="tkqxx2xt,kddd10q8wkuebiyj,azjukrwg6nssn9d0">вібраційний, перкусійний, розминання</param>
+    <param name="Насадки" paramcode="414" valuecode="grqo3cofrwk67123,kr9cqpver6p6oxph,esatot3xmqnaribk">кругла насадка, U-подібна насадка, пласка насадка</param>
+    <param name="Модель" paramcode="4351">MD-9901</param>
+    <param name="Тип масажеру" paramcode="516" valuecode="05848134f6fbd7c87fb98fd935f4fdf2">масажний пістолет</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+    <param name="Комплектація" paramcode="767">Перкусійний масажер MDHL MD-9901, Змінні масажні насадки — 5 шт., Зарядний кабель USB Type-C, Керівництво з експлуатації, Заводська упаковка.</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Штрих код" paramcode="barcodes">3222690229</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>200</width>
+    <height>100</height>
+    <weight>1000</weight>
+    <length>250</length>
+  </offer>
+  <offer id="3222690227" available="true">
+    <price>708</price>
+    <category code="2613">Набори інструментів</category>
+    <attribute_set code="2613">Набори інструментів</attribute_set>
+    <picture>https://images.prom.ua/7767628527_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628519_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628534_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628521_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628524_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628531_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628536_nabor-instrumentov-rias.jpg</picture>
+    <vendor>Без бренда</vendor>
+    <name lang="ru">Набор инструментов RIAS R-34 с торцевыми головками и битами 34 предмета Blue (3_08801)</name>
+    <name lang="ua">Набір інструментів RIAS R-34 з торцевими головками та бітами 34 предмети Blue (3_08801)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор инструментов RIAS R-34 с торцевыми головками и битами, 34 предмета</strong></b></p>
+<p>Набор инструментов RIAS R-34 представляет собой универсальный комплект, включающий 34 предмета, предназначенный для точной работы с моментом и долговечного использования. Этот набор идеально подходит для ремонта автомобилей, а также для использования в гаражах, мастерских и проектах «сделай сам».</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Высокопрочная конструкция из хромованадиевой стали.</li>
+<li>Стойкость к износу для долговечного использования.</li>
+<li>Компактный кейс для удобного хранения и транспортировки.</li>
+<li>Универсальный адаптер для ручного или трещоточного использования.</li>
+<li>Точные обработанные концы для плотной посадки и улучшенной передачи момента.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Набор инструментов.</li>
+<li>Количество предметов: 34.</li>
+<li>Материал: Хромованадиевая сталь.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Насадки 3/8": T10, T15, T20, T25, T27, T30, T40, T45, T50, T55, T60.</li>
+<li>Насадки 3/8″: E4, E5, E6, E7, E8, E10, E11, E12, E14, E16, E18, E20.</li>
+<li>Биты: T10, T15, T20, T25, T27, T30, T40, T45, T50, T60.</li>
+<li>Битовый адаптер - 3/8″ x 5/16”.</li>
+<li>14 бит 4, 5, 6, 7, 8, 10, 12 (30 мм) и (75 мм).</li>
+<li>14 бит T20, T25, T30, T40, T45, T50, T55 (30 мм) и (75 мм).</li>
+<li>10 бит 5, 6, 8, 10, 12 (30 мм) и (75 мм).</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір інструментів RIAS R-34 з торцевими головками та бітами, 34 предмети</strong></b></p>
+<p>Набір інструментів RIAS R-34 є універсальним комплектом, що включає 34 предмети, призначеним для точної роботи з моментом та довговічного використання. Цей набір ідеально підходить для ремонту автомобілів, а також для використання в гаражах, майстернях і проектах «зроби сам».</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Високоміцна конструкція з хромованадієвої сталі.</li>
+<li>Стійкість до зносу для довговічного використання.</li>
+<li>Компактний кейс для зручного зберігання та транспортування.</li>
+<li>Універсальний адаптер для ручного або тріскачного використання.</li>
+<li>Точно оброблені кінці для щільної посадки та покращеної передачі моменту.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Набір інструментів.</li>
+<li>Кількість предметів: 34.</li>
+<li>Матеріал: Хромованадієва сталь.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Насадки 3/8": T10, T15, T20, T25, T27, T30, T40, T45, T50, T55, T60.</li>
+<li>Насадки 3/8″: E4, E5, E6, E7, E8, E10, E11, E12, E14, E16, E18, E20.</li>
+<li>Біти: T10, T15, T20, T25, T27, T30, T40, T45, T50, T60.</li>
+<li>Бітовий адаптер - 3/8″ x 5/16”.</li>
+<li>14 біт 4, 5, 6, 7, 8, 10, 12 (30 мм) і (75 мм).</li>
+<li>14 біт T20, T25, T30, T40, T45, T50, T55 (30 мм) і (75 мм).</li>
+<li>10 біт 5, 6, 8, 10, 12 (30 мм) і (75 мм).</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Посадковий діаметр" paramcode="11615" valuecode="68e8952296db04998fc0371af994b765">3/8</param>
+    <param name="Кількість в наборі" paramcode="515" valuecode="22334eb51860543d79a6c36c6db0c695">20-49</param>
+    <param name="Упаковка" paramcode="8345" valuecode="da89dde529de552c79a16d31da9a59ca">валіза пластикова</param>
+    <param name="Особливості" paramcode="8484">Високоміцна конструкція з хромованадієвої сталі, стійкість до зносу, компактний кейс, універсальний адаптер, точно оброблені кінці</param>
+    <param name="Сфера застосування" paramcode="8607" valuecode="c08c2ec0f07e32c47e5a6f300d674836">універсальний</param>
+    <param name="Кількість у наборі" paramcode="8993">34</param>
+    <param name="Комплектація" paramcode="9578">Насадки 3/8": T10, T15, T20, T25, T27, T30, T40, T45, T50, T55, T60; Насадки 3/8″: E4, E5, E6, E7, E8, E10, E11, E12, E14, E16, E18, E20; Біти: T10, T15, T20, T25, T27, T30, T40, T45, T50, T60; Бітовий адаптер - 3/8″ x 5/16”; 14 біт 4, 5, 6, 7, 8, 10, 12 (30 мм) і (75 мм); 14 біт T20, T25, T30, T40, T45, T50, T55 (30 мм) і (75 мм); 10 біт 5, 6, 8, 10, 12 (30 мм) і (75 мм)</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08801</param>
+    <width>200</width>
+    <height>100</height>
+    <weight>1500</weight>
+    <length>300</length>
+  </offer>
+  <offer id="3222690228" available="true">
+    <price>2366</price>
+    <category code="2613">Набори інструментів</category>
+    <attribute_set code="2613">Набори інструментів</attribute_set>
+    <picture>https://images.prom.ua/7767628549_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628538_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628541_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628553_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628546_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628542_nabor-instrumentov-rias.jpg</picture>
+    <vendor>Без бренда</vendor>
+    <name lang="ru">Набор инструментов RIAS R-37 с трещеткой и ключами 37 предметов в кейсе Blue (3_08802)</name>
+    <name lang="ua">Набір інструментів RIAS R-37 з тріскачкою та ключами 37 предметів у кейсі Blue (3_08802)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор инструментов RIAS R-37 с трещеткой и ключами, 37 предметов в пластиковом кейсе</strong></b></p>
+<p>Этот набор инструментов идеально подходит для выполнения различных задач, включая ремонт автомобилей, техники, а также монтажные и слесарные работы. В комплект входит 37 предметов, которые упакованы в удобный пластиковый кейс для легкого хранения и транспортировки.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Универсальный набор для различных задач</li>
+<li>Изготовлен из высококачественной хромованадиевой стали CR-V</li>
+<li>Удобный пластиковый кейс для хранения и транспортировки</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: набор ручного инструмента</li>
+<li>Количество предметов: 37</li>
+<li>Материал: хромованадиевая сталь CR-V</li>
+<li>Тип упаковки: пластиковый кейс</li>
+<li>Подходит для: гаража, СТО, мастерской, дома и дачи</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Торцевые головки разных размеров</li>
+<li>Гаечные ключи</li>
+<li>Трещотка</li>
+<li>Удлинители</li>
+<li>Вороток</li>
+<li>Переходники</li>
+<li>Дополнительные насадки и аксессуары</li>
+<li>Пластиковый кейс</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір інструментів RIAS R-37 з тріскачкою та ключами, 37 предметів у пластиковому кейсі</strong></b></p>
+<p>Цей набір інструментів ідеально підходить для виконання різноманітних завдань, включаючи ремонт автомобілів, техніки, а також монтажні та слюсарні роботи. У комплект входить 37 предметів, які упаковані в зручний пластиковий кейс для легкого зберігання та транспортування.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Універсальний набір для різноманітних завдань</li>
+<li>Виготовлений з високоякісної хромованадієвої сталі CR-V</li>
+<li>Зручний пластиковий кейс для зберігання та транспортування</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: набір ручного інструменту</li>
+<li>Кількість предметів: 37</li>
+<li>Матеріал: хромованадієва сталь CR-V</li>
+<li>Тип упаковки: пластиковий кейс</li>
+<li>Підходить для: гаража, СТО, майстерні, дому та дачі</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Торцеві головки різних розмірів</li>
+<li>Гайкові ключі</li>
+<li>Тріскачка</li>
+<li>Подовжувачі</li>
+<li>Вороток</li>
+<li>Перехідники</li>
+<li>Додаткові насадки та аксесуари</li>
+<li>Пластиковий кейс</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Кількість в наборі" paramcode="515" valuecode="22334eb51860543d79a6c36c6db0c695">20-49</param>
+    <param name="Упаковка" paramcode="8345" valuecode="da89dde529de552c79a16d31da9a59ca">валіза пластикова</param>
+    <param name="Особливості" paramcode="8484">Универсальный набор для различных задач, изготовлен из высококачественной хромованадиевой стали CR-V.</param>
+    <param name="Сфера застосування" paramcode="8607" valuecode="c08c2ec0f07e32c47e5a6f300d674836">універсальний</param>
+    <param name="Кількість у наборі" paramcode="8993">37</param>
+    <param name="Комплектація" paramcode="9578">Торцеві головки різних розмірів, гайкові ключі, тріскачка, подовжувачі, вороток, перехідники, додаткові насадки та аксесуари, пластиковий кейс.</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Висота упаковки" paramcode="height">100</param>
+    <param name="Глибина упаковки" paramcode="length">350</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08802</param>
+    <param name="Вага упаковки" paramcode="weight">3000</param>
+    <param name="Ширина упаковки" paramcode="width">250</param>
+    <width>250</width>
+    <height>100</height>
+    <weight>3000</weight>
+    <length>350</length>
+  </offer>
+  <offer id="3222690216" available="true">
+    <price>651</price>
+    <category code="5620">Настільні лампи</category>
+    <attribute_set code="5620">Настільні лампи</attribute_set>
+    <picture>https://images.prom.ua/7771196806_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196808_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196811_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196817_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196815_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196802_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196804_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196807_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196810_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <picture>https://images.prom.ua/7771196822_nastolnaya-svetodiodnaya-lampa.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Настольная светодиодная лампа RIAS BL-3201 сенсорная 60W White (3_08790)</name>
+    <name lang="ua">Настільна світлодіодна лампа RIAS BL-3201 сенсорна 60W White (3_08790)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Настольная светодиодная лампа RIAS BL-3201 сенсорная 60W</strong></b></p>
+<p>Аккумуляторная настольная лампа BL-3201 — это практичное и стильное решение для вашего рабочего стола, учебы или отдыха. Лампа сочетает в себе автономную работу, сенсорное управление и регулируемое освещение, обеспечивая комфорт для глаз в любое время суток.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Автономная работа без постоянного подключения к сети.</li>
+<li>Сенсорное управление для удобного включения и переключения режимов.</li>
+<li>Три режима освещения для работы, чтения и отдыха.</li>
+<li>Регулировка угла наклона на 360° для точного направления света.</li>
+<li>Компактные размеры — не занимает много места на столе.</li>
+<li>Возможность использования в качестве подставки для смартфона.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: настольная LED-лампа.</li>
+<li>Модель: BL-3201.</li>
+<li>Мощность: 60 Вт.</li>
+<li>Количество режимов освещения: 3.</li>
+<li>Тип управления: сенсорный.</li>
+<li>Тип питания: встроенный аккумулятор.</li>
+<li>Зарядка: USB – microUSB.</li>
+<li>Высота лампы: 28 см.</li>
+<li>Ширина: 125 мм.</li>
+<li>Длина: 180 мм.</li>
+<li>Вес: 205 г.</li>
+<li>Материал: пластик.</li>
+<li>Количество источников света: 28.</li>
+<li>Источник питания: аккумуляторный.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Настольная лампа</li>
+<li>Зарядный кабель USB – microUSB</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Настільна світлодіодна лампа RIAS BL-3201 сенсорна 60W</strong></b></p>
+<p>Акумуляторна настільна лампа BL-3201 — це практичне та стильне рішення для вашого робочого столу, навчання або відпочинку. Лампа поєднує в собі автономну роботу, сенсорне керування та регульоване освітлення, забезпечуючи комфорт для очей у будь-який час доби.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Автономна робота без постійного підключення до мережі.</li>
+<li>Сенсорне керування для зручного вмикання та перемикання режимів.</li>
+<li>Три режими освітлення для роботи, читання та відпочинку.</li>
+<li>Регулювання кута нахилу на 360° для точного спрямування світла.</li>
+<li>Компактні розміри — не займає багато місця на столі.</li>
+<li>Можливість використання як підставки для смартфона.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: настільна LED-лампа.</li>
+<li>Модель: BL-3201.</li>
+<li>Потужність: 60 Вт.</li>
+<li>Кількість режимів освітлення: 3.</li>
+<li>Тип керування: сенсорний.</li>
+<li>Тип живлення: вбудований акумулятор.</li>
+<li>Зарядка: USB – microUSB.</li>
+<li>Висота лампи: 28 см.</li>
+<li>Ширина: 125 мм.</li>
+<li>Довжина: 180 мм.</li>
+<li>Вага: 205 г.</li>
+<li>Матеріал: пластик.</li>
+<li>Кількість джерел світла: 28.</li>
+<li>Джерело живлення: акумуляторне.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Настільна лампа</li>
+<li>Зарядний кабель USB – microUSB</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Матеріал корпусу" paramcode="106" valuecode="cae20eb7b306775054bdd4ac9a507644">пластик</param>
+    <param name="Висота" paramcode="110">28.0</param>
+    <param name="Ширина" paramcode="111">12.5</param>
+    <param name="Глибина" paramcode="112">18.0</param>
+    <param name="Призначення" paramcode="13475" valuecode="b1ef26b6a94d149154daca786461602a">для дитячої</param>
+    <param name="Особливості" paramcode="2129" valuecode="08e2c37303590e363bdfa129548628bb,7de08a7784b0a25c196046c83c2a1cb3,b3037f7b38694d03db36d18a0ff4b93b,d87ff7e034253beea2380a1e963c6ea7">сенсорні, з сенсорним керуванням, з акумулятором, з поворотом на 360°</param>
+    <param name="Довжина" paramcode="2470">18.0</param>
+    <param name="Тип товару" paramcode="2496" valuecode="nkaqmmsnvv6nvxu8">Настільна лампа акумуляторна</param>
+    <param name="Установка" paramcode="3988" valuecode="adb8a196354da0fa6c66c30260c87fab">на підставці</param>
+    <param name="Тип живлення" paramcode="4553" valuecode="b05558f1ef2dd4306e91b3160fa59b16">акумулятор</param>
+    <param name="Вид" paramcode="51" valuecode="41f1c02ec870a2d8c0942cdecd7667d8">настільна лампа</param>
+    <param name="Напруга" paramcode="5609">5.0</param>
+    <param name="Кількість ламп освітлення" paramcode="586">28.0</param>
+    <param name="Потужність лампи освітлення" paramcode="587">60.0</param>
+    <param name="Вид вимикача" paramcode="5895" valuecode="2712048ab38b830847da933fb88fe59b">сенсорний</param>
+    <param name="Кількість світлодіодів" paramcode="6016">28.0</param>
+    <param name="Матеріал виробу" paramcode="6044" valuecode="5a4a95eff6706e7ca8c07da62d76793e">пластик</param>
+    <param name="Матеріал плафонів і підвісок" paramcode="6065" valuecode="0dc4bded1cab4c259214417f4af090eb">пластик</param>
+    <param name="Стиль" paramcode="6246" valuecode="mbsifhw4jmtncul0,2vomyl3z">сучасний, мінімалізм</param>
+    <param name="Тип лампи" paramcode="6286" valuecode="461a1c2e8b380ae056d18a7248fbb5db">світлодіодна (LED)</param>
+    <param name="Тип цоколя" paramcode="6397" valuecode="rxragzwao3gp2dk2">LED-модуль</param>
+    <param name="Комплектація" paramcode="767">Настільна лампа, Зарядний кабель USB – microUSB</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">BL-3201</param>
+    <width>140</width>
+    <height>300</height>
+    <weight>250</weight>
+    <length>200</length>
+  </offer>
+  <offer id="3222690226" available="true">
+    <price>525</price>
+    <category code="2790">Капучинатори</category>
+    <attribute_set code="2790">Капучинатори</attribute_set>
+    <picture>https://images.prom.ua/7771343777_penovzbivatel-rias-wireless.jpg</picture>
+    <picture>https://images.prom.ua/7767628503_penovzbivatel-rias-wireless.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Пеновзбиватель RIAS Wireless Electric 3 скорости USB 2 насадки Black (3_08800)</name>
+    <name lang="ua">Піновзбивач RIAS Wireless Electric 3 швидкості USB 2 насадки Black (3_08800)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Портативный электрический мини миксер-капучинатор RIAS Wireless Electric 3 скорости USB 2 насадки</strong></b></p>
+<p>Портативный электрический мини миксер-капучинатор Wireless Electric Egg Beater — это компактное и мощное устройство, идеально подходящее для приготовления вкусных напитков, коктейлей, сливок и взбивания яиц. Благодаря работе от аккумулятора и зарядке через USB, вы получаете полную свободу движений на кухне. Венчик из нержавеющей стали 304 создает пышную и густую пену, а три режима скорости позволяют регулировать интенсивность взбивания. Устройство легко ухаживать: насадки можно промывать под водой, а ручку протирать влажной салфеткой, что делает использование максимально удобным.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Беспроводной — работает от аккумулятора</li>
+<li>Зарядка через USB — удобство и мобильность</li>
+<li>3 скорости вращения — для разных задач</li>
+<li>Венчик из нержавеющей стали 304 — прочность и долговечность</li>
+<li>Легкий и компактный — удобно хранить и использовать</li>
+<li>Простота ухода — насадки промываются под водой, ручка протирается</li>
+<li>Универсальное предназначение — для молока, яиц, сливок, коктейлей, соусов</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: электрический вспениватель / взбиватель</li>
+<li>Материал венчика: нержавеющая сталь 304</li>
+<li>Материал ручки: пластик</li>
+<li>Зарядка: USB</li>
+<li>Водозащита: насадки можно промывать, ручку не мочить</li>
+<li>Насадки: 2 сменные</li>
+<li>Назначение: молоко, яйца, сливки, напитки, соусы</li>
+<li>Состояние: Новое</li>
+<li>Тип: Бытовой</li>
+<li>Питание: Аккумулятор</li>
+<li>Тип миксера: Ручной</li>
+<li>Материал корпуса: Пластик</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Электрический миксер-капучинатор Wireless Electric Egg Beater</li>
+<li>2 сменные насадки</li>
+<li>USB-кабель для зарядки</li>
+<li>Фирменная упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Портативний електричний міні міксер-капучинатор RIAS Wireless Electric 3 швидкості USB 2 насадки</strong></b></p>
+<p>Портативний електричний міні міксер-капучинатор Wireless Electric Egg Beater — це компактний і потужний пристрій, ідеально підходящий для приготування смачних напоїв, коктейлів, вершків та збивання яєць. Завдяки роботі від акумулятора та зарядці через USB, ви отримуєте повну свободу рухів на кухні. Вінчик з нержавіючої сталі 304 створює пишну і густу піну, а три режими швидкості дозволяють регулювати інтенсивність збивання. Пристрій легко доглядати: насадки можна промивати під водою, а ручку протирати вологою серветкою, що робить використання максимально зручним.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Бездротовий — працює від акумулятора</li>
+<li>Зарядка через USB — зручність і мобільність</li>
+<li>3 швидкості обертання — для різних завдань</li>
+<li>Вінчик з нержавіючої сталі 304 — міцність і довговічність</li>
+<li>Легкий і компактний — зручно зберігати і використовувати</li>
+<li>Простота догляду — насадки промиваються під водою, ручка протирається</li>
+<li>Універсальне призначення — для молока, яєць, вершків, коктейлів, соусів</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: електричний спінювач / збивач</li>
+<li>Матеріал вінчика: нержавіюча сталь 304</li>
+<li>Матеріал ручки: пластик</li>
+<li>Зарядка: USB</li>
+<li>Водозахист: насадки можна промивати, ручку не мочити</li>
+<li>Насадки: 2 змінні</li>
+<li>Призначення: молоко, яйця, вершки, напої, соуси</li>
+<li>Стан: Новий</li>
+<li>Тип: Побутовий</li>
+<li>Живлення: Акумулятор</li>
+<li>Тип міксера: Ручний</li>
+<li>Матеріал корпусу: Пластик</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Електричний міксер-капучинатор Wireless Electric Egg Beater</li>
+<li>2 змінні насадки</li>
+<li>USB-кабель для зарядки</li>
+<li>Фірмова упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
+    <param name="Тип" paramcode="12116" valuecode="c0530bc76bbb600210960b634479b6f0">ручний</param>
+    <param name="Режими роботи" paramcode="12122">3 швидкості</param>
+    <param name="Матеріал корпусу" paramcode="12125">пластик</param>
+    <param name="Кількість насадок" paramcode="172">2</param>
+    <param name="Модель" paramcode="4351">RIAS Wireless Electric</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0,olwf3wauotersowj">пластик, нержавіюча сталь</param>
+    <param name="Комплектація" paramcode="767">Електричний міксер-капучинатор, 2 змінні насадки, USB-кабель для зарядки, фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Додаткові характеристики" paramcode="9486">Бездротовий, зарядка через USB, 3 швидкості, легкий і компактний</param>
+    <param name="Насадки" paramcode="9925">2 змінні насадки</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08800</param>
+    <width>60</width>
+    <height>250</height>
+    <weight>300</weight>
+    <length>60</length>
+  </offer>
+  <offer id="3222690220" available="true">
+    <price>809</price>
+    <category code="6818">Етажерки</category>
+    <attribute_set code="6818">Етажерки</attribute_set>
+    <picture>https://images.prom.ua/7767628291_etazherka-napolnaya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628288_etazherka-napolnaya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628289_etazherka-napolnaya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628292_etazherka-napolnaya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628290_etazherka-napolnaya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628293_etazherka-napolnaya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628294_etazherka-napolnaya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628295_etazherka-napolnaya-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628297_etazherka-napolnaya-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Этажерка напольная RIAS 64206 на колесах 3 яруса 64x36x23.5 см White (3_08794)</name>
+    <name lang="ua">Етажерка підлогова RIAS 64206 на колесах 3 яруси 64x36x23.5 см White (3_08794)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Этажерка напольная на колесах 3 яруса 64x36x23.5 см</strong></b></p>
+<p>Этажерка напольная 3-х ярусная на колесах — это удобное решение для организации хранения в вашем доме или офисе. Благодаря своей многоуровневой конструкции, она эффективно использует пространство и подходит для различных помещений, таких как кухня, ванная комната, спальня, прихожая, офис, салон, мастерская, балкон или амбар. Компактные размеры и легкость сборки делают эту этажерку универсальным элементом интерьера.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Рационально использует пространство</li>
+<li>Простота перемещения по дому</li>
+<li>Идеальна для разных комнат</li>
+<li>Быстрая и удобная сборка</li>
+<li>Комфортная в эксплуатации</li>
+<li>Современный и стильный внешний вид</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: мобильная этажерка</li>
+<li>Количество ярусов: 3</li>
+<li>Материал: пластик</li>
+<li>Размер: 64×36×23.5 см</li>
+<li>Конструкция: сборная</li>
+<li>Поворот колес: 360°</li>
+<li>Особенности: бортики на полках, вентиляционные прорези, колеса с фиксаторами</li>
+<li>Назначение: для кухни, ванной комнаты, спальни, прихожей, офиса, салона, мастерской, балкона, амбара</li>
+<li>Транспортировочное состояние: в разобранном виде</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Этажерка на колесах 3 яруса 64х36х23,5см 64206</li>
+<li>Фирменная упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Етажерка підлогова на колесах 3 яруси 64x36x23.5 см</strong></b></p>
+<p>Етажерка підлогова 3-х ярусна на колесах — це зручне рішення для організації зберігання у вашому домі або офісі. Завдяки своїй багаторівневій конструкції, вона ефективно використовує простір і підходить для різних приміщень, таких як кухня, ванна кімната, спальня, передпокій, офіс, салон, майстерня, балкон або комора. Компактні розміри та легкість складання роблять цю етажерку універсальним елементом інтер'єру.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Раціонально використовує простір</li>
+<li>Простота переміщення по дому</li>
+<li>Ідеальна для різних кімнат</li>
+<li>Швидке та зручне складання</li>
+<li>Комфортна в експлуатації</li>
+<li>Сучасний та стильний зовнішній вигляд</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: мобільна етажерка</li>
+<li>Кількість ярусів: 3</li>
+<li>Матеріал: пластик</li>
+<li>Розмір: 64×36×23.5 см</li>
+<li>Конструкція: збірна</li>
+<li>Поворот коліс: 360°</li>
+<li>Особливості: бортики на полицях, вентиляційні прорізи, колеса з фіксаторами</li>
+<li>Призначення: для кухні, ванної кімнати, спальні, передпокою, офісу, салону, майстерні, балкона, комори</li>
+<li>Транспортний стан: у розібраному вигляді</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Етажерка на колесах 3 яруси 64х36х23,5см 64206</li>
+<li>Фірмова упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Матеріал каркаса" paramcode="10343" valuecode="b35d4299a4009bc9d9b07557c0808936">пластик</param>
+    <param name="Призначення" paramcode="10347" valuecode="5788205744178e8a35927cd7e77ac9f9,11ad523fa47f126936b853901a5bc030,7fa55cc3ec9daac7f16bec4ded2f00fc,f62245848965396b1ce3291bf632795d,bd3f3b7859811a3a0cff39c3b84d1d32,b1b04232146b5715dddab7ffad1f47b3">для кухні, для ванної, для спальні, для передпокою, для офісу, для балкона</param>
+    <param name="Транспортувальний стан" paramcode="12573" valuecode="f1df447d1a3b240c3f7e88748db69ebf">розібраний</param>
+    <param name="Покриття каркаса" paramcode="13377" valuecode="6f765877844f037212d0cc807518ae67">без покриття</param>
+    <param name="Покриття полиць" paramcode="13378" valuecode="b64583c0938caf6642ca96c11567137b">без покриття</param>
+    <param name="Довжина" paramcode="2471">640</param>
+    <param name="Тип установки" paramcode="2563" valuecode="b5a9d7312da2d3230391bf679b3e0908">підлоговий</param>
+    <param name="Кількість полиць" paramcode="3239">3</param>
+    <param name="Особливості конструкції" paramcode="4401">бортики на полицях, вентиляційні прорізи, колеса з фіксаторами</param>
+    <param name="Висота" paramcode="4814">640</param>
+    <param name="Стиль" paramcode="5134" valuecode="f338f268110fc41c6e91f858e91c21c1">модерн</param>
+    <param name="Глибина" paramcode="5932">235</param>
+    <param name="Матеріал полиць" paramcode="616" valuecode="48af4d85ecfafcf36dc7d0aff6b45616">пластик</param>
+    <param name="Ширина" paramcode="6455">360</param>
+    <param name="Комплектація" paramcode="767">Етажерка на колесах 3 яруси 64х36х23,5см 64206, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+    <param name="Конструкція" paramcode="81" valuecode="751eef71001305ec985d04fbadd09297,6553da031aabc49f6a7ef307bb3d4b44">з полицями, з колесами</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>400</width>
+    <height>700</height>
+    <weight>2000</weight>
+    <length>300</length>
+  </offer>
+  <offer id="3222690211" available="true">
+    <price>6694</price>
+    <category code="387">Кухонні стільці</category>
+    <attribute_set code="387">Кухонні стільці</attribute_set>
+    <picture>https://images.prom.ua/7771168775_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628221_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628223_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628224_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628225_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628226_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628227_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628228_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628229_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628230_nabor-stulev-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Набор стульев RIAS DSF-316 с мягкой вельветовой обивкой 2 шт Grey (3_08785)</name>
+    <name lang="ua">Набір стільців RIAS DSF-316 з м'якою вельветовою оббивкою 2 шт Grey (3_08785)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор стульев с мягкой вельветовой обивкой RIAS DSF-316, 2 шт</strong></b></p>
+<p>Набор стульев DSF-316 от RIAS — это стильное и практичное решение для любого современного интерьера. Эти стулья идеально подходят для использования дома, в офисе, салоне или кафе. Их скандинавский дизайн, мягкая вельветовая обивка и прочные металлические ножки делают их универсальным выбором для обеденной зоны, рабочего пространства или зоны отдыха.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Скандинавский стиль</li>
+<li>Мягкая вельветовая обивка</li>
+<li>Высокоэластичный вспененный наполнитель</li>
+<li>Эргономичная форма</li>
+<li>Прочные металлические ножки</li>
+<li>Противоскользящие накладки</li>
+<li>Защита пола от царапин</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: DSF-316</li>
+<li>Тип товара: набор стульев</li>
+<li>Количество в наборе: 2 шт.</li>
+<li>Размеры одного стула: 80×47×40 см</li>
+<li>Материал обивки: вельвет</li>
+<li>Наполнение сиденья: высокоэластичная пена</li>
+<li>Каркас: углеродистая сталь A3</li>
+<li>Тип ножек: металлические</li>
+<li>Износостойкость: более 20 000 циклов</li>
+<li>Воздухопроницаемость: ≥ 95%</li>
+<li>Устойчивость к образованию катышков: ≥ 4 уровня</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Стул DSF-316 — 2 шт.</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір стільців з м'якою вельветовою оббивкою RIAS DSF-316, 2 шт</strong></b></p>
+<p>Набір стільців DSF-316 від RIAS — це стильне та практичне рішення для будь-якого сучасного інтер'єру. Ці стільці ідеально підходять для використання вдома, в офісі, салоні або кафе. Їхній скандинавський дизайн, м'яка вельветова оббивка та міцні металеві ніжки роблять їх універсальним вибором для обідньої зони, робочого простору або зони відпочинку.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Скандинавський стиль</li>
+<li>М'яка вельветова оббивка</li>
+<li>Високоеластичний спінений наповнювач</li>
+<li>Ергономічна форма</li>
+<li>Міцні металеві ніжки</li>
+<li>Протиковзкі накладки</li>
+<li>Захист підлоги від подряпин</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: DSF-316</li>
+<li>Тип товару: набір стільців</li>
+<li>Кількість у наборі: 2 шт.</li>
+<li>Розміри одного стільця: 80×47×40 см</li>
+<li>Матеріал оббивки: вельвет</li>
+<li>Наповнення сидіння: високоеластична піна</li>
+<li>Каркас: вуглецева сталь A3</li>
+<li>Тип ніжок: металеві</li>
+<li>Зносостійкість: понад 20 000 циклів</li>
+<li>Повітропроникність: ≥ 95%</li>
+<li>Стійкість до утворення катишків: ≥ 4 рівня</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Стілець DSF-316 — 2 шт.</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантійний термін" paramcode="3969" valuecode="cac6b35236818b490a883ec7884f4e2f">11 місяців</param>
+    <param name="Вид" paramcode="10308" valuecode="ba683aaf506c026a5896eca01def948d">металеві</param>
+    <param name="Матеріал каркаса" paramcode="10343" valuecode="526374c9d669a8e4c16dad9daac34cb4">метал</param>
+    <param name="Призначення" paramcode="10347" valuecode="01d88b5a9de090c71a0b6f70135af36b,f0c1bf11ef8dbbc39058f05f5bde806b,74986060300ccf5e9de97166263fa416">для житлових приміщень, для кафе, для дому</param>
+    <param name="Наповнювач" paramcode="10348" valuecode="bc6778ad7877b1152909850570c8e7a7">пінополіуретан</param>
+    <param name="Оббивка" paramcode="10350" valuecode="eb9f1b2930331d3a4a28cec98cfe2fd2">вельвет</param>
+    <param name="Оснащення" paramcode="10354" valuecode="1c19db434504524c2a6a4a6b4afa9512,6be434ceaa988339a924b6ca227050ae">металевий каркас, металеві опори</param>
+    <param name="Стиль" paramcode="10377" valuecode="8653e35f0bb84e155a50c9554386be4b">скандинавський</param>
+    <param name="Висота сидіння" paramcode="11450">40</param>
+    <param name="Колір оббивки" paramcode="11997" valuecode="3724589e16dfedcf742165aa0dcf6a55">світло-сірий</param>
+    <param name="Колір каркаса" paramcode="11998" valuecode="14bac6cdc73cb8b6330d51ac6afb6d85">сірий</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="59474de51f852">сірий</param>
+    <param name="Транспортувальний стан" paramcode="12573" valuecode="f1df447d1a3b240c3f7e88748db69ebf">розібраний</param>
+    <param name="Матеріал ніжок" paramcode="12992" valuecode="248be8a96fb2f57aa364f2f8979ac029">метал</param>
+    <param name="Ширина сидіння" paramcode="12999">47</param>
+    <param name="Глибина сидіння" paramcode="13277">40</param>
+    <param name="Глибина" paramcode="5932">400</param>
+    <param name="Ширина" paramcode="6455">470</param>
+    <param name="Комплектація" paramcode="767">Стілець DSF-316 — 2 шт.</param>
+    <param name="Конструкція" paramcode="81" valuecode="bc6a715d2b7b2150ccc5b5796c0b2633,150bab479ea9e2c73ea4549dc8b82bef,1969956e59c2778a76ae6c9baf627854">на ніжках, із спинкою, м’яке сидіння</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">DSF-316</param>
+    <width>500</width>
+    <height>850</height>
+    <weight>10000</weight>
+    <length>450</length>
+  </offer>
+  <offer id="3222690212" available="true">
+    <price>6694</price>
+    <category code="387">Кухонні стільці</category>
+    <attribute_set code="387">Кухонні стільці</attribute_set>
+    <picture>https://images.prom.ua/7771175438_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628232_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628233_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628234_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628235_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628236_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628237_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628238_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628239_nabor-stulev-rias.jpg</picture>
+    <picture>https://images.prom.ua/7767628240_nabor-stulev-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Набор стульев RIAS DSF-316 с мягкой вельветовой обивкой 2 шт Green (3_08786)</name>
+    <name lang="ua">Набір стільців RIAS DSF-316 з м'якою вельветовою оббивкою 2 шт Green (3_08786)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор стульев DSF-316 с мягкой вельветовой обивкой, 2 шт.</strong></b></p>
+<p>Набор стульев DSF-316 — это стильное и удобное решение для вашего дома, офиса, салона или кафе. Эти стулья выполнены в скандинавском стиле и обладают мягкой вельветовой обивкой, что делает их идеальными для длительного использования. Прочные металлические ножки и каркас из углеродистой стали A3 обеспечивают надежность и долговечность конструкции.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Скандинавский стиль</li>
+<li>Мягкая вельветовая обивка</li>
+<li>Высокоэластичный вспененный наполнитель</li>
+<li>Прочные металлические ножки</li>
+<li>Противоскользящие накладки</li>
+<li>Эргономичная форма</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Размеры одного стула: 80×47×40 см</li>
+<li>Материал: вельвет, углеродистая сталь A3</li>
+<li>Количество в наборе: 2 шт.</li>
+<li>Износостойкость: более 20 000 циклов</li>
+<li>Воздухопроницаемость: ≥ 95%</li>
+<li>Устойчивость к образованию катышков: ≥ 4 уровня</li>
+<li>Наличие подлокотников: Да</li>
+<li>Количество опор: 4 шт.</li>
+<li>Высота сиденья: 400 мм</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Стул DSF-316 — 2 шт.</li>
+</ul>
+<p>Эти стулья идеально подходят для использования в различных интерьерах, добавляя уют и комфорт в любое пространство. Противоскользящие накладки на ножках защищают пол от царапин, а эргономичная форма обеспечивает комфорт даже при длительном использовании.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір стільців DSF-316 з м'якою вельветовою оббивкою, 2 шт.</strong></b></p>
+<p>Набір стільців DSF-316 — це стильне та зручне рішення для вашого дому, офісу, салону чи кафе. Ці стільці виконані в скандинавському стилі та мають м'яку вельветову оббивку, що робить їх ідеальними для тривалого використання. Міцні металеві ніжки та каркас з вуглецевої сталі A3 забезпечують надійність та довговічність конструкції.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Скандинавський стиль</li>
+<li>М'яка вельветова оббивка</li>
+<li>Високоеластичний спінений наповнювач</li>
+<li>Міцні металеві ніжки</li>
+<li>Протиковзкі накладки</li>
+<li>Ергономічна форма</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Розміри одного стільця: 80×47×40 см</li>
+<li>Матеріал: вельвет, вуглецева сталь A3</li>
+<li>Кількість у наборі: 2 шт.</li>
+<li>Зносостійкість: понад 20 000 циклів</li>
+<li>Повітропроникність: ≥ 95%</li>
+<li>Стійкість до утворення катишків: ≥ 4 рівня</li>
+<li>Наявність підлокітників: Так</li>
+<li>Кількість опор: 4 шт.</li>
+<li>Висота сидіння: 400 мм</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Стілець DSF-316 — 2 шт.</li>
+</ul>
+<p>Ці стільці ідеально підходять для використання в різних інтер'єрах, додаючи затишок і комфорт у будь-який простір. Протиковзкі накладки на ніжках захищають підлогу від подряпин, а ергономічна форма забезпечує комфорт навіть при тривалому використанні.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантійний термін" paramcode="3969" valuecode="cac6b35236818b490a883ec7884f4e2f">11 місяців</param>
+    <param name="Вид" paramcode="10308" valuecode="ba683aaf506c026a5896eca01def948d">металеві</param>
+    <param name="Матеріал каркаса" paramcode="10343" valuecode="526374c9d669a8e4c16dad9daac34cb4">метал</param>
+    <param name="Призначення" paramcode="10347" valuecode="01d88b5a9de090c71a0b6f70135af36b,f0c1bf11ef8dbbc39058f05f5bde806b,74986060300ccf5e9de97166263fa416">для житлових приміщень, для кафе, для дому</param>
+    <param name="Наповнювач" paramcode="10348" valuecode="bc6778ad7877b1152909850570c8e7a7">пінополіуретан</param>
+    <param name="Оббивка" paramcode="10350" valuecode="eb9f1b2930331d3a4a28cec98cfe2fd2">вельвет</param>
+    <param name="Оснащення" paramcode="10354" valuecode="1c19db434504524c2a6a4a6b4afa9512,6be434ceaa988339a924b6ca227050ae">металевий каркас, металеві опори</param>
+    <param name="Стиль" paramcode="10377" valuecode="8653e35f0bb84e155a50c9554386be4b">скандинавський</param>
+    <param name="Висота сидіння" paramcode="11450">40.0</param>
+    <param name="Колір оббивки" paramcode="11997" valuecode="09976fdd4589c2a8a5175cecdb9ff474">зелений</param>
+    <param name="Колір каркаса" paramcode="11998" valuecode="caf985948f59dfa9a83b5b76839ddad7">чорний</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+    <param name="Транспортувальний стан" paramcode="12573" valuecode="f1df447d1a3b240c3f7e88748db69ebf">розібраний</param>
+    <param name="Матеріал ніжок" paramcode="12992" valuecode="248be8a96fb2f57aa364f2f8979ac029">метал</param>
+    <param name="Ширина сидіння" paramcode="12999">47.0</param>
+    <param name="Глибина сидіння" paramcode="13277">40</param>
+    <param name="Особливості конструкції" paramcode="4401">Ергономічна форма, протиковзкі накладки</param>
+    <param name="Висота" paramcode="4814">80.0</param>
+    <param name="Глибина" paramcode="5932">40.0</param>
+    <param name="Ширина" paramcode="6455">47.0</param>
+    <param name="Комплектація" paramcode="767">Стул DSF-316 — 2 шт.</param>
+    <param name="Конструкція" paramcode="81" valuecode="252304aea83a237f78c423c1d0410daa,bc6a715d2b7b2150ccc5b5796c0b2633,150bab479ea9e2c73ea4549dc8b82bef,1969956e59c2778a76ae6c9baf627854">з підлокітниками, на ніжках, із спинкою, м’яке сидіння</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>500</width>
+    <height>850</height>
+    <weight>10000</weight>
+    <length>450</length>
+  </offer>
   </offers>
 </yml_catalog>

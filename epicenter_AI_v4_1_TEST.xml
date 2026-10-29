@@ -1,421 +1,2502 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-29 12:32">
+<yml_catalog date="2026-10-29 15:38">
   <offers>
-  <offer id="NO_SKU_1" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
+  <offer id="3249195345" available="true">
+    <price>1555</price>
+    <category code="778">Іграшкові машинки та техніка</category>
+    <attribute_set code="778">Іграшкові машинки та техніка</attribute_set>
+    <picture>https://images.prom.ua/7839600155_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526585_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526583_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526584_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526581_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526587_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526582_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526586_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526588_magnitnyj-trek-magnetic.jpg</picture>
+    <picture>https://images.prom.ua/7829526589_magnitnyj-trek-magnetic.jpg</picture>
     <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Магнитный трек Magnetic DIY Rail Car WX2701 с поездом 66 деталей Yellow-Blue (3_08836)</name>
+    <name lang="ua">Магнітний трек Magnetic DIY Rail Car WX2701 з поїздом 66 деталей Yellow-Blue (3_08836)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Магнитный трек Magnetic DIY Rail Car WX2701 с поездом 66 деталей</strong></b></p>
+<p>Магнитный трек Magnetic DIY Rail Car WX2701 — это инновационный набор для создания железной дороги, который сочетает в себе элементы 3D-моделирования и классической железной дороги. Этот набор включает в себя 66 деталей, которые позволяют создавать сложные многоуровневые магистрали и эстакады. Благодаря магнитным блокам-опорам, детали легко соединяются, обеспечивая надежное сцепление и безопасность во время игры.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Антигравитационное сцепление для надежного удержания мини-поездов на путях.</li>
+<li>Развитие STEM-навыков: стимулирует пространственное и логическое мышление, мелкую моторику.</li>
+<li>Легкая магнитная фиксация: мгновенное соединение деталей под любым углом.</li>
+<li>Автоматическое движение: поезд оснащен моторчиком для самостоятельного движения.</li>
+<li>Безопасность и долговечность: изготовлен из прочного ABS-пластика.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: Magnetic DIY Rail Car WX2701</li>
+<li>Количество деталей: 66 шт.</li>
+<li>Материал: ABS-пластик, неодимовые магниты</li>
+<li>Тип питания: Аккумулятор</li>
+<li>Рекомендуемый возраст: для детей от 3 лет</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Поезд на аккумуляторе</li>
+<li>Детали для сборки дороги</li>
+<li>Дорожные знаки</li>
+<li>USB-кабель для зарядки</li>
+</ul>
+<p>Этот набор станет отличным подарком для детей, увлекающихся конструированием и моделированием. Он не только развивает полезные навыки, но и обеспечивает увлекательное времяпрепровождение.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Магнітний трек Magnetic DIY Rail Car WX2701 з поїздом 66 деталей</strong></b></p>
+<p>Магнітний трек Magnetic DIY Rail Car WX2701 — це інноваційний набір для створення залізниці, який поєднує в собі елементи 3D-моделювання та класичної залізниці. Цей набір включає 66 деталей, які дозволяють створювати складні багаторівневі магістралі та естакади. Завдяки магнітним блокам-опорам, деталі легко з'єднуються, забезпечуючи надійне зчеплення та безпеку під час гри.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Антигравітаційне зчеплення для надійного утримання міні-поїздів на шляхах.</li>
+<li>Розвиток STEM-навичок: стимулює просторове та логічне мислення, дрібну моторику.</li>
+<li>Легка магнітна фіксація: миттєве з'єднання деталей під будь-яким кутом.</li>
+<li>Автоматичний рух: поїзд оснащений моторчиком для самостійного руху.</li>
+<li>Безпека та довговічність: виготовлений з міцного ABS-пластику.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: Magnetic DIY Rail Car WX2701</li>
+<li>Кількість деталей: 66 шт.</li>
+<li>Матеріал: ABS-пластик, неодимові магніти</li>
+<li>Тип живлення: Акумулятор</li>
+<li>Рекомендований вік: для дітей від 3 років</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Поїзд на акумуляторі</li>
+<li>Деталі для складання дороги</li>
+<li>Дорожні знаки</li>
+<li>USB-кабель для зарядки</li>
+</ul>
+<p>Цей набір стане чудовим подарунком для дітей, захоплених конструюванням та моделюванням. Він не лише розвиває корисні навички, але й забезпечує захоплююче проведення часу.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>100</width>
+    <param name="Гарантійний термін" paramcode="3969" valuecode="23d8e4af05a700994fde4a0ea465a4d1">1 місяць</param>
+    <param name="Елементи живлення" paramcode="11482">акумулятор</param>
+    <param name="Вид" paramcode="11923" valuecode="8e654e39b0d185427c36dbd07376cfd5,be0dac6d03efef9cf0ca209f38483659,66d29dda3401af060ececac604891e96">треки, потяги, дорожні знаки</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="bb2cdbcc657af3ddad8c2eed3c72859c,7474159555fd1f85a1773df29241afbb">жовтий, синій</param>
+    <param name="Інерційна модель" paramcode="2268" valuecode="4745527c1096c7fee6b10087e662f1ea">без інерційного механізму</param>
+    <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
+    <param name="Особливості" paramcode="2290">з магнітом</param>
+    <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+    <param name="Матеріал" paramcode="2481" valuecode="ptiap4f5rognrona,vpqol282">ABS-пластик, магніт</param>
+    <param name="Комплектація" paramcode="767">Поїзд на акумуляторі, Деталі для складання дороги, Дорожні знаки, USB-кабель для зарядки</param>
+    <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>200</width>
     <height>150</height>
     <weight>1000</weight>
     <length>300</length>
   </offer>
-  <offer id="NO_SKU_2" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
+  <offer id="3249195360" available="true">
+    <price>667</price>
+    <category code="173">Аксесуари для теле- та аудіотехніки</category>
+    <attribute_set code="173">Аксесуари для теле- та аудіотехніки</attribute_set>
+    <picture>https://images.prom.ua/7839980081_nabor-provodov-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526901_nabor-provodov-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526902_nabor-provodov-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526905_nabor-provodov-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526906_nabor-provodov-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526907_nabor-provodov-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526908_nabor-provodov-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526909_nabor-provodov-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526904_nabor-provodov-dlya.jpg</picture>
     <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Набор проводов для усилителя Aichenggao KIT 1500W 5м Black (3_08851)</name>
+    <name lang="ua">Набір проводів для підсилювача Aichenggao KIT 1500W 5м Black (3_08851)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор проводов для усилителя Aichenggao KIT 1500W 5м</strong></b></p>
+<p>Набор проводов Aichenggao KIT 1500W предназначен для подключения усилителей и сабвуферов в автомобиле. Это комплект начального уровня, который включает все необходимые компоненты для правильной установки и обеспечения надежного соединения.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Комплект начального уровня для легкой установки.</li>
+<li>Подходит для подключения усилителей и сабвуферов.</li>
+<li>Включает все необходимые аксессуары для подключения.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Сабвуфер</li>
+<li>Номинальная мощность: 300 Вт</li>
+<li>Максимальная мощность: 1500 Вт</li>
+<li>Количество полос: 2</li>
+<li>Импеданс: 4 Ом</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>1 прозрачный красный провод питания; 5 м, 8 GA</li>
+<li>1 прозрачный черный заземляющий провод; 1м, 8 GA</li>
+<li>1 акустический кабель 5 м</li>
+<li>1 RCA кабель; 5 м</li>
+<li>1 split loom; 1 м</li>
+<li>1 держатель предохранителя</li>
+<li>1 AGU предохранитель (60 А)</li>
+<li>Клеммы для подключения</li>
+</ul>
+<p>Этот набор проводов обеспечивает надежное и безопасное подключение вашего аудиооборудования, что делает его идеальным выбором для автолюбителей, стремящихся улучшить качество звука в своем автомобиле.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір проводів для підсилювача Aichenggao KIT 1500W 5м</strong></b></p>
+<p>Набір проводів Aichenggao KIT 1500W призначений для підключення підсилювачів і сабвуферів в автомобілі. Це комплект початкового рівня, який включає всі необхідні компоненти для правильної установки та забезпечення надійного з'єднання.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Комплект початкового рівня для легкої установки.</li>
+<li>Підходить для підключення підсилювачів і сабвуферів.</li>
+<li>Включає всі необхідні аксесуари для підключення.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Сабвуфер</li>
+<li>Номінальна потужність: 300 Вт</li>
+<li>Максимальна потужність: 1500 Вт</li>
+<li>Кількість смуг: 2</li>
+<li>Імпеданс: 4 Ом</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>1 прозорий червоний провід живлення; 5 м, 8 GA</li>
+<li>1 прозорий чорний заземлюючий провід; 1м, 8 GA</li>
+<li>1 акустичний кабель 5 м</li>
+<li>1 RCA кабель; 5 м</li>
+<li>1 split loom; 1 м</li>
+<li>1 тримач запобіжника</li>
+<li>1 AGU запобіжник (60 А)</li>
+<li>Клеми для підключення</li>
+</ul>
+<p>Цей набір проводів забезпечує надійне та безпечне підключення вашого аудіообладнання, що робить його ідеальним вибором для автолюбителів, які прагнуть покращити якість звуку в своєму автомобілі.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Тип пилозбірника" paramcode="6563" valuecode="6f81066544cd463a33a36dca36800d97">контейнер</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <param name="Тип пристрою" paramcode="152" valuecode="munjqy6yzkn3qtyn">кабелі</param>
+    <param name="Модель" paramcode="4351">Aichenggao KIT 1500W</param>
+    <param name="Потужність" paramcode="6077">1500</param>
+    <param name="Наявність кришки" paramcode="6089" valuecode="a309f6988f7377aa8a8d2826780d3c6d">без кришки</param>
+    <param name="Наявність протяжки" paramcode="6091" valuecode="0647c8f8ecbb94c74c10aaf30eaa3ae6">немає</param>
+    <param name="Комплектація" paramcode="767">1 прозорий червоний провід живлення; 5 м, 8 GA, 1 прозорий чорний заземлюючий провід; 1м, 8 GA, 1 акустичний кабель 5 м, 1 RCA кабель; 5 м, 1 split loom; 1 м, 1 тримач запобіжника, 1 AGU запобіжник (60 А), Клеми для підключення</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>300</length>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08851</param>
+    <width>150</width>
+    <height>60</height>
+    <weight>500</weight>
+    <length>200</length>
   </offer>
-  <offer id="NO_SKU_3" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+  <offer id="3249195342" available="true">
+    <price>534</price>
+    <category code="9154">Скребки для миття вікон</category>
+    <attribute_set code="9154">Скребки для миття вікон</attribute_set>
+    <picture>https://images.prom.ua/7839549627_schetka-dlya-stekla.jpg</picture>
+    <picture>https://images.prom.ua/7839563106_schetka-dlya-stekla.jpg</picture>
+    <picture>https://images.prom.ua/7829526552_schetka-dlya-stekla.jpg</picture>
+    <picture>https://images.prom.ua/7829526554_schetka-dlya-stekla.jpg</picture>
+    <picture>https://images.prom.ua/7829526555_schetka-dlya-stekla.jpg</picture>
+    <picture>https://images.prom.ua/7829526556_schetka-dlya-stekla.jpg</picture>
+    <picture>https://images.prom.ua/7829526557_schetka-dlya-stekla.jpg</picture>
+    <picture>https://images.prom.ua/7829526559_schetka-dlya-stekla.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Щетка для стекла RIAS Window Cleaner 5891 с распылителем 4в1 White-Blue (3_08833)</name>
+    <name lang="ua">Щітка для скла RIAS Window Cleaner 5891 з розпилювачем 4в1 White-Blue (3_08833)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Щетка для стекла RIAS Window Cleaner 5891 с распылителем 4 в 1</strong></b></p>
+<p>Многофункциональная щетка для стекла RIAS Window Cleaner 5891 — это инновационное решение для быстрого и эффективного мытья окон, зеркал, кафеля и стеклянных поверхностей. Забудьте о куче тряпок и неудобных пластиковых скребках. Эта компактная ручная модель объединяет в себе сразу четыре инструмента: распылитель для моющего средства, мягкую насадку из микрофибры для удаления грязи, резиновый скребок для сгона воды и специальную жесткую щетину для очистки рам и труднодоступных мест. Устройство работает полностью автономно, не требуя батареек или проводов. Просто наполните встроенный резервуар объемом 250 мл водой или очищающим раствором, и вы готовы к уборке. Эргономичная форма позволяет удобно держать щетку одной рукой, что делает процесс мытья окон, душевых кабин или кухонных фартуков максимально легким и приятным. Микрофибровая насадка легко снимается для стирки, что гарантирует длительный срок службы и гигиеничность использования.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>4 в 1: распыление, чистка микрофиброй, жесткая щетина, резиновый скребок</li>
+<li>Автономная работа</li>
+<li>Эргономичная форма</li>
+<li>Съемная микрофибровая насадка</li>
+<li>Экономичность</li>
+<li>Универсальность</li>
+<li>Легкость и компактность</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: ручная щетка-стеклоочиститель с распылителем</li>
+<li>Назначение: стекла, зеркала, плитка, душевые кабины</li>
+<li>Материалы: пластик, микрофибра, резина</li>
+<li>Объем резервуара: 250 мл</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Щетка-распылитель Window Cleaner 5891</li>
+<li>Съемная насадка из микрофибры</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Щітка для скла RIAS Window Cleaner 5891 з розпилювачем 4 в 1</strong></b></p>
+<p>Багатофункціональна щітка для скла RIAS Window Cleaner 5891 — це інноваційне рішення для швидкого та ефективного миття вікон, дзеркал, кахлю та скляних поверхонь. Забудьте про купу ганчірок і незручні пластикові скребки. Ця компактна ручна модель об'єднує в собі одразу чотири інструменти: розпилювач для мийного засобу, м'яку насадку з мікрофібри для видалення бруду, гумовий скребок для зганяння води та спеціальну жорстку щетину для очищення рам і важкодоступних місць. Пристрій працює повністю автономно, не вимагаючи батарейок або проводів. Просто наповніть вбудований резервуар об'ємом 250 мл водою або очищувальним розчином, і ви готові до прибирання. Ергономічна форма дозволяє зручно тримати щітку однією рукою, що робить процес миття вікон, душових кабін або кухонних фартухів максимально легким та приємним. Мікрофіброва насадка легко знімається для прання, що гарантує тривалий термін служби та гігієнічність використання.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>4 в 1: розпилення, чистка мікрофіброю, жорстка щетина, гумовий скребок</li>
+<li>Автономна робота</li>
+<li>Ергономічна форма</li>
+<li>Знімна мікрофіброва насадка</li>
+<li>Економічність</li>
+<li>Універсальність</li>
+<li>Легкість та компактність</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: ручна щітка-склоочисник з розпилювачем</li>
+<li>Призначення: скло, дзеркала, плитка, душові кабіни</li>
+<li>Матеріали: пластик, мікрофібра, гума</li>
+<li>Об'єм резервуара: 250 мл</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Щітка-розпилювач Window Cleaner 5891</li>
+<li>Знімна насадка з мікрофібри</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="cb8a8dc6861023bc621f964a491c94d4,7474159555fd1f85a1773df29241afbb">білий, синій</param>
+    <param name="Вигідна пропозиція" paramcode="13573" valuecode="d29dab4f36d3d626c9a5c55672269f04">250 + 50 мл</param>
+    <param name="Матеріал робочої частини" paramcode="2962" valuecode="27af5dfe98181185beef7cb2a4f692fc">пластик</param>
+    <param name="Матеріал ручки/держака" paramcode="2963" valuecode="a0fb739a85d1147ab1dc5a8a6f3d25ea">пластик</param>
+    <param name="Комплектація" paramcode="767">Щітка-розпилювач Window Cleaner 5891, Знімна насадка з мікрофібри</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">5891</param>
+    <width>100</width>
+    <height>300</height>
+    <weight>500</weight>
+    <length>100</length>
+  </offer>
+  <offer id="3249195348" available="true">
+    <price>1081</price>
+    <category code="4263">Вішалки для одягу</category>
+    <attribute_set code="4263">Вішалки для одягу</attribute_set>
+    <picture>https://images.prom.ua/7839748742_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526610_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526611_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526612_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7046576006_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526614_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526616_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526615_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526618_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Напольная двойная вешалка для одежды и обуви RIAS YH9918-5 телескопическая 185x56x30 см Black (3_08839)</name>
+    <name lang="ua">Підлогова подвійна вішалка для одягу та взуття RIAS YH9918-5 телескопічна 185x56x30 см Black (3_08839)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Напольная двойная вешалка для одежды и обуви RIAS YH9918-5 телескопическая 185x56x30 см</strong></b></p>
+<p>Напольная двойная вешалка для одежды и обуви YH9918-5 — это идеальное решение для организации вашего пространства. Благодаря своей прочной конструкции и стильному дизайну, эта вешалка не только обеспечивает удобное хранение одежды, но и добавляет организованность и элегантность вашему интерьеру. Она подходит как для домашнего использования, так и для офисов или коммерческих помещений.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Универсальность использования</li>
+<li>Компактные размеры</li>
+<li>Прочная и надежная конструкция</li>
+<li>Простая в сборке</li>
+<li>Колесики для легкости перемещения</li>
+<li>Стильный дизайн</li>
+<li>Крючки для подвешивания аксессуаров</li>
+<li>Телескопическая конструкция</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: напольная вешалка</li>
+<li>Тип опор: колесики</li>
+<li>Материал: металл, пластик</li>
+<li>Максимальная нагрузка: 20 кг</li>
+<li>Размеры: 185x56x30 см</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Вешалка YH9918-5</li>
+<li>Заводская упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Підлогова подвійна вішалка для одягу та взуття RIAS YH9918-5 телескопічна 185x56x30 см</strong></b></p>
+<p>Підлогова подвійна вішалка для одягу та взуття YH9918-5 — це ідеальне рішення для організації вашого простору. Завдяки своїй міцній конструкції та стильному дизайну, ця вішалка не лише забезпечує зручне зберігання одягу, але й додає організованості та елегантності вашому інтер'єру. Вона підходить як для домашнього використання, так і для офісів або комерційних приміщень.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Універсальність використання</li>
+<li>Компактні розміри</li>
+<li>Міцна та надійна конструкція</li>
+<li>Проста у збиранні</li>
+<li>Коліщатка для легкості переміщення</li>
+<li>Стильний дизайн</li>
+<li>Гачки для підвішування аксесуарів</li>
+<li>Телескопічна конструкція</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: підлогова вішалка</li>
+<li>Тип опор: коліщатка</li>
+<li>Матеріал: метал, пластик</li>
+<li>Максимальне навантаження: 20 кг</li>
+<li>Розміри: 185x56x30 см</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Вішалка YH9918-5</li>
+<li>Заводська упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
+    <param name="Вид вішалки" paramcode="10311" valuecode="bf59bb3800736a16be98d0364701c88b">вішалка підлогова</param>
+    <param name="Матеріал каркаса" paramcode="10343" valuecode="526374c9d669a8e4c16dad9daac34cb4,b35d4299a4009bc9d9b07557c0808936">метал, пластик</param>
+    <param name="Призначення" paramcode="10347" valuecode="549330af139a739ea8e270f59ed0ffd3,c6fda8b52174057044e8b43da86e0dfd,0e441e431c187de963d135242672baff">універсальний, для одягу, для взуття</param>
+    <param name="Колір каркаса" paramcode="11998" valuecode="caf985948f59dfa9a83b5b76839ddad7">чорний</param>
+    <param name="Транспортувальний стан" paramcode="12573" valuecode="f1df447d1a3b240c3f7e88748db69ebf">розібраний</param>
+    <param name="Особливості" paramcode="2129" valuecode="0fa554630230130342fb8499d66bf24e,86c65216bf1efe90dc1c0e58bc35c521,0356fb6e790bc9d2ab4a85aed10c5ecf,20ac61dfadc3b364fd991cdc65656b2e,d02bc13ae21f5157ef218b605a3f6e15">з гачками, з обувницею, з телескопічною системою, подвійні, на колесиках</param>
+    <param name="Довжина" paramcode="2471">1850</param>
+    <param name="Висота" paramcode="4814">1850</param>
+    <param name="Глибина" paramcode="5932">300</param>
+    <param name="Стиль" paramcode="6246" valuecode="oc8zzooi">модерн</param>
+    <param name="Ширина" paramcode="6455">560</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>600</width>
+    <height>1900</height>
+    <weight>5000</weight>
+    <length>350</length>
+  </offer>
+  <offer id="3249195349" available="true">
+    <price>1003</price>
+    <category code="4263">Вішалки для одягу</category>
+    <attribute_set code="4263">Вішалки для одягу</attribute_set>
+    <picture>https://images.prom.ua/7839737275_napolnaya-veshalka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526717_napolnaya-veshalka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526718_napolnaya-veshalka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526719_napolnaya-veshalka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526721_napolnaya-veshalka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526723_napolnaya-veshalka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526724_napolnaya-veshalka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526725_napolnaya-veshalka-dlya.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Напольная вешалка для одежды и обуви RIAS 8603 с полками и колесиками 164x94.5x34.5 см Black (3_08840)</name>
+    <name lang="ua">Підлогова вішалка для одягу та взуття RIAS 8603 з полицями та коліщатками 164x94.5x34.5 см Black (3_08840)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Напольная вешалка для одежды и обуви RIAS Single-Pole с полками и колесиками 164x94.5x34.5 см</strong></b></p>
+<p>Эта напольная вешалка для одежды и обуви от RIAS — идеальное решение для организации пространства в вашем доме или офисе. Ее современный и компактный дизайн позволяет разместить большое количество вещей, не занимая много места. Прочная металлическая конструкция обеспечивает долговечность и надежность, а удобные полки и колесики делают ее использование максимально комфортным.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Современный и компактный дизайн</li>
+<li>Прочная металлическая конструкция</li>
+<li>Удобные полки для обуви и аксессуаров</li>
+<li>Колесики для легкого перемещения</li>
+<li>Подходит для прихожей, спальни и офиса</li>
+<li>Легкая и быстрая уборка</li>
+<li>Помогает экономить пространство</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: напольная вешалка для одежды</li>
+<li>Конструкция: одинарная стойка</li>
+<li>Материал: металл+пластик</li>
+<li>Высота: 164 см</li>
+<li>Ширина: 94.5 см</li>
+<li>Глубина: 34.5 см</li>
+<li>Ширина полок: 55 см</li>
+<li>Диаметр трубки: 19 мм</li>
+<li>Особенности: полки для обуви, колесики</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Напольная вешалка Single-Pole shoe and hat rack 8603</li>
+<li>Комплект сборки</li>
+</ul>
+<p>Эта вешалка станет незаменимым помощником в поддержании порядка и удобства в вашем доме. Простота сборки и ухода делают ее идеальным выбором для любого интерьера.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Підлогова вішалка для одягу та взуття RIAS Single-Pole з полицями та колесиками 164x94.5x34.5 см</strong></b></p>
+<p>Ця підлогова вішалка для одягу та взуття від RIAS — ідеальне рішення для організації простору у вашому домі або офісі. Її сучасний та компактний дизайн дозволяє розмістити велику кількість речей, не займаючи багато місця. Міцна металева конструкція забезпечує довговічність та надійність, а зручні полиці та колесики роблять її використання максимально комфортним.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Сучасний та компактний дизайн</li>
+<li>Міцна металева конструкція</li>
+<li>Зручні полиці для взуття та аксесуарів</li>
+<li>Колесики для легкого переміщення</li>
+<li>Підходить для передпокою, спальні та офісу</li>
+<li>Легке та швидке прибирання</li>
+<li>Допомагає економити простір</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: підлогова вішалка для одягу</li>
+<li>Конструкція: одинарна стійка</li>
+<li>Матеріал: метал+пластик</li>
+<li>Висота: 164 см</li>
+<li>Ширина: 94.5 см</li>
+<li>Глибина: 34.5 см</li>
+<li>Ширина полиць: 55 см</li>
+<li>Діаметр трубки: 19 мм</li>
+<li>Особливості: полиці для взуття, колесики</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Підлогова вішалка Single-Pole shoe and hat rack 8603</li>
+<li>Комплект для збирання</li>
+</ul>
+<p>Ця вішалка стане незамінним помічником у підтриманні порядку та зручності у вашому домі. Простота збирання та догляду роблять її ідеальним вибором для будь-якого інтер'єру.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Вид вішалки" paramcode="10311" valuecode="bf59bb3800736a16be98d0364701c88b">вішалка підлогова</param>
+    <param name="Матеріал каркаса" paramcode="10343" valuecode="526374c9d669a8e4c16dad9daac34cb4,b35d4299a4009bc9d9b07557c0808936">метал, пластик</param>
+    <param name="Призначення" paramcode="10347" valuecode="549330af139a739ea8e270f59ed0ffd3,c6fda8b52174057044e8b43da86e0dfd,0e441e431c187de963d135242672baff">універсальний, для одягу, для взуття</param>
+    <param name="Колір каркаса" paramcode="11998" valuecode="caf985948f59dfa9a83b5b76839ddad7">чорний</param>
+    <param name="Транспортувальний стан" paramcode="12573" valuecode="f1df447d1a3b240c3f7e88748db69ebf">розібраний</param>
+    <param name="Особливості" paramcode="2129" valuecode="86c65216bf1efe90dc1c0e58bc35c521,d02bc13ae21f5157ef218b605a3f6e15">з обувницею, на колесиках</param>
+    <param name="Довжина" paramcode="2471">945</param>
+    <param name="Особливості конструкції" paramcode="4401">одинарна стійка</param>
+    <param name="Висота" paramcode="4814">1640</param>
+    <param name="Глибина" paramcode="5932">345</param>
+    <param name="Стиль" paramcode="6246" valuecode="oc8zzooi">модерн</param>
+    <param name="Ширина" paramcode="6455">945</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>1000</width>
+    <height>1700</height>
+    <weight>5000</weight>
+    <length>400</length>
+  </offer>
+  <offer id="3249195351" available="true">
+    <price>746</price>
+    <category code="4263">Вішалки для одягу</category>
+    <attribute_set code="4263">Вішалки для одягу</attribute_set>
+    <picture>https://images.prom.ua/7839797787_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526739_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526740_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526741_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526747_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526745_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526743_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526748_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <picture>https://images.prom.ua/7829526742_napolnaya-dvojnaya-veshalka.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Напольная двойная вешалка для одежды и обуви RIAS Storage Hanger 6037 телескопическая на колесиках 60x35x141 см Black (3_08842)</name>
+    <name lang="ua">Підлогова подвійна вішалка для одягу та взуття RIAS Storage Hanger 6037 телескопічна на колесах 60x35x141 см Black (3_08842)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Напольная двойная вешалка для одежды и обуви RIAS Storage Hanger телескопическая на колесиках 60x35x141 см</strong></b></p>
+<p>Напольная двойная вешалка для одежды и обуви Storage Hanger 6037 — это идеальное решение для организации пространства в вашем доме или офисе. Благодаря своему элегантному дизайну и прочной конструкции, эта вешалка не только обеспечивает удобное хранение одежды, но и добавляет стильный акцент в ваш интерьер. Изготовленная из металла и пластика, она гарантирует надежность и долговечность использования.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Универсальность использования</li>
+<li>Компактные размеры</li>
+<li>Прочная и надежная конструкция</li>
+<li>Простая в сборке</li>
+<li>Колесики для легкости перемещения</li>
+<li>Стильный дизайн</li>
+<li>Крючки для подвешивания аксессуаров</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: напольная вешалка</li>
+<li>Материал: металл, пластик</li>
+<li>Максимальная нагрузка: 20 кг</li>
+<li>Тип опор: колесики</li>
+<li>Особенности: телескопическая</li>
+<li>Размеры: 60x35x141 см</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Стойка для одежды Storage Hanger 6037 / 2032</li>
+<li>Упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Підлогова подвійна вішалка для одягу та взуття RIAS Storage Hanger телескопічна на коліщатках 60x35x141 см</strong></b></p>
+<p>Підлогова подвійна вішалка для одягу та взуття Storage Hanger 6037 — це ідеальне рішення для організації простору у вашому домі чи офісі. Завдяки своєму елегантному дизайну та міцній конструкції, ця вішалка не лише забезпечує зручне зберігання одягу, але й додає стильний акцент у ваш інтер'єр. Виготовлена з металу та пластику, вона гарантує надійність та довговічність використання.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Універсальність використання</li>
+<li>Компактні розміри</li>
+<li>Міцна та надійна конструкція</li>
+<li>Проста у збиранні</li>
+<li>Коліщатка для легкості переміщення</li>
+<li>Стильний дизайн</li>
+<li>Гачки для підвішування аксесуарів</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: підлогова вішалка</li>
+<li>Матеріал: метал, пластик</li>
+<li>Максимальне навантаження: 20 кг</li>
+<li>Тип опор: коліщатка</li>
+<li>Особливості: телескопічна</li>
+<li>Розміри: 60x35x141 см</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Стійка для одягу Storage Hanger 6037 / 2032</li>
+<li>Упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Вид вішалки" paramcode="10311" valuecode="bf59bb3800736a16be98d0364701c88b">вішалка підлогова</param>
+    <param name="Матеріал каркаса" paramcode="10343" valuecode="526374c9d669a8e4c16dad9daac34cb4,b35d4299a4009bc9d9b07557c0808936">метал, пластик</param>
+    <param name="Призначення" paramcode="10347" valuecode="549330af139a739ea8e270f59ed0ffd3,c6fda8b52174057044e8b43da86e0dfd,0e441e431c187de963d135242672baff">універсальний, для одягу, для взуття</param>
+    <param name="Колір каркаса" paramcode="11998" valuecode="caf985948f59dfa9a83b5b76839ddad7">чорний</param>
+    <param name="Транспортувальний стан" paramcode="12573" valuecode="f1df447d1a3b240c3f7e88748db69ebf">розібраний</param>
+    <param name="Особливості" paramcode="2129" valuecode="20ac61dfadc3b364fd991cdc65656b2e,d02bc13ae21f5157ef218b605a3f6e15,0356fb6e790bc9d2ab4a85aed10c5ecf,0fa554630230130342fb8499d66bf24e,86c65216bf1efe90dc1c0e58bc35c521">подвійні, на колесиках, з телескопічною системою, з гачками, з обувницею</param>
+    <param name="Довжина" paramcode="2471">600</param>
+    <param name="Висота" paramcode="4814">1410</param>
+    <param name="Глибина" paramcode="5932">350</param>
+    <param name="Ширина" paramcode="6455">600</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>650</width>
+    <height>1450</height>
+    <weight>5000</weight>
+    <length>400</length>
+  </offer>
+  <offer id="3249195339" available="true">
+    <price>556</price>
+    <category code="7288">Іграшки антистрес</category>
+    <attribute_set code="7288">Іграшки антистрес</attribute_set>
+    <picture>https://images.prom.ua/7839500577_igrushka-antistress-rias-r-362.jpg</picture>
+    <picture>https://images.prom.ua/7839500582_igrushka-antistress-rias-r-362.jpg</picture>
+    <picture>https://images.prom.ua/7829526524_igrushka-antistress-rias-r-362.jpg</picture>
+    <picture>https://images.prom.ua/7829526528_igrushka-antistress-rias-r-362.jpg</picture>
+    <picture>https://images.prom.ua/7829526531_igrushka-antistress-rias-r-362.jpg</picture>
+    <picture>https://images.prom.ua/7829526532_igrushka-antistress-rias-r-362.jpg</picture>
+    <picture>https://images.prom.ua/7829526527_igrushka-antistress-rias-r-362.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Игрушка-антистресс RIAS R-362 3D драконье яйцо с рельефной поверхностью Разноцветный (3_08830)</name>
+    <name lang="ua">Іграшка-антистрес RIAS R-362 3D драконове яйце з рельєфною поверхнею Різнокольоровий (3_08830)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Игрушка-трансформер RIAS R-362 3D драконье яйцо с рельефной поверхностью</strong></b></p>
+<p>Игрушка-трансформер «Яйцо дракона» RIAS R-362 представляет собой уникальную антистресс игрушку, выполненную в форме фантастического драконьего яйца. Эта механическая игрушка изготовлена из пластмассы и имеет выразительную рельефную поверхность, напоминающую драконью чешую. Она идеально подходит для самостоятельных сюжетных игр, фантазийных приключений и дополнения коллекции игрушечных персонажей.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Дизайн в стиле драконьего яйца с рельефной поверхностью.</li>
+<li>Механическая игрушка, способная трансформироваться.</li>
+<li>Пластмассовый корпус, безопасный для детей.</li>
+<li>Идеальна для сюжетно-ролевых игр и коллекционирования.</li>
+<li>Рекомендуемый возраст: от 3 лет.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип товара: детская игрушка-трансформер.</li>
+<li>Тематика: драконье яйцо.</li>
+<li>Материал: пластмасса.</li>
+<li>Особенности исполнения: механическая игрушка.</li>
+<li>Поверхность: рельефная, с элементами в виде чешуи.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Игрушка-трансформер «Яйцо дракона» — 1 шт.</li>
+<li>Фирменная упаковка.</li>
+</ul>
+<p>Эта игрушка станет отличным подарком для любителей драконов и фантастических существ, а также поможет развить воображение и творческие навыки у детей.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Іграшка-трансформер RIAS R-362 3D драконяче яйце з рельєфною поверхнею</strong></b></p>
+<p>Іграшка-трансформер «Яйце дракона» RIAS R-362 є унікальною антистрес іграшкою, виконаною у формі фантастичного драконячого яйця. Ця механічна іграшка виготовлена з пластмаси та має виразну рельєфну поверхню, що нагадує драконячу луску. Вона ідеально підходить для самостійних сюжетних ігор, фантазійних пригод та доповнення колекції іграшкових персонажів.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Дизайн у стилі драконячого яйця з рельєфною поверхнею.</li>
+<li>Механічна іграшка, здатна трансформуватися.</li>
+<li>Пластмасовий корпус, безпечний для дітей.</li>
+<li>Ідеальна для сюжетно-рольових ігор та колекціонування.</li>
+<li>Рекомендований вік: від 3 років.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип товару: дитяча іграшка-трансформер.</li>
+<li>Тематика: драконяче яйце.</li>
+<li>Матеріал: пластмаса.</li>
+<li>Особливості виконання: механічна іграшка.</li>
+<li>Поверхня: рельєфна, з елементами у вигляді луски.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Іграшка-трансформер «Яйце дракона» — 1 шт.</li>
+<li>Фірмова упаковка.</li>
+</ul>
+<p>Ця іграшка стане чудовим подарунком для любителів драконів та фантастичних істот, а також допоможе розвинути уяву та творчі навички у дітей.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Форма" paramcode="11030" valuecode="6f5fb25fe403d77040eccf4074269181">фігурна</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="5e9692ab552d40c07b097adea08524ac">мульті</param>
+    <param name="Додаткові характеристики" paramcode="2771">Механічна іграшка, здатна трансформуватися. Поверхня рельєфна, з елементами у вигляді луски.</param>
+    <param name="Матеріал" paramcode="52" valuecode="4rwknoybf2rcagai">пластмаса</param>
+    <param name="Комплектація" paramcode="767">Іграшка-трансформер «Яйце дракона» — 1 шт., Фірмова упаковка.</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">R-362</param>
+    <width>80</width>
+    <height>120</height>
+    <weight>150</weight>
+    <length>80</length>
+  </offer>
+  <offer id="3249195340" available="true">
+    <price>2503</price>
+    <category code="4245">Журнальні столики</category>
+    <attribute_set code="4245">Журнальні столики</attribute_set>
+    <picture>https://images.prom.ua/7839522873_zhurnalnyj-stolik-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526533_zhurnalnyj-stolik-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526534_zhurnalnyj-stolik-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526537_zhurnalnyj-stolik-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526535_zhurnalnyj-stolik-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526538_zhurnalnyj-stolik-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526541_zhurnalnyj-stolik-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Журнальный столик RIAS 64202 складной с корзинами для хранения 73x45x30 см Black-Brown (3_08831)</name>
+    <name lang="ua">Журнальний столик RIAS 64202 складаний з кошиками для зберігання 73x45x30 см Black-Brown (3_08831)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Журнальный столик складной с корзинами для хранения 73x45x30 см</strong></b></p>
+<p>Журнальный столик RIAS 64202 — это практичное решение для хранения и организации вещей в вашем доме. Благодаря своей складной конструкции, он занимает минимум места в сложенном виде и легко перемещается благодаря четырем поворотным колесам. Два вместительных яруса с бортиками позволяют удобно размещать книги, посуду, бытовые принадлежности и другие предметы. Верхняя столешница выполнена под фактуру дерева и может использоваться как рабочая или сервировочная поверхность.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Складная конструкция для компактного хранения</li>
+<li>Два вместительных яруса для хранения</li>
+<li>Верхняя столешница под фактуру дерева</li>
+<li>Четыре поворотных колеса для удобного перемещения</li>
+<li>Бортики на полках помогают удерживать предметы</li>
+<li>Подходит для использования в различных помещениях</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: 64202</li>
+<li>Тип: складной столик для хранения</li>
+<li>Размер: 73×45×30 см</li>
+<li>Конструкция: складная</li>
+<li>Количество ярусов: 2</li>
+<li>Верхняя поверхность: столешница</li>
+<li>Количество колес: 4</li>
+<li>Форма: прямоугольная</li>
+<li>Назначение: хранение и перемещение различных предметов</li>
+<li>Сфера использования: дом, кухня, гостиная, спальня, офис, мастерская</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Журнальний столик складаний з кошиками для зберігання 73x45x30 см</strong></b></p>
+<p>Журнальний столик RIAS 64202 — це практичне рішення для зберігання та організації речей у вашому домі. Завдяки своїй складаній конструкції, він займає мінімум місця у складеному вигляді і легко переміщується завдяки чотирьом поворотним колесам. Два містких яруси з бортиками дозволяють зручно розміщувати книги, посуд, побутові речі та інші предмети. Верхня стільниця виконана під фактуру дерева і може використовуватися як робоча або сервірувальна поверхня.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Складана конструкція для компактного зберігання</li>
+<li>Два містких яруси для зберігання</li>
+<li>Верхня стільниця під фактуру дерева</li>
+<li>Чотири поворотні колеса для зручного переміщення</li>
+<li>Бортики на полицях допомагають утримувати предмети</li>
+<li>Підходить для використання в різних приміщеннях</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: 64202</li>
+<li>Тип: складаний столик для зберігання</li>
+<li>Розмір: 73×45×30 см</li>
+<li>Конструкція: складана</li>
+<li>Кількість ярусів: 2</li>
+<li>Верхня поверхня: стільниця</li>
+<li>Кількість коліс: 4</li>
+<li>Форма: прямокутна</li>
+<li>Призначення: зберігання та переміщення різних предметів</li>
+<li>Сфера використання: дім, кухня, вітальня, спальня, офіс, майстерня</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Вид" paramcode="10307" valuecode="afcc0b2d924673d43f05e71da7ae20b0">журнальний столик</param>
+    <param name="Матеріал виробу" paramcode="10342" valuecode="nk1bfav7,o57qfo25">ДСП, метал</param>
+    <param name="Матеріал каркаса" paramcode="10343" valuecode="526374c9d669a8e4c16dad9daac34cb4">метал</param>
+    <param name="Призначення" paramcode="10347" valuecode="74986060300ccf5e9de97166263fa416,5788205744178e8a35927cd7e77ac9f9,fecb51af5c02f13b355afd92ad1e6a1f,7fa55cc3ec9daac7f16bec4ded2f00fc,bd3f3b7859811a3a0cff39c3b84d1d32">для дому, для кухні, для вітальні, для спальні, для офісу</param>
+    <param name="Оснащення" paramcode="10354" valuecode="e4b68eab90c71d0ab8807626a120d461,89ecbd7ba6b862e553c05c542b1bbd13">з полицями, з коліщатками</param>
+    <param name="Особливості" paramcode="10359" valuecode="5a28ff1bbd5b281a6ef51c5c61dce505,33e34dbab62008389bf2fa31626d3a8c">розкладний, на колесиках</param>
+    <param name="Скло" paramcode="10376" valuecode="d0c1159292db45b8d2df690dfe668ef0">відсутнє</param>
+    <param name="Стиль" paramcode="10377" valuecode="a744a5839ed7b5e2afe0f32054ecb112">модерн</param>
+    <param name="Функціональність" paramcode="10425" valuecode="1a0a9133d98370d3db318b9a0bcdf066">розкладний</param>
+    <param name="Матеріал стільниці" paramcode="11996" valuecode="1a18c07b527ba8e11cab9e10823dba5a">ДСП</param>
+    <param name="Колір каркаса" paramcode="11998" valuecode="caf985948f59dfa9a83b5b76839ddad7">чорний</param>
+    <param name="Колір стільниці" paramcode="12022" valuecode="14967b1f40b7562f77c59a0432b46cd0">коричневий</param>
+    <param name="Транспортувальний стан" paramcode="12573" valuecode="98266e2e94a71456a5de2932f0123c07">зібраний</param>
+    <param name="Матеріал ніжок" paramcode="12992" valuecode="248be8a96fb2f57aa364f2f8979ac029">метал</param>
+    <param name="Форма" paramcode="2419" valuecode="86aea8fdb8701b4a3b12c1badc933b28">прямокутна</param>
+    <param name="Довжина" paramcode="2471">730</param>
+    <param name="Особливості конструкції" paramcode="4401">Складна конструкція з кошиками для зберігання</param>
+    <param name="Висота" paramcode="4814">730</param>
+    <param name="Ширина" paramcode="6455">450</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">64202</param>
+    <width>470</width>
+    <height>750</height>
+    <weight>5000</weight>
+    <length>320</length>
+  </offer>
+  <offer id="3249195350" available="true">
+    <price>925</price>
+    <category code="5314">Зарядні пристрої та блоки живлення для ноутбуків</category>
+    <attribute_set code="5314">Зарядні пристрої та блоки живлення для ноутбуків</attribute_set>
+    <picture>https://images.prom.ua/7839771954_zaryadnoe-ustrojstvo-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526733_zaryadnoe-ustrojstvo-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526738_zaryadnoe-ustrojstvo-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526737_zaryadnoe-ustrojstvo-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526735_zaryadnoe-ustrojstvo-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526728_zaryadnoe-ustrojstvo-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526730_zaryadnoe-ustrojstvo-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526736_zaryadnoe-ustrojstvo-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Зарядное устройство RIAS MY-150W для ноутбуков 12-24V 150W 8в1 Black (3_08841)</name>
+    <name lang="ua">Зарядний пристрій RIAS MY-150W для ноутбуків 12-24V 150W 8в1 Black (3_08841)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Зарядное устройство RIAS MY-150W для ноутбуков 12-24V 150W 8в1</strong></b></p>
+<p>Универсальное зарядное устройство RIAS MY-150W предназначено для ноутбуков и обеспечивает надежную работу вашего устройства в любой момент. Это зарядное устройство подходит для большинства моделей ноутбуков, таких как ASUS, ACER, FUJITSU, HP/COMPAQ, Toshiba, DELL и LENOVO/IBM. Благодаря легкому весу и компактному размеру, его удобно носить с собой в сумке или рюкзаке.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Универсальность — подходит для большинства моделей ноутбуков.</li>
+<li>Защита от скачков напряжения, перегрузок и короткого замыкания.</li>
+<li>Легкий вес и компактный размер.</li>
+<li>Качественные коннекторы из прочной и огнеупорной пластмассы.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Напряжение: 12V-24V</li>
+<li>Сила тока: до 10A</li>
+<li>Мощность: 150W</li>
+<li>Универсальный набор разъемов</li>
+<li>Индикатор работы: Да</li>
+<li>Входное напряжение (INPUT): 110V-240V AC 50/60Hz 1.3A MAX</li>
+<li>Выходное напряжение (OUTPUT): 12/15/16/18V 5.5A MAX; 19/20/22/24V 4A MAX</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>8 сменных разъёмов: 6.0 х 4.4 мм, 6.5x4.3x1 мм, 5.0x3.0 мм, 5.5x1.7 мм, 4.8x1.7 мм, 4.0x1.7 мм, 2.5x0.7 мм, 5.5x2.5 мм (12мм)</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Зарядний пристрій RIAS MY-150W для ноутбуків 12-24V 150W 8в1</strong></b></p>
+<p>Універсальний зарядний пристрій RIAS MY-150W призначений для ноутбуків і забезпечує надійну роботу вашого пристрою в будь-який момент. Це зарядний пристрій підходить для більшості моделей ноутбуків, таких як ASUS, ACER, FUJITSU, HP/COMPAQ, Toshiba, DELL та LENOVO/IBM. Завдяки легкій вазі та компактному розміру, його зручно носити з собою в сумці або рюкзаку.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Універсальність — підходить для більшості моделей ноутбуків.</li>
+<li>Захист від стрибків напруги, перевантажень та короткого замикання.</li>
+<li>Легка вага та компактний розмір.</li>
+<li>Якісні конектори з міцної та вогнетривкої пластмаси.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Напруга: 12V-24V</li>
+<li>Сила струму: до 10A</li>
+<li>Потужність: 150W</li>
+<li>Універсальний набір роз'ємів</li>
+<li>Індикатор роботи: Так</li>
+<li>Вхідна напруга (INPUT): 110V-240V AC 50/60Hz 1.3A MAX</li>
+<li>Вихідна напруга (OUTPUT): 12/15/16/18V 5.5A MAX; 19/20/22/24V 4A MAX</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>8 змінних роз'ємів: 6.0 х 4.4 мм, 6.5x4.3x1 мм, 5.0x3.0 мм, 5.5x1.7 мм, 4.8x1.7 мм, 4.0x1.7 мм, 2.5x0.7 мм, 5.5x2.5 мм (12мм)</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Роз'єм" paramcode="12475">Універсальний набір роз'ємів</param>
+    <param name="Додаткові характеристики" paramcode="2771">Захист від стрибків напруги, перевантажень та короткого замикання; Індикатор роботи: Так</param>
+    <param name="Вихідна потужність" paramcode="5462">150</param>
+    <param name="Вихідна напруга" paramcode="5464">24</param>
+    <param name="Сумісність" paramcode="6474">Універсальні</param>
+    <param name="Комплектація" paramcode="767">8 змінних роз'ємів: 6.0 х 4.4 мм, 6.5x4.3x1 мм, 5.0x3.0 мм, 5.5x1.7 мм, 4.8x1.7 мм, 4.0x1.7 мм, 2.5x0.7 мм, 5.5x2.5 мм (12мм)</param>
+    <param name="Сумісність пристрою" paramcode="994" valuecode="d046be853b17b68a5e510d90c992ed22,be71e8298d74093cb11f4172bb44d325,161234b447a88ce0bd7ec435c81403bb,85bc0a48619963638ba8851400fed9e7,88992596b9b232ff6648053435d075a3,706b1cea858b2f782289da8ae608a126">HP, Lenovo, Toshiba, Dell, Asus, Acer</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08841</param>
+    <width>150</width>
+    <height>60</height>
+    <weight>500</weight>
+    <length>200</length>
+  </offer>
+  <offer id="3249195341" available="true">
+    <price>516</price>
+    <category code="771">Інтерактивні іграшки</category>
+    <attribute_set code="771">Інтерактивні іграшки</attribute_set>
+    <picture>https://images.prom.ua/7829526543_interaktivnaya-igrushka-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526548_interaktivnaya-igrushka-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526544_interaktivnaya-igrushka-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Интерактивная игрушка RIAS Induction Aircraft "Летающий Космонавт" с LED подсветкой Orange (3_08832)</name>
+    <name lang="ua">Інтерактивна іграшка RIAS Induction Aircraft "Літаючий Космонавт" з LED підсвіткою Orange (3_08832)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Интерактивная игрушка Летающий Космонавт с LED подсветкой</strong></b></p>
+<p>Интерактивная игрушка "Летающий Космонавт" с LED подсветкой — это инновационная индукционная игрушка, созданная для захватывающего развлечения. Она обладает уникальной способностью левитировать над ладонью пользователя, реагируя на движения рук. Благодаря индукционной технологии, "Космонавт" легко поднимается в воздух и плавно опускается, создавая впечатляющий эффект летающей фигуры. Визуальное восприятие усиливается LED-подсветкой, которая превращает полет "Космонавта" в настоящее световое шоу. Эта игрушка не только развлекает, но и помогает улучшить моторику рук и координацию движений.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Индукционная технология для легкого управления</li>
+<li>LED подсветка для создания светового шоу</li>
+<li>Улучшает моторику рук и координацию движений</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Материал: Пластик</li>
+<li>Тип питания: Аккумулятор</li>
+<li>Зарядка: USB</li>
+<li>Размер: 12.6×5×15.3 см</li>
+<li>Возрастная группа: От 3 лет</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Светящаяся игрушка "Космонавт"</li>
+<li>Кабель зарядки</li>
+<li>Упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Інтерактивна іграшка Літаючий Космонавт з LED підсвіткою</strong></b></p>
+<p>Інтерактивна іграшка "Літаючий Космонавт" з LED підсвіткою — це інноваційна індукційна іграшка, створена для захоплюючих розваг. Вона має унікальну здатність левітувати над долонею користувача, реагуючи на рухи рук. Завдяки індукційній технології, "Космонавт" легко піднімається в повітря і плавно опускається, створюючи вражаючий ефект літаючої фігури. Візуальне сприйняття підсилюється LED-підсвіткою, яка перетворює політ "Космонавта" на справжнє світлове шоу. Ця іграшка не лише розважає, а й допомагає покращити моторику рук та координацію рухів.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Індукційна технологія для легкого управління</li>
+<li>LED підсвітка для створення світлового шоу</li>
+<li>Покращує моторику рук та координацію рухів</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Матеріал: Пластик</li>
+<li>Тип живлення: Акумулятор</li>
+<li>Зарядка: USB</li>
+<li>Розмір: 12.6×5×15.3 см</li>
+<li>Вікова група: Від 3 років</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Світлова іграшка "Космонавт"</li>
+<li>Кабель зарядки</li>
+<li>Упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантійний термін" paramcode="3969" valuecode="23d8e4af05a700994fde4a0ea465a4d1">1 місяць</param>
+    <param name="Розмір" paramcode="10792">12.6×5×15.3</param>
+    <param name="Висота" paramcode="110">15.3</param>
+    <param name="Ширина" paramcode="111">5.0</param>
+    <param name="Елементи живлення" paramcode="11482">Акумулятор</param>
+    <param name="Вид" paramcode="2213" valuecode="4815acce4154b4a2f2b57b65a177ebbe">робот</param>
+    <param name="Додатково" paramcode="2266" valuecode="093d781e2aebf94dd6a77aa98c5f12dc,cb132e7ac196b52d3a8f9a1ef2d15504">USB, світиться у темряві</param>
+    <param name="Вік дитини" paramcode="2289" valuecode="52e20c5cf8c826d1d7acce55f4e9afc5">від 3 років</param>
+    <param name="Особливості" paramcode="2290">Летающие</param>
+    <param name="Стать дитини" paramcode="2292" valuecode="14f680f34f14a2c6cfbbe17be5110b8d">унісекс</param>
+    <param name="Тип" paramcode="2480" valuecode="ka95u4nxhggh2fdw">інтерактивні роботи</param>
+    <param name="Матеріал" paramcode="2481" valuecode="cwcwxpvb">пластик</param>
+    <param name="Комплектація" paramcode="767">Світлова іграшка "Космонавт", Кабель зарядки, Упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="lcjfhn4e">помаранчевий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08832</param>
+    <width>60</width>
+    <height>160</height>
+    <weight>200</weight>
+    <length>130</length>
+  </offer>
+  <offer id="3249195324" available="true">
+    <price>762</price>
+    <category code="355">Кріплення для ТВ</category>
+    <attribute_set code="355">Кріплення для ТВ</attribute_set>
+    <picture>https://images.prom.ua/7839241689_kreplenie-dlya-televizora.jpg</picture>
+    <picture>https://images.prom.ua/3799393444_kreplenie-dlya-televizora.jpg</picture>
+    <picture>https://images.prom.ua/7829526333_kreplenie-dlya-televizora.jpg</picture>
+    <picture>https://images.prom.ua/7829526334_kreplenie-dlya-televizora.jpg</picture>
+    <picture>https://images.prom.ua/7829526335_kreplenie-dlya-televizora.jpg</picture>
+    <picture>https://images.prom.ua/7829526336_kreplenie-dlya-televizora.jpg</picture>
+    <picture>https://images.prom.ua/7829526337_kreplenie-dlya-televizora.jpg</picture>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Крепление для телевизора Greelite СР302S X-образное 14-42" Black (3_08815)</name>
+    <name lang="ua">Кріплення для телевізора Greelite СР302S X-подібне 14-42" Black (3_08815)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Крепление для телевизора Greelite СР302S X-образное 14-42"</strong></b></p>
+<p>Настенное крепление для телевизора Greelite СР302S предназначено для надежной фиксации жидкокристаллических телевизоров с диагональю от 14 до 42 дюймов. Это устройство отличается прочностью и долговечностью благодаря использованию холоднокатаной стали. Простота монтажа и возможность регулировки угла наклона делают его идеальным выбором для любого интерьера.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Выдвижная конструкция для удобной настройки.</li>
+<li>Нагрузка до 35 кг, что обеспечивает надежность крепления.</li>
+<li>Горизонтальный поворот на 180 градусов для оптимального угла обзора.</li>
+<li>Угол наклона до 15 градусов для комфортного просмотра.</li>
+<li>Совместимость с креплениями VESA различных размеров.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: крепеж для телевизора (кронштейн).</li>
+<li>Вид: настенный, выдвижной.</li>
+<li>Модель: СР302S.</li>
+<li>Форма кронштейна: X-образная.</li>
+<li>Максимальная нагрузка: до 35 кг.</li>
+<li>Горизонтальный поворот: 180 градусов.</li>
+<li>Угол наклона: 15 градусов.</li>
+<li>Расстояние от стены: 60-410 мм.</li>
+<li>Совместимость: телевизоры диагональю от 14 до 42 дюймов.</li>
+<li>Крепление: VESA (50x50/75x75/100x100/100x200/200x200 мм).</li>
+<li>Материал: холоднокатаная сталь.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Кронштейн для телевизора на стену.</li>
+<li>Крепления для монтажа.</li>
+<li>Набор дюбелей, болтов, ключей и гаек.</li>
+<li>Уровень.</li>
+<li>Инструкция.</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Кріплення для телевізора Greelite СР302S X-подібне 14-42"</strong></b></p>
+<p>Настінне кріплення для телевізора Greelite СР302S призначене для надійної фіксації рідкокристалічних телевізорів з діагоналлю від 14 до 42 дюймів. Це пристрій відрізняється міцністю і довговічністю завдяки використанню холоднокатаної сталі. Простота монтажу та можливість регулювання кута нахилу роблять його ідеальним вибором для будь-якого інтер'єру.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Висувна конструкція для зручного налаштування.</li>
+<li>Навантаження до 35 кг, що забезпечує надійність кріплення.</li>
+<li>Горизонтальний поворот на 180 градусів для оптимального кута огляду.</li>
+<li>Кут нахилу до 15 градусів для комфортного перегляду.</li>
+<li>Сумісність з кріпленнями VESA різних розмірів.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: кріплення для телевізора (кронштейн).</li>
+<li>Вид: настінний, висувний.</li>
+<li>Модель: СР302S.</li>
+<li>Форма кронштейна: X-подібна.</li>
+<li>Максимальне навантаження: до 35 кг.</li>
+<li>Горизонтальний поворот: 180 градусів.</li>
+<li>Кут нахилу: 15 градусів.</li>
+<li>Відстань від стіни: 60-410 мм.</li>
+<li>Сумісність: телевізори з діагоналлю від 14 до 42 дюймів.</li>
+<li>Кріплення: VESA (50x50/75x75/100x100/100x200/200x200 мм).</li>
+<li>Матеріал: холоднокатана сталь.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Кронштейн для телевізора на стіну.</li>
+<li>Кріплення для монтажу.</li>
+<li>Набір дюбелів, болтів, ключів і гайок.</li>
+<li>Рівень.</li>
+<li>Інструкція.</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Вид" paramcode="1121" valuecode="55be4bbccf2a9f55c479a160a9e62cd6">для ТВ</param>
+    <param name="Кількість вузлів повороту" paramcode="12221" valuecode="eb4c8b1ae49c77b0315b468330bbb308">2</param>
+    <param name="Додаткові характеристики" paramcode="2771">Настінне кріплення для телевізора з можливістю регулювання кута нахилу та повороту.</param>
+    <param name="Вид кріплення" paramcode="5443" valuecode="5b48fce228609dcd23fa830d68dabc07">настінне кріплення</param>
+    <param name="Максимальна діагональ телевізора" paramcode="5548">42</param>
+    <param name="Максимальне навантаження (вага ТВ)" paramcode="5553">35</param>
+    <param name="Максимальна відстань від стіни" paramcode="5569">410</param>
+    <param name="Мінімальна діагональ телевізора" paramcode="5587">14</param>
+    <param name="Мінімальна відстань від стіни" paramcode="5594">60</param>
+    <param name="Особливості кріплення" paramcode="5632" valuecode="1971982a71de58c96bce01e401fd12ab,45dd7cf93e23703d85f7650bd235b6d7,b67d4a757dad556147241b4e223c0f2b">висувний кронштейн, набір для монтажу в комплекті, поворотно-похиле</param>
+    <param name="Кут нахилу вниз" paramcode="5772">15</param>
+    <param name="Кут повороту" paramcode="5777">180</param>
+    <param name="Тип кріплення" paramcode="6575" valuecode="29084105caf2da4fbf990f40d119ca30">поворотно-похилі</param>
+    <param name="Сумісність з діагоналлю телевізора" paramcode="6674" valuecode="34abb9a1677b7b27a5564453a246438e,c5333ffd51db893188ed79d94ed2f314,5fd6db1b259cfa335f56230c05bd6f14,a1486df73953a7620786299455b7ca34,e8f5b70c46dc6d5f0673b2fa42ece93c,f24599e5a4755d54b4f7b1e12d7ff2f1,8b8676b512fdf7d066e5088e3bb18229,a882f9d6b3da531c7e4970ef705c338f,5f04ac805ccc66d4a132f2e738547569,144929122b145fb58c048b97104c2c37,89dba590059af68ef2e8d184c1ca6301,c812f0e29a4516af4a3a3156a085ab00,e964e94fe5e091bf6dcf3a1f57ba0caf,be91f96e48d3d8fb1c0e7f8b3fc4ee6d,624f12e51d9cb8edea355b307c2ae218,1223c1a25e513ff63d4b01749f3155d1,b583610848fde0cb976d79ef667ced46,527ffa868b5585fd3e502d163669204f,b8c3f4168675409c72bdb86e5bf8dd47,a39773f2db7e27af7dc452feafc4f544,eb50299c698286fe2884326859310f11,65782ec7b32b2bb50c5062eba7ebf3e2,1d66d61bdd1a3bf130da1afe51a10a3d,70c2c0080572c0964c6d28b11db1376c,91e89eb7971abb50aa7f84516143ee6c,2a957f2908b01a464fcbdf4d4ce60407,3fa6518dd07bd30199180420cfb189af,566b62dcbad53ab4cd2af016dfed39c6,b2ca9472f73f57d7bf14cffea683bf2e">14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42</param>
+    <param name="Стандарт VESA" paramcode="7254" valuecode="2328e84d13e5d394513e6b5a86c627ba,46af39dca7bf9811e43aa961b7b73757,93a18b5b67ff77593e9436a37e835571,93b089429736c794325f31cbf6febd1b,9ad82efc92c2236bdb861c961081db47">50x50, 75x75, 100x100, 100x200, 200x200</param>
+    <param name="Комплектація" paramcode="767">Кронштейн для телевізора на стіну, кріплення для монтажу, набір дюбелів, болтів, ключів і гайок, рівень, інструкція.</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">СР302S</param>
+    <width>250</width>
+    <height>100</height>
+    <weight>3000</weight>
+    <length>450</length>
+  </offer>
+  <offer id="3249195331" available="true">
+    <price>2100</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7839315416_perkusionnyj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7839315421_perkusionnyj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526402_perkusionnyj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526412_perkusionnyj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526410_perkusionnyj-massazher-dlya.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Перкусионный массажер для тела RIAS MD-XY-15 U-образный 10W 6 головок Black (3_08822)</name>
+    <name lang="ua">Перкусійний масажер для тіла RIAS MD-XY-15 U-подібний 10W 6 головок Black (3_08822)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Перкусионный массажер для тела RIAS MD-XY-15 U-образный 10W 6 головок</strong></b></p>
+<p>Перкусионный массажер RIAS MD-XY-15 — это инновационное устройство, созданное для эффективного расслабления мышц всего тела. Благодаря своей U-образной конструкции и перкуссионной технологии, массажер позволяет легко прорабатывать даже труднодоступные зоны, такие как спина, шея и плечи, без посторонней помощи. Устройство оснащено шестью режимами скорости, что позволяет настроить интенсивность массажа под индивидуальные потребности. Компактный и беспроводной дизайн делает его удобным для использования дома, в офисе или в поездках.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Улучшает кровообращение и лимфодренаж</li>
+<li>Снимает мышечное напряжение и усталость</li>
+<li>Ускоряет восстановление после тренировок</li>
+<li>Способствует расслаблению и снятию стресса</li>
+<li>Улучшает общее самочувствие и настроение</li>
+<li>Подходит для использования в домашних условиях</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип устройства: перкуссионный массажер</li>
+<li>Форма: U-образная изогнутая конструкция</li>
+<li>Количество насадок: 6 массажных головок</li>
+<li>Количество скоростей: 6 режимов</li>
+<li>Материал корпуса: ABS пластик</li>
+<li>Мощность: 10 Вт</li>
+<li>Номинальное напряжение: 7.4 В</li>
+<li>Максимальный ток: 8 А</li>
+<li>Скорость вибрации: до 4000 об/мин</li>
+<li>Емкость аккумулятора: 1800 мАч</li>
+<li>Время зарядки: 1–3 часа</li>
+<li>Время работы: до 60 минут</li>
+<li>Тип зарядки: USB - Type-C</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Массажер для тела</li>
+<li>USB кабель</li>
+<li>Насадки (5 комплектов)</li>
+<li>Фирменная упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Перкусійний масажер для тіла RIAS MD-XY-15 U-подібний 10W 6 головок</strong></b></p>
+<p>Перкусійний масажер RIAS MD-XY-15 — це інноваційний пристрій, створений для ефективного розслаблення м'язів усього тіла. Завдяки своїй U-подібній конструкції та перкусійній технології, масажер дозволяє легко опрацьовувати навіть важкодоступні зони, такі як спина, шия та плечі, без сторонньої допомоги. Пристрій оснащено шістьма режимами швидкості, що дозволяє налаштувати інтенсивність масажу під індивідуальні потреби. Компактний та бездротовий дизайн робить його зручним для використання вдома, в офісі або в подорожах.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Покращує кровообіг та лімфодренаж</li>
+<li>Знімає м'язову напругу та втому</li>
+<li>Прискорює відновлення після тренувань</li>
+<li>Сприяє розслабленню та зняттю стресу</li>
+<li>Покращує загальне самопочуття та настрій</li>
+<li>Підходить для використання в домашніх умовах</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип пристрою: перкусійний масажер</li>
+<li>Форма: U-подібна зігнута конструкція</li>
+<li>Кількість насадок: 6 масажних головок</li>
+<li>Кількість швидкостей: 6 режимів</li>
+<li>Матеріал корпусу: ABS пластик</li>
+<li>Потужність: 10 Вт</li>
+<li>Номінальна напруга: 7.4 В</li>
+<li>Максимальний струм: 8 А</li>
+<li>Швидкість вібрації: до 4000 об/хв</li>
+<li>Ємність акумулятора: 1800 мАг</li>
+<li>Час зарядки: 1–3 години</li>
+<li>Час роботи: до 60 хвилин</li>
+<li>Тип зарядки: USB - Type-C</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Масажер для тіла</li>
+<li>USB кабель</li>
+<li>Насадки (5 комплектів)</li>
+<li>Фірмова упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Потужність" paramcode="103">10</param>
+    <param name="Сфера застосування" paramcode="11201" valuecode="4924ea34ebc450b62042867962a353f9,0305dcb7cd7697c85c43ecc72c21a198,0aeaa17d651a3a7b9f80c4cad12fb6da,787ba1f2efd1c498f0d01c69f3b7f35b,fb5faa0124fdb5f78f41ecd58587a72e,5346dcf0d2e2b88d1d4f7f0843bdc13a,ff181b272c0340c1c06be39268c67def">для стегон і сідниць, для рук, для плечей, для ніг, для спини та попереку, для шиї та плечей, для тіла</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Кількість насадок" paramcode="172">6</param>
+    <param name="Особливості" paramcode="226" valuecode="6t1ahcxc">регулювання сили масажу</param>
+    <param name="Живлення" paramcode="237" valuecode="fb90dd3094db40c411c23cc15f41f54e,a762d6e59c9a59ed54a8357d4495f299">акумулятор, від USB</param>
+    <param name="Вид масажу" paramcode="413" valuecode="tkqxx2xt,kddd10q8wkuebiyj,azjukrwg6nssn9d0">вібраційний, перкусійний, розминання</param>
+    <param name="Насадки" paramcode="414" valuecode="kr9cqpver6p6oxph">U-подібна насадка</param>
+    <param name="Модель" paramcode="4351">RIAS MD-XY-15</param>
+    <param name="Тип масажеру" paramcode="516" valuecode="05848134f6fbd7c87fb98fd935f4fdf2">масажний пістолет</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+    <param name="Комплектація" paramcode="767">Масажер для тіла, USB кабель, Насадки (5 комплектів), Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>200</width>
     <height>100</height>
     <weight>1000</weight>
     <length>300</length>
   </offer>
-  <offer id="NO_SKU_4" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+  <offer id="3249195332" available="true">
+    <price>1895</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7840633899_vibromassazher-dlya-tela.jpg</picture>
+    <picture>https://images.prom.ua/7840633900_vibromassazher-dlya-tela.jpg</picture>
+    <picture>https://images.prom.ua/7840633901_vibromassazher-dlya-tela.jpg</picture>
+    <picture>https://images.prom.ua/7840633902_vibromassazher-dlya-tela.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Вибромассажер для тела RIAS Fascial Gun JY-0116 многозонный с 28 головками Grey (3_08823)</name>
+    <name lang="ua">Вібромасажер для тіла RIAS Fascial Gun JY-0116 багатозонний з 28 головками Grey (3_08823)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Вибромассажер для тела RIAS Fascial Gun JY-0116 многозонный с 28 головками</strong></b></p>
+<p>Вибромассажер Fascial Gun JY-0116 — это инновационное устройство, предназначенное для домашнего массажа различных участков тела, включая спину, поясницу, плечи, руки и ноги. Благодаря перкуссионному и многоточечному массажу, массажер эффективно воздействует на мышцы, обеспечивая расслабление и снятие напряжения.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Перкуссионный и многоточечный массаж для глубокого воздействия на мышцы.</li>
+<li>28 массажных головок для максимального охвата.</li>
+<li>Две удобные ручки для легкого удержания и использования.</li>
+<li>Световая индикация для удобства использования.</li>
+<li>Сменные массажные элементы для различных видов массажа.</li>
+<li>Подходит для самостоятельного использования.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: Fascial Gun JY-0116</li>
+<li>Тип: Перкуссионный массажер для тела</li>
+<li>Назначение: Спина, поясница, плечи, руки, ноги и другие участки тела</li>
+<li>Количество основных массажных блоков: 4 шт.</li>
+<li>Тип массажа: Многоточечный, перкуссионный</li>
+<li>Рельефные массажные головки: Есть</li>
+<li>Сменные массажные элементы: Есть</li>
+<li>Круглые смягчающие накладки: Есть</li>
+<li>Световая индикация: Есть</li>
+<li>Количество ручек: 2</li>
+<li>Тип питания: Аккумулятор</li>
+<li>Функциональность массажера: Антицеллюлитный массаж, вибрационный массаж, разминающий массаж</li>
+<li>Область применения массажера: Бедра, брюшной пресс, все тело, грудь, икры, колени, лицо, ноги, плечи, предплечья, руки, спина, ступни, шея, ягодицы</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Массажер Fascial Gun JY-0116</li>
+<li>USB кабель</li>
+<li>Комплект переменных рельефных элементов</li>
+<li>Комплект круглых смягчающих накладок</li>
+<li>Фирменная упаковка</li>
+</ul>
+<p>Этот вибромассажер станет отличным помощником для тех, кто стремится поддерживать здоровье и тонус мышц в домашних условиях. Удобная конструкция и разнообразие функций делают его идеальным выбором для регулярного использования.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Вібромасажер для тіла RIAS Fascial Gun JY-0116 багатозонний з 28 головками</strong></b></p>
+<p>Вібромасажер Fascial Gun JY-0116 — це інноваційний пристрій, призначений для домашнього масажу різних ділянок тіла, включаючи спину, поперек, плечі, руки та ноги. Завдяки перкусійному та багатоточковому масажу, масажер ефективно впливає на м'язи, забезпечуючи розслаблення та зняття напруги.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Перкусійний та багатоточковий масаж для глибокого впливу на м'язи.</li>
+<li>28 масажних головок для максимального охоплення.</li>
+<li>Дві зручні ручки для легкого утримання та використання.</li>
+<li>Світлова індикація для зручності використання.</li>
+<li>Змінні масажні елементи для різних видів масажу.</li>
+<li>Підходить для самостійного використання.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Модель: Fascial Gun JY-0116</li>
+<li>Тип: Перкусійний масажер для тіла</li>
+<li>Призначення: Спина, поперек, плечі, руки, ноги та інші ділянки тіла</li>
+<li>Кількість основних масажних блоків: 4 шт.</li>
+<li>Тип масажу: Багатоточковий, перкусійний</li>
+<li>Рельєфні масажні головки: Є</li>
+<li>Змінні масажні елементи: Є</li>
+<li>Круглі пом'якшувальні накладки: Є</li>
+<li>Світлова індикація: Є</li>
+<li>Кількість ручок: 2</li>
+<li>Тип живлення: Акумулятор</li>
+<li>Функціональність масажера: Антицелюлітний масаж, вібраційний масаж, розминаючий масаж</li>
+<li>Область застосування масажера: Стегна, черевний прес, все тіло, груди, ікри, коліна, обличчя, ноги, плечі, передпліччя, руки, спина, ступні, шия, сідниці</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Масажер Fascial Gun JY-0116</li>
+<li>USB кабель</li>
+<li>Комплект змінних рельєфних елементів</li>
+<li>Комплект круглих пом'якшувальних накладок</li>
+<li>Фірмова упаковка</li>
+</ul>
+<p>Цей вібромасажер стане чудовим помічником для тих, хто прагне підтримувати здоров'я та тонус м'язів у домашніх умовах. Зручна конструкція та різноманітність функцій роблять його ідеальним вибором для регулярного використання.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>100</width>
-    <height>150</height>
+    <param name="Сфера застосування" paramcode="11201" valuecode="4924ea34ebc450b62042867962a353f9,0305dcb7cd7697c85c43ecc72c21a198,9ed54f0d0345d0d1a98468fee668221b,0aeaa17d651a3a7b9f80c4cad12fb6da,787ba1f2efd1c498f0d01c69f3b7f35b,1ae52192d1d6d476066a39cc9353d0df,fb5faa0124fdb5f78f41ecd58587a72e,5346dcf0d2e2b88d1d4f7f0843bdc13a,ff181b272c0340c1c06be39268c67def">для стегон і сідниць, для рук, для живота, для плечей, для ніг, для обличчя, для спини та попереку, для шиї та плечей, для тіла</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Кількість насадок" paramcode="172">28</param>
+    <param name="Особливості" paramcode="226" valuecode="6t1ahcxc">регулювання сили масажу</param>
+    <param name="Живлення" paramcode="237" valuecode="fb90dd3094db40c411c23cc15f41f54e">акумулятор</param>
+    <param name="Вид масажу" paramcode="413" valuecode="tkqxx2xt,kddd10q8wkuebiyj,azjukrwg6nssn9d0">вібраційний, перкусійний, розминання</param>
+    <param name="Модель" paramcode="4351">Fascial Gun JY-0116</param>
+    <param name="Тип масажеру" paramcode="516" valuecode="05848134f6fbd7c87fb98fd935f4fdf2">масажний пістолет</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0">пластик</param>
+    <param name="Комплектація" paramcode="767">Масажер Fascial Gun JY-0116, USB кабель, Комплект змінних рельєфних елементів, Комплект круглих пом'якшувальних накладок, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>150</width>
+    <height>250</height>
     <weight>1500</weight>
     <length>300</length>
   </offer>
-  <offer id="NO_SKU_5" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+  <offer id="3249195333" available="true">
+    <price>2404</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7839384669_vibromassazher-dlya-myshts.jpg</picture>
+    <picture>https://images.prom.ua/7839384665_vibromassazher-dlya-myshts.jpg</picture>
+    <picture>https://images.prom.ua/7829526426_vibromassazher-dlya-myshts.jpg</picture>
+    <picture>https://images.prom.ua/7829526428_vibromassazher-dlya-myshts.jpg</picture>
+    <picture>https://images.prom.ua/7829526429_vibromassazher-dlya-myshts.jpg</picture>
+    <picture>https://images.prom.ua/7829526431_vibromassazher-dlya-myshts.jpg</picture>
+    <picture>https://images.prom.ua/7829526433_vibromassazher-dlya-myshts.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Вибромассажер для мышц RIAS Massage Gun SL-8890 6 скоростей 12 насадок Black (3_08824)</name>
+    <name lang="ua">Вібромасажер для м'язів RIAS Massage Gun SL-8890 6 швидкостей 12 насадок Black (3_08824)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Вибромассажер для мышц RIAS Massage Gun SL-8890 с 6 скоростями и 12 насадками</strong></b></p>
+<p>Вибромассажер для мышц RIAS Massage Gun SL-8890 — это современное устройство для глубокого массажа и расслабления мышц после физических нагрузок. Благодаря эргономичному треугольному корпусу, массажер удобно удерживать под разными углами, а 12 сменных насадок обеспечивают разнообразие в проработке различных мышечных зон. Устройство поддерживает 6 скоростей и обеспечивает интенсивность работы до 3200 об/мин, что позволяет адаптировать массаж под индивидуальные потребности.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>12 насадок для разнообразной проработки мышц</li>
+<li>6 скоростей для регулировки интенсивности массажа</li>
+<li>Высокая скорость работы механизма — 3200 об/мин</li>
+<li>Глубокое перкуссионное воздействие с амплитудой 11 мм</li>
+<li>Аккумулятор емкостью 2500 мАч обеспечивает до 7 часов автономной работы</li>
+<li>Удобный треугольный корпус для удержания под разными углами</li>
+<li>Низкий уровень шума — до 45 дБ</li>
+<li>Портативный формат для удобного использования без постоянного подключения</li>
+<li>Прочный корпус из ABS-пластика</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип устройства: перкуссионный массажный пистолет</li>
+<li>Тип массажа: ударный</li>
+<li>Назначение: глубокое воздействие на мышцы</li>
+<li>Количество насадок: 12</li>
+<li>Количество скоростей: 6</li>
+<li>Максимальная скорость: 3200 об/мин</li>
+<li>Амплитуда: 11 мм</li>
+<li>Уровень шума: 45 дБ</li>
+<li>Тип питания: встроенный аккумулятор</li>
+<li>Тип аккумулятора: литиевый</li>
+<li>Емкость аккумулятора: 2500 мАч</li>
+<li>Время работы: до 7 часов</li>
+<li>Материал корпуса: ABS-пластик</li>
+<li>Размер массажера: 20 × 21,5 × 14,5 см</li>
+<li>Вес нетто: 0,57 кг</li>
+<li>Формат использования: портативный</li>
+<li>Зарядка: в комплекте</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Массажный пистолет Massage Gun SL-8890</li>
+<li>12 сменных насадок</li>
+<li>Зарядка 220V</li>
+<li>Фирменная упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Вібромасажер для м'язів RIAS Massage Gun SL-8890 з 6 швидкостями та 12 насадками</strong></b></p>
+<p>Вібромасажер для м'язів RIAS Massage Gun SL-8890 — це сучасний пристрій для глибокого масажу та розслаблення м'язів після фізичних навантажень. Завдяки ергономічному трикутному корпусу, масажер зручно утримувати під різними кутами, а 12 змінних насадок забезпечують різноманітність у пропрацюванні різних м'язових зон. Пристрій підтримує 6 швидкостей та забезпечує інтенсивність роботи до 3200 об/хв, що дозволяє адаптувати масаж під індивідуальні потреби.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>12 насадок для різноманітного пропрацювання м'язів</li>
+<li>6 швидкостей для регулювання інтенсивності масажу</li>
+<li>Висока швидкість роботи механізму — 3200 об/хв</li>
+<li>Глибокий перкусійний вплив з амплітудою 11 мм</li>
+<li>Акумулятор ємністю 2500 мАг забезпечує до 7 годин автономної роботи</li>
+<li>Зручний трикутний корпус для утримання під різними кутами</li>
+<li>Низький рівень шуму — до 45 дБ</li>
+<li>Портативний формат для зручного використання без постійного підключення</li>
+<li>Міцний корпус з ABS-пластику</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип пристрою: перкусійний масажний пістолет</li>
+<li>Тип масажу: ударний</li>
+<li>Призначення: глибокий вплив на м'язи</li>
+<li>Кількість насадок: 12</li>
+<li>Кількість швидкостей: 6</li>
+<li>Максимальна швидкість: 3200 об/хв</li>
+<li>Амплітуда: 11 мм</li>
+<li>Рівень шуму: 45 дБ</li>
+<li>Тип живлення: вбудований акумулятор</li>
+<li>Тип акумулятора: літієвий</li>
+<li>Ємність акумулятора: 2500 мАг</li>
+<li>Час роботи: до 7 годин</li>
+<li>Матеріал корпусу: ABS-пластик</li>
+<li>Розмір масажера: 20 × 21,5 × 14,5 см</li>
+<li>Вага нетто: 0,57 кг</li>
+<li>Формат використання: портативний</li>
+<li>Зарядка: в комплекті</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Масажний пістолет Massage Gun SL-8890</li>
+<li>12 змінних насадок</li>
+<li>Зарядка 220V</li>
+<li>Фірмова упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>150</width>
+    <param name="Висота" paramcode="110">14.5</param>
+    <param name="Ширина" paramcode="111">21.5</param>
+    <param name="Глибина" paramcode="112">20.0</param>
+    <param name="Сфера застосування" paramcode="11201" valuecode="4924ea34ebc450b62042867962a353f9,0305dcb7cd7697c85c43ecc72c21a198,0aeaa17d651a3a7b9f80c4cad12fb6da,787ba1f2efd1c498f0d01c69f3b7f35b,fb5faa0124fdb5f78f41ecd58587a72e,5346dcf0d2e2b88d1d4f7f0843bdc13a">для стегон і сідниць, для рук, для плечей, для ніг, для спини та попереку, для шиї та плечей</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Кількість насадок" paramcode="172">12</param>
+    <param name="Особливості" paramcode="226" valuecode="6t1ahcxc">регулювання сили масажу</param>
+    <param name="Живлення" paramcode="237" valuecode="fb90dd3094db40c411c23cc15f41f54e">акумулятор</param>
+    <param name="Вид масажу" paramcode="413" valuecode="kddd10q8wkuebiyj">перкусійний</param>
+    <param name="Модель" paramcode="4351">SL-8890</param>
+    <param name="Тип масажеру" paramcode="516" valuecode="05848134f6fbd7c87fb98fd935f4fdf2">масажний пістолет</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+    <param name="Вага" paramcode="762">0.57</param>
+    <param name="Комплектація" paramcode="767">Масажний пістолет Massage Gun SL-8890, 12 змінних насадок, Зарядка 220V, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>225</width>
+    <height>155</height>
+    <weight>600</weight>
+    <length>210</length>
+  </offer>
+  <offer id="3249195334" available="true">
+    <price>1081</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7839438458_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526437_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526443_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526438_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526440_ruchnoj-massazher-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526434_ruchnoj-massazher-dlya.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Ручной массажер для тела RIAS Fascial Gun MD-XY-12 с 9 насадками 25W Orange (3_08825)</name>
+    <name lang="ua">Ручний масажер для тіла RIAS Fascial Gun MD-XY-12 з 9 насадками 25W Orange (3_08825)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Ручной массажер для тела RIAS Fascial Gun MD-XY-12 с 9 насадками 25W</strong></b></p>
+<p>Ручной массажер RIAS Fascial Gun MD-XY-12 — это современное устройство для глубокого массажа мышц, снятия напряжения и ускорения восстановления после физических нагрузок. Благодаря высокочастотной вибрации, массажер эффективно воздействует на мышечные ткани, помогая уменьшить усталость и улучшить кровообращение. Компактный корпус удобно лежит в руке, а цифровой дисплей позволяет контролировать выбранный режим работы и уровень заряда аккумулятора.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>9 насадок для разных зон тела</li>
+<li>Глубокий массаж для эффективной проработки мышц</li>
+<li>Регулировка скорости для настройки интенсивности работы</li>
+<li>Цифровой дисплей для отображения режима и заряда</li>
+<li>Мощный двигатель для стабильной высокой производительности</li>
+<li>USB Type-C для удобной современной зарядки</li>
+<li>Автоотключение через 15 минут работы</li>
+<li>Компактный корпус, удобно держать в руке</li>
+<li>Высокочастотная вибрация для быстрого снятия напряжения</li>
+<li>Длительная автономная работа</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: перкуссионный массажер Fascial Gun</li>
+<li>Назначение: глубокий вибрационный массаж мышц</li>
+<li>Материал корпуса: ABS-пластик</li>
+<li>Размер: 16.7 × 13.3 см</li>
+<li>Максимальная мощность: 7.4 Вт</li>
+<li>Номинальная мощность двигателя: 25 Вт</li>
+<li>Максимальная скорость: 2800 об/мин</li>
+<li>Регулировка скорости: есть</li>
+<li>Тип аккумулятора: встроенный литиевый</li>
+<li>Вход питания: 5V ⎓ 2A</li>
+<li>Тип зарядки: USB Type-C</li>
+<li>Цифровой дисплей: есть</li>
+<li>Индикация: уровень заряда и режим работы</li>
+<li>Автоотключение: через 15 минут</li>
+<li>Количество массажных насадок: 9</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Массажер Deep Rolling Fascial Gun MD-XY-12</li>
+<li>9 насадок</li>
+<li>Кабель USB Type-C</li>
+<li>Фирменная упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Ручний масажер для тіла RIAS Fascial Gun MD-XY-12 з 9 насадками 25W</strong></b></p>
+<p>Ручний масажер RIAS Fascial Gun MD-XY-12 — це сучасний пристрій для глибокого масажу м'язів, зняття напруги та прискорення відновлення після фізичних навантажень. Завдяки високочастотній вібрації, масажер ефективно впливає на м'язові тканини, допомагаючи зменшити втому та покращити кровообіг. Компактний корпус зручно лежить у руці, а цифровий дисплей дозволяє контролювати обраний режим роботи та рівень заряду акумулятора.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>9 насадок для різних зон тіла</li>
+<li>Глибокий масаж для ефективного опрацювання м'язів</li>
+<li>Регулювання швидкості для налаштування інтенсивності роботи</li>
+<li>Цифровий дисплей для відображення режиму та заряду</li>
+<li>Потужний двигун для стабільної високої продуктивності</li>
+<li>USB Type-C для зручної сучасної зарядки</li>
+<li>Автовимкнення через 15 хвилин роботи</li>
+<li>Компактний корпус, зручно тримати в руці</li>
+<li>Високочастотна вібрація для швидкого зняття напруги</li>
+<li>Тривала автономна робота</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: перкусійний масажер Fascial Gun</li>
+<li>Призначення: глибокий вібраційний масаж м'язів</li>
+<li>Матеріал корпусу: ABS-пластик</li>
+<li>Розмір: 16.7 × 13.3 см</li>
+<li>Максимальна потужність: 7.4 Вт</li>
+<li>Номінальна потужність двигуна: 25 Вт</li>
+<li>Максимальна швидкість: 2800 об/хв</li>
+<li>Регулювання швидкості: є</li>
+<li>Тип акумулятора: вбудований літієвий</li>
+<li>Вхід живлення: 5V ⎓ 2A</li>
+<li>Тип зарядки: USB Type-C</li>
+<li>Цифровий дисплей: є</li>
+<li>Індикація: рівень заряду та режим роботи</li>
+<li>Автовимкнення: через 15 хвилин</li>
+<li>Кількість масажних насадок: 9</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Масажер Deep Rolling Fascial Gun MD-XY-12</li>
+<li>9 насадок</li>
+<li>Кабель USB Type-C</li>
+<li>Фірмова упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Потужність" paramcode="103">25</param>
+    <param name="Висота" paramcode="110">13.3</param>
+    <param name="Ширина" paramcode="111">16.7</param>
+    <param name="Сфера застосування" paramcode="11201" valuecode="4924ea34ebc450b62042867962a353f9,0305dcb7cd7697c85c43ecc72c21a198,0aeaa17d651a3a7b9f80c4cad12fb6da,787ba1f2efd1c498f0d01c69f3b7f35b,fb5faa0124fdb5f78f41ecd58587a72e,5346dcf0d2e2b88d1d4f7f0843bdc13a,ff181b272c0340c1c06be39268c67def">для стегон і сідниць, для рук, для плечей, для ніг, для спини та попереку, для шиї та плечей, для тіла</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Кількість насадок" paramcode="172">9</param>
+    <param name="Особливості" paramcode="226" valuecode="7gt3bwxr">автоматичне вимкнення</param>
+    <param name="Живлення" paramcode="237" valuecode="fb90dd3094db40c411c23cc15f41f54e,a762d6e59c9a59ed54a8357d4495f299">акумулятор, від USB</param>
+    <param name="Вид масажу" paramcode="413" valuecode="tkqxx2xt,kddd10q8wkuebiyj,azjukrwg6nssn9d0">вібраційний, перкусійний, розминання</param>
+    <param name="Модель" paramcode="4351">MD-XY-12</param>
+    <param name="Тип масажеру" paramcode="516" valuecode="05848134f6fbd7c87fb98fd935f4fdf2">масажний пістолет</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+    <param name="Комплектація" paramcode="767">Масажер Deep Rolling Fascial Gun MD-XY-12, 9 насадок, Кабель USB Type-C, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="lcjfhn4e">помаранчевий</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>180</width>
     <height>150</height>
-    <weight>1500</weight>
+    <weight>1000</weight>
+    <length>140</length>
+  </offer>
+  <offer id="3249195335" available="true">
+    <price>1702</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7839468489_massazher-dlya-nog.jpg</picture>
+    <picture>https://images.prom.ua/7829526448_massazher-dlya-nog.jpg</picture>
+    <picture>https://images.prom.ua/7829526446_massazher-dlya-nog.jpg</picture>
+    <picture>https://images.prom.ua/7829526444_massazher-dlya-nog.jpg</picture>
+    <picture>https://images.prom.ua/7829526451_massazher-dlya-nog.jpg</picture>
+    <picture>https://images.prom.ua/7839468497_massazher-dlya-nog.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Массажер для ног RIAS Foot Massager MSN-W1 с инфракрасным подогревом 24W Black (3_08826)</name>
+    <name lang="ua">Масажер для ніг RIAS Foot Massager MSN-W1 з інфрачервоним підігрівом 24W Black (3_08826)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Массажер для ног RIAS Foot Massager MSN-W1 с инфракрасным подогревом 24W</strong></b></p>
+<p>Электрический массажер для ног RIAS Foot Massager MSN-W1 — это компактное устройство, предназначенное для комфортного домашнего массажа стоп, пяток, лодыжек и икроножных мышц. Массажер сочетает в себе роликовый Shiatsu-массаж, вибрационное воздействие и инфракрасный подогрев, что помогает расслабить ноги после рабочего дня, длительных прогулок или тренировок. Благодаря разнообразию техник массажа и программ работы, вы сможете выбрать оптимальный режим для себя.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Роликовый Shiatsu-массаж</li>
+<li>Вибрационное воздействие</li>
+<li>5 техник массажа</li>
+<li>4 программы работы</li>
+<li>3 уровня интенсивности</li>
+<li>Изменение направления вращения роликов</li>
+<li>Инфракрасный подогрев</li>
+<li>Автоматический и ручной режимы</li>
+<li>Автоматическое отключение</li>
+<li>Открытая конструкция</li>
+<li>Удобное кнопочное управление</li>
+<li>Компактные размеры</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: электрический массажёр для ног и икр</li>
+<li>Модель: MSN-W1</li>
+<li>Тип массажа: роликовый Shiatsu, вибрационный</li>
+<li>Количество массажных техник: 5</li>
+<li>Количество программ: 4</li>
+<li>Количество скоростей: 3</li>
+<li>Режимы работы: автоматический, ручной</li>
+<li>Регулировка интенсивности: есть</li>
+<li>Изменение направления роликов: есть</li>
+<li>Функция подогрева: инфракрасный</li>
+<li>Автоматическое отключение: есть</li>
+<li>Продолжительность автоматического сеанса: 15 минут</li>
+<li>Рекомендуемое время использования: 15–30 минут</li>
+<li>Управление: кнопки на корпусе</li>
+<li>Конструкция: открытая</li>
+<li>Области воздействия: стопы, пятки, лодыжки, голеностоп, икроножные мышцы</li>
+<li>Материал покрытия: экокожа</li>
+<li>Мощность: 24 Вт</li>
+<li>Напряжение: 100–240 В</li>
+<li>Питание: от сети</li>
+<li>Длина кабеля: 120 см</li>
+<li>Размер рабочей зоны: 23 × 9 см</li>
+<li>Габариты: 35 × 25 × 17 см</li>
+<li>Вес: 1,25 кг</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Электрический массажер для ног и ступней Foot Massager MSN-W1</li>
+<li>Блок питания 220V</li>
+<li>Фирменная упаковка</li>
+</ul>
+<p>Этот массажер станет отличным выбором для тех, кто ищет эффективное и удобное средство для снятия усталости и напряжения в ногах. Его функциональность и простота в использовании делают его идеальным для домашнего применения.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Масажер для ніг RIAS Foot Massager MSN-W1 з інфрачервоним підігрівом 24W</strong></b></p>
+<p>Електричний масажер для ніг RIAS Foot Massager MSN-W1 — це компактний пристрій, призначений для комфортного домашнього масажу стоп, п'ят, щиколоток і литкових м'язів. Масажер поєднує в собі роликовий Shiatsu-масаж, вібраційний вплив та інфрачервоний підігрів, що допомагає розслабити ноги після робочого дня, тривалих прогулянок або тренувань. Завдяки різноманіттю технік масажу та програм роботи, ви зможете обрати оптимальний режим для себе.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Роликовий Shiatsu-масаж</li>
+<li>Вібраційний вплив</li>
+<li>5 технік масажу</li>
+<li>4 програми роботи</li>
+<li>3 рівні інтенсивності</li>
+<li>Зміна напрямку обертання роликів</li>
+<li>Інфрачервоний підігрів</li>
+<li>Автоматичний та ручний режими</li>
+<li>Автоматичне вимкнення</li>
+<li>Відкрита конструкція</li>
+<li>Зручне кнопкове управління</li>
+<li>Компактні розміри</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: електричний масажер для ніг і литок</li>
+<li>Модель: MSN-W1</li>
+<li>Тип масажу: роликовий Shiatsu, вібраційний</li>
+<li>Кількість технік масажу: 5</li>
+<li>Кількість програм: 4</li>
+<li>Кількість швидкостей: 3</li>
+<li>Режими роботи: автоматичний, ручний</li>
+<li>Регулювання інтенсивності: є</li>
+<li>Зміна напрямку роликів: є</li>
+<li>Функція підігріву: інфрачервоний</li>
+<li>Автоматичне вимкнення: є</li>
+<li>Тривалість автоматичного сеансу: 15 хвилин</li>
+<li>Рекомендований час використання: 15–30 хвилин</li>
+<li>Управління: кнопки на корпусі</li>
+<li>Конструкція: відкрита</li>
+<li>Області впливу: стопи, п'яти, щиколотки, гомілкостоп, литкові м'язи</li>
+<li>Матеріал покриття: екокожа</li>
+<li>Потужність: 24 Вт</li>
+<li>Напруга: 100–240 В</li>
+<li>Живлення: від мережі</li>
+<li>Довжина кабелю: 120 см</li>
+<li>Розмір робочої зони: 23 × 9 см</li>
+<li>Габарити: 35 × 25 × 17 см</li>
+<li>Вага: 1,25 кг</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Електричний масажер для ніг і стоп Foot Massager MSN-W1</li>
+<li>Блок живлення 220V</li>
+<li>Фірмова упаковка</li>
+</ul>
+<p>Цей масажер стане чудовим вибором для тих, хто шукає ефективний і зручний засіб для зняття втоми та напруги в ногах. Його функціональність і простота у використанні роблять його ідеальним для домашнього застосування.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Потужність" paramcode="103">24</param>
+    <param name="Довжина мережевого шнура" paramcode="109">1.2</param>
+    <param name="Висота" paramcode="110">17</param>
+    <param name="Ширина" paramcode="111">25</param>
+    <param name="Глибина" paramcode="112">35</param>
+    <param name="Сфера застосування" paramcode="11201" valuecode="787ba1f2efd1c498f0d01c69f3b7f35b">для ніг</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Особливості" paramcode="226" valuecode="c428bf46f90327e81f1ecde1b4c222bf,6t1ahcxc,7gt3bwxr">інфрачервоний випромінювач, регулювання сили масажу, автоматичне вимкнення</param>
+    <param name="Живлення" paramcode="237" valuecode="c575fae5c348165ed2e016e031d6c328">від мережі 220 В</param>
+    <param name="Вид масажу" paramcode="413" valuecode="tkqxx2xt,x6soastt3s9hqgzu,s9pamqxt,jvekwbw5tjcha3lv">вібраційний, роликовий, інфрачервоний прогрів, шиацу</param>
+    <param name="Модель" paramcode="4351">MSN-W1</param>
+    <param name="Тип масажеру" paramcode="516" valuecode="51832a98047ddf3fddacf193926263d7">масажна підставка</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de513192">екошкіра</param>
+    <param name="Вага" paramcode="762">1.25</param>
+    <param name="Комплектація" paramcode="767">Електричний масажер для ніг і стоп Foot Massager MSN-W1, Блок живлення 220V, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Живлення" paramcode="9924" valuecode="5c9ed0b170ec405243a247c067a70628">від мережі</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>260</width>
+    <height>180</height>
+    <weight>1350</weight>
+    <length>360</length>
+  </offer>
+  <offer id="3249195336" available="true">
+    <price>3681</price>
+    <category code="134">Електромасажери</category>
+    <attribute_set code="134">Електромасажери</attribute_set>
+    <picture>https://images.prom.ua/7839454841_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526453_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7839454844_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526456_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526457_rolikovyj-massazher-rias.jpg</picture>
+    <picture>https://images.prom.ua/7839454843_rolikovyj-massazher-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Роликовый массажер RIAS Triangle Roller Massager SL-525 USB Type-C Black (3_08827)</name>
+    <name lang="ua">Роликовий масажер RIAS Triangle Roller Massager SL-525 USB Type-C Black (3_08827)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Роликовый массажер Triangle Roller Massager SL-525 USB Type-C 330x235x165 мм</strong></b></p>
+<p>Беспроводной электрический роликовый массажер Triangle Roller Massager SL-525 создан для глубокого массажа и миофасциального релиза. Устройство оснащено рельефным валиком и восемью независимыми массажными стержнями, что позволяет эффективно воздействовать на крупные мышечные группы. Устойчивая треугольная рама с боковыми ручками обеспечивает удобство использования как в руках, так и с упором на пол.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>5 скоростей для регулировки интенсивности массажа</li>
+<li>8 массажных стержней для равномерного воздействия</li>
+<li>Рельефный валик для интенсивной проработки мышц</li>
+<li>Миофасциальный массаж для глубокого воздействия на мышцы</li>
+<li>Треугольная рама для устойчивой конструкции</li>
+<li>Боковые ручки для удобного хвата</li>
+<li>Беспроводная работа для использования без постоянного подключения к сети</li>
+<li>Аккумулятор 1800 мАч для автономной работы</li>
+<li>Индикатор заряда для контроля уровня заряда аккумулятора</li>
+<li>USB Type-C для удобной зарядки устройства</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: беспроводной электрический роликовый массажер</li>
+<li>Назначение: массаж тела, миофасциальный релиз, расслабление мышц, уход за телом</li>
+<li>Применение: икроножные мышцы, бедра, спина, ягодицы, шея</li>
+<li>Способ использования: в руках, с упором на пол</li>
+<li>Количество скоростей: 5</li>
+<li>Конструкция: треугольная рама с боковыми ручками-опорами</li>
+<li>Конструкция валика: текстурированный рельефный валик</li>
+<li>Количество массажных стержней: 8</li>
+<li>Массажные элементы: жесткие</li>
+<li>Панель управления: кнопочная</li>
+<li>Индикация: светодиодный индикатор уровня заряда</li>
+<li>Тип аккумулятора: встроенный</li>
+<li>Емкость аккумулятора: 1800 мАч</li>
+<li>Номинальное напряжение: 12,6 В</li>
+<li>Разъем для зарядки: USB Type-C</li>
+<li>Материал: ABS-пластик</li>
+<li>Размер: Длина: 330 мм, Ширина: 235 мм, Высота: 165 мм</li>
+<li>Вес нетто: 2,1 кг</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Роликовый массажер Triangle Roller Massager SL-525</li>
+<li>Зарядный кабель USB Type-C</li>
+<li>Фирменная упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Роликовий масажер Triangle Roller Massager SL-525 USB Type-C 330x235x165 мм</strong></b></p>
+<p>Бездротовий електричний роликовий масажер Triangle Roller Massager SL-525 створений для глибокого масажу та міофасціального релізу. Пристрій оснащено рельєфним валиком і вісьмома незалежними масажними стержнями, що дозволяє ефективно впливати на великі м'язові групи. Стійка трикутна рама з боковими ручками забезпечує зручність використання як у руках, так і з опорою на підлогу.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>5 швидкостей для регулювання інтенсивності масажу</li>
+<li>8 масажних стержнів для рівномірного впливу</li>
+<li>Рельєфний валик для інтенсивного опрацювання м'язів</li>
+<li>Міофасціальний масаж для глибокого впливу на м'язи</li>
+<li>Трикутна рама для стійкої конструкції</li>
+<li>Бокові ручки для зручного захоплення</li>
+<li>Бездротова робота для використання без постійного підключення до мережі</li>
+<li>Акумулятор 1800 мАг для автономної роботи</li>
+<li>Індикатор заряду для контролю рівня заряду акумулятора</li>
+<li>USB Type-C для зручної зарядки пристрою</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: бездротовий електричний роликовий масажер</li>
+<li>Призначення: масаж тіла, міофасціальний реліз, розслаблення м'язів, догляд за тілом</li>
+<li>Застосування: литкові м'язи, стегна, спина, сідниці, шия</li>
+<li>Спосіб використання: у руках, з опорою на підлогу</li>
+<li>Кількість швидкостей: 5</li>
+<li>Конструкція: трикутна рама з боковими ручками-опорами</li>
+<li>Конструкція валика: текстурований рельєфний валик</li>
+<li>Кількість масажних стержнів: 8</li>
+<li>Масажні елементи: жорсткі</li>
+<li>Панель управління: кнопкова</li>
+<li>Індикація: світлодіодний індикатор рівня заряду</li>
+<li>Тип акумулятора: вбудований</li>
+<li>Ємність акумулятора: 1800 мАг</li>
+<li>Номінальна напруга: 12,6 В</li>
+<li>Роз'єм для зарядки: USB Type-C</li>
+<li>Матеріал: ABS-пластик</li>
+<li>Розмір: Довжина: 330 мм, Ширина: 235 мм, Висота: 165 мм</li>
+<li>Вага нетто: 2,1 кг</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Роликовий масажер Triangle Roller Massager SL-525</li>
+<li>Зарядний кабель USB Type-C</li>
+<li>Фірмова упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Висота" paramcode="110">16.5</param>
+    <param name="Ширина" paramcode="111">23.5</param>
+    <param name="Глибина" paramcode="112">33.0</param>
+    <param name="Сфера застосування" paramcode="11201" valuecode="4924ea34ebc450b62042867962a353f9,0305dcb7cd7697c85c43ecc72c21a198,787ba1f2efd1c498f0d01c69f3b7f35b,fb5faa0124fdb5f78f41ecd58587a72e,5346dcf0d2e2b88d1d4f7f0843bdc13a,ff181b272c0340c1c06be39268c67def">для стегон і сідниць, для рук, для ніг, для спини та попереку, для шиї та плечей, для тіла</param>
+    <param name="Цілісність товару" paramcode="1537" valuecode="356a192b7913b04c54574d18c28d46e6395428ab">1</param>
+    <param name="Кількість насадок" paramcode="172">8</param>
+    <param name="Особливості" paramcode="226" valuecode="6t1ahcxc">регулювання сили масажу</param>
+    <param name="Живлення" paramcode="237" valuecode="fb90dd3094db40c411c23cc15f41f54e,a762d6e59c9a59ed54a8357d4495f299">акумулятор, від USB</param>
+    <param name="Вид масажу" paramcode="413" valuecode="x6soastt3s9hqgzu,azjukrwg6nssn9d0">роликовий, розминання</param>
+    <param name="Насадки" paramcode="414" valuecode="pfxa5wdn">роликова насадка</param>
+    <param name="Модель" paramcode="4351">SL-525</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de512292">ABS-пластик</param>
+    <param name="Вага" paramcode="762">2.1</param>
+    <param name="Комплектація" paramcode="767">Роликовий масажер Triangle Roller Massager SL-525, Зарядний кабель USB Type-C, Фірмова упаковка</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Живлення" paramcode="9924" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>245</width>
+    <height>175</height>
+    <weight>2200</weight>
+    <length>340</length>
+  </offer>
+  <offer id="3249195359" available="true">
+    <price>2731</price>
+    <category code="2613">Набори інструментів</category>
+    <attribute_set code="2613">Набори інструментів</attribute_set>
+    <picture>https://images.prom.ua/7829526822_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526819_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526827_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526820_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526823_nabor-instrumentov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526826_nabor-instrumentov-rias.jpg</picture>
+    <vendor>Без бренда</vendor>
+    <name lang="ru">Набор инструментов RIAS R-55 для авто и дома 55 предметов в Кейсе Black-Green (3_08850)</name>
+    <name lang="ua">Набір інструментів RIAS R-55 для авто та дому 55 предметів в Кейсі Black-Green (3_08850)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор инструментов RIAS R-55 для авто и дома 55 предметов</strong></b></p>
+<p>Универсальный набор инструментов RIAS R-55 включает в себя 55 предметов и предназначен для использования в доме, автомобиле, гараже или мастерской. Этот комплект станет незаменимым помощником для выполнения мелкого ремонта, монтажа, а также откручивания и закручивания креплений. Все инструменты удобно размещены в прочном пластиковом кейсе, что обеспечивает легкость хранения и транспортировки, а также быстрый доступ к нужному элементу.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Универсальность использования</li>
+<li>55 предметов в комплекте</li>
+<li>Удобный кейс для хранения</li>
+<li>Подходит для дома, авто, гаража и мастерской</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Набор ручного инструмента</li>
+<li>Тип упаковки: Пластиковый кейс</li>
+<li>Количество инструментов в наборе: 55</li>
+<li>Набор ручного инструмента: набор автомобильного инструмента</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Гаечные ключи</li>
+<li>Торцевые головки</li>
+<li>Трещотка</li>
+<li>Отвертки</li>
+<li>Биты</li>
+<li>Плоскогубцы</li>
+<li>Разводной ключ</li>
+<li>Удлинители и переходники</li>
+</ul>
+<p>Набор инструментов RIAS R-55 станет практичным помощником для бытового ремонта и обслуживания техники, мебели, автомобиля и других задач. Обратите внимание, что цвет изделия может отличаться от предоставленного на фото.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір інструментів RIAS R-55 для авто та дому 55 предметів</strong></b></p>
+<p>Універсальний набір інструментів RIAS R-55 включає 55 предметів і призначений для використання в домі, автомобілі, гаражі або майстерні. Цей комплект стане незамінним помічником для виконання дрібного ремонту, монтажу, а також відкручування та закручування кріплень. Всі інструменти зручно розміщені в міцному пластиковому кейсі, що забезпечує легкість зберігання та транспортування, а також швидкий доступ до потрібного елемента.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Універсальність використання</li>
+<li>55 предметів у комплекті</li>
+<li>Зручний кейс для зберігання</li>
+<li>Підходить для дому, авто, гаража та майстерні</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Набір ручного інструменту</li>
+<li>Тип упаковки: Пластиковий кейс</li>
+<li>Кількість інструментів у наборі: 55</li>
+<li>Набір ручного інструменту: набір автомобільного інструменту</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Гайкові ключі</li>
+<li>Торцеві головки</li>
+<li>Тріскачка</li>
+<li>Викрутки</li>
+<li>Біти</li>
+<li>Плоскогубці</li>
+<li>Розвідний ключ</li>
+<li>Подовжувачі та перехідники</li>
+</ul>
+<p>Набір інструментів RIAS R-55 стане практичним помічником для побутового ремонту та обслуговування техніки, меблів, автомобіля та інших завдань. Зверніть увагу, що колір виробу може відрізнятися від наданого на фото.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Кількість в наборі" paramcode="515" valuecode="8e402fff1447fb89fba2e0880a898d03">50-110</param>
+    <param name="Упаковка" paramcode="8345" valuecode="da89dde529de552c79a16d31da9a59ca">валіза пластикова</param>
+    <param name="Сфера застосування" paramcode="8607" valuecode="c08c2ec0f07e32c47e5a6f300d674836">універсальний</param>
+    <param name="Кількість у наборі" paramcode="8993">55</param>
+    <param name="Комплектація" paramcode="9578">Гайкові ключі, Торцеві головки, Тріскачка, Викрутки, Біти, Плоскогубці, Розвідний ключ, Подовжувачі та перехідники</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">3_08850</param>
+    <width>300</width>
+    <height>100</height>
+    <weight>5000</weight>
     <length>400</length>
   </offer>
-  <offer id="NO_SKU_6" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
+  <offer id="3249195343" available="true">
+    <price>824</price>
+    <category code="1712">Харчові контейнери</category>
+    <attribute_set code="1712">Харчові контейнери</attribute_set>
+    <picture>https://images.prom.ua/7829526567_nabor-kontejnerov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526560_nabor-kontejnerov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526561_nabor-kontejnerov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526562_nabor-kontejnerov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526566_nabor-kontejnerov-rias.jpg</picture>
+    <picture>https://images.prom.ua/7829526569_nabor-kontejnerov-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Набор контейнеров RIAS JN-332 для сыпучих продуктов с герметичной крышкой 6 шт Black (3_08834)</name>
+    <name lang="ua">Набір контейнерів RIAS JN-332 для сипучих продуктів з герметичною кришкою 6 шт Black (3_08834)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор контейнеров для сыпучих продуктов с герметичной крышкой 6 шт RIAS JN-332</strong></b></p>
+<p>Представляем вашему вниманию набор контейнеров RIAS JN-332, предназначенный для хранения сыпучих продуктов. Этот набор включает в себя 6 контейнеров разного размера, что позволяет эффективно использовать пространство на кухне. Контейнеры изготовлены из прочного пищевого пластика, не содержащего БФА, и оснащены герметичными крышками, которые сохранят свежесть ваших продуктов.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Герметичная крышка для сохранения свежести продуктов</li>
+<li>Разные размеры контейнеров для различных нужд</li>
+<li>Штабелируемые для экономии места</li>
+<li>Изготовлены из небьющегося пластика</li>
+<li>Не содержат БФА</li>
+<li>Можно мыть в посудомоечной машине</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Набор контейнеров для сыпучих продуктов</li>
+<li>Материал: Пищевой пластик</li>
+<li>Форма: Прямоугольная</li>
+<li>Крышка: Вакуумная</li>
+<li>Количество предметов в наборе: 6</li>
+<li>Размеры: 20×10×10 см, 15×10×10 см, 10×10×10 см</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>2 больших контейнера</li>
+<li>2 средних контейнера</li>
+<li>2 маленьких контейнера</li>
+</ul>
+<p>Этот набор контейнеров станет отличным помощником на вашей кухне, обеспечивая надежное хранение различных сыпучих продуктов. Благодаря продуманному дизайну и качественным материалам, контейнеры RIAS JN-332 прослужат вам долгое время.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір контейнерів для сипучих продуктів з герметичною кришкою 6 шт RIAS JN-332</strong></b></p>
+<p>Пропонуємо вашій увазі набір контейнерів RIAS JN-332, призначений для зберігання сипучих продуктів. Цей набір включає 6 контейнерів різного розміру, що дозволяє ефективно використовувати простір на кухні. Контейнери виготовлені з міцного харчового пластику, що не містить БФА, та оснащені герметичними кришками, які збережуть свіжість ваших продуктів.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Герметична кришка для збереження свіжості продуктів</li>
+<li>Різні розміри контейнерів для різних потреб</li>
+<li>Штабельовані для економії місця</li>
+<li>Виготовлені з небиткого пластику</li>
+<li>Не містять БФА</li>
+<li>Можна мити в посудомийній машині</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Набір контейнерів для сипучих продуктів</li>
+<li>Матеріал: Харчовий пластик</li>
+<li>Форма: Прямокутна</li>
+<li>Кришка: Вакуумна</li>
+<li>Кількість предметів у наборі: 6</li>
+<li>Розміри: 20×10×10 см, 15×10×10 см, 10×10×10 см</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>2 великих контейнера</li>
+<li>2 середніх контейнера</li>
+<li>2 маленьких контейнера</li>
+</ul>
+<p>Цей набір контейнерів стане чудовим помічником на вашій кухні, забезпечуючи надійне зберігання різних сипучих продуктів. Завдяки продуманому дизайну та якісним матеріалам, контейнери RIAS JN-332 служитимуть вам довгий час.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Висота" paramcode="110">10</param>
+    <param name="Ширина" paramcode="111">10</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="b633f5f7a9520a741a27545590361885,3ec160321d45b95cf3a540ad3a2bf896">прозорий, чорний</param>
+    <param name="Призначення контейнера" paramcode="13453" valuecode="502be8e08d8c431a1d19de8b29b52040">для сипучих продуктів</param>
+    <param name="Особливості використання" paramcode="13454" valuecode="47ee1f042febb1002ff9a42cbe9459dc">в посудомийних машинах</param>
+    <param name="Особливості" paramcode="13455" valuecode="87d89dddec98ba887ea2c1f9bff7791d">герметичні</param>
+    <param name="Довжина" paramcode="2470">20</param>
+    <param name="Кількість предметів" paramcode="4883">6</param>
+    <param name="Матеріал" paramcode="4905" valuecode="1cecxo7y">пластик</param>
+    <param name="Матеріал кришки" paramcode="4915" valuecode="d1df226ceb1dd825d356fef5b289b62b">пластик</param>
+    <param name="Тип" paramcode="5201" valuecode="0f9c148b4f4d31fee4c3669fc07a5e1b">набір контейнерів</param>
+    <param name="Упаковка" paramcode="5344" valuecode="f393012bdd04d5eee1ba338f92905258">без упаковки</param>
+    <param name="Форма" paramcode="5361" valuecode="20cf4750d8a509dcc73e004c4e0ff524">прямокутна</param>
+    <param name="Комплектація" paramcode="767">2 великих контейнера, 2 середніх контейнера, 2 маленьких контейнера</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ff8cwdpi">чорний</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">JN-332</param>
+    <width>110</width>
+    <height>110</height>
+    <weight>500</weight>
+    <length>210</length>
+  </offer>
+  <offer id="3249195344" available="true">
+    <price>754</price>
+    <category code="1712">Харчові контейнери</category>
+    <attribute_set code="1712">Харчові контейнери</attribute_set>
+    <picture>https://images.prom.ua/7840633912_pischevye-kontejnery-rias.jpg</picture>
+    <picture>https://images.prom.ua/7840633913_pischevye-kontejnery-rias.jpg</picture>
+    <picture>https://images.prom.ua/7840633914_pischevye-kontejnery-rias.jpg</picture>
+    <picture>https://images.prom.ua/7840633922_pischevye-kontejnery-rias.jpg</picture>
+    <picture>https://images.prom.ua/7840633915_pischevye-kontejnery-rias.jpg</picture>
+    <picture>https://images.prom.ua/7840633917_pischevye-kontejnery-rias.jpg</picture>
+    <picture>https://images.prom.ua/7840633919_pischevye-kontejnery-rias.jpg</picture>
+    <picture>https://images.prom.ua/7840633921_pischevye-kontejnery-rias.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Пищевые контейнеры RIAS Storage Container 3шт герметичные (3_08835)</name>
+    <name lang="ua">Посудини для їжі RIAS Storage Container 3шт герметичні (3_08835)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Набор герметичных пищевых контейнеров RIAS Storage Container 3шт Transparent</strong></b></p>
+<p>Набор герметичных пластиковых контейнеров для еды RIAS Storage Container включает три контейнера, предназначенные для организованного хранения продуктов в холодильнике или кухонном шкафу. Прозрачный корпус позволяет легко идентифицировать содержимое, не открывая крышку, что существенно экономит время при поиске нужных ингредиентов. Качественный пищевой пластик не впитывает посторонние запахи и сохраняет свежесть блюд, обеспечивая идеальный порядок и гигиену на вашей современной кухне.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Полная герметичность: плотное прилегание крышек.</li>
+<li>Прозрачный корпус: отличная видимость содержимого.</li>
+<li>Экономия места: компактное хранение набором.</li>
+<li>Легкий уход: быстрая мойка вручную.</li>
+<li>Универсальное использование: подходит для сухих и жидких продуктов.</li>
+<li>Прочный пластик: устойчивость к трещинам.</li>
+<li>Стильный вид: лаконичный дизайн емкостей.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип товара: Пищевые контейнеры</li>
+<li>Количество предметов: 3 шт</li>
+<li>Объем: 460мл, 800мл, 1100мл</li>
+<li>Температура использования: -20 - +60С</li>
+<li>Материал: пищевой полипропилен</li>
+<li>Тип крышки: Съемная</li>
+<li>Назначение: Хранение и заморозка продуктов</li>
+<li>Особенности: Не впитывает запахи</li>
+<li>Температурный режим: Холодильник, комнатная температура</li>
+<li>Область применения: Кухня, дача, пикник</li>
+<li>Страна производства: Китай</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Набор пластиковых пищевых контейнеров с крышками 3шт</li>
+<li>Заводская упаковка</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Набір герметичних харчових контейнерів RIAS Storage Container 3шт Transparent</strong></b></p>
+<p>Набір герметичних пластикових контейнерів для їжі RIAS Storage Container включає три контейнери, призначені для організованого зберігання продуктів у холодильнику або кухонній шафі. Прозорий корпус дозволяє легко ідентифікувати вміст, не відкриваючи кришку, що суттєво економить час при пошуку потрібних інгредієнтів. Якісний харчовий пластик не вбирає сторонні запахи та зберігає свіжість страв, забезпечуючи ідеальний порядок та гігієну на вашій сучасній кухні.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Повна герметичність: щільне прилягання кришок.</li>
+<li>Прозорий корпус: відмінна видимість вмісту.</li>
+<li>Економія місця: компактне зберігання набором.</li>
+<li>Легкий догляд: швидке миття вручну.</li>
+<li>Універсальне використання: підходить для сухих та рідких продуктів.</li>
+<li>Міцний пластик: стійкість до тріщин.</li>
+<li>Стильний вигляд: лаконічний дизайн ємностей.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип товару: Харчові контейнери</li>
+<li>Кількість предметів: 3 шт</li>
+<li>Об'єм: 460мл, 800мл, 1100мл</li>
+<li>Температура використання: -20 - +60С</li>
+<li>Матеріал: харчовий поліпропілен</li>
+<li>Тип кришки: Знімна</li>
+<li>Призначення: Зберігання та заморожування продуктів</li>
+<li>Особливості: Не вбирає запахи</li>
+<li>Температурний режим: Холодильник, кімнатна температура</li>
+<li>Область застосування: Кухня, дача, пікнік</li>
+<li>Країна виробництва: Китай</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Набір пластикових харчових контейнерів з кришками 3шт</li>
+<li>Заводська упаковка</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Об'єм" paramcode="104">1.1</param>
+    <param name="Базовий колір" paramcode="12097" valuecode="b633f5f7a9520a741a27545590361885">прозорий</param>
+    <param name="Особливості використання" paramcode="13454" valuecode="9332af66fd3ec537ab90abcf62478ef6">в морозильних камерах</param>
+    <param name="Особливості" paramcode="13455" valuecode="87d89dddec98ba887ea2c1f9bff7791d">герметичні</param>
+    <param name="Додаткові характеристики" paramcode="2771">Не впитывает запахи</param>
+    <param name="Кількість предметів" paramcode="4883">3</param>
+    <param name="Матеріал" paramcode="4905" valuecode="bj5vp69txoo5njm9">поліпропілен</param>
+    <param name="Матеріал кришки" paramcode="4915" valuecode="d1df226ceb1dd825d356fef5b289b62b">пластик</param>
+    <param name="Тип" paramcode="5201" valuecode="0f9c148b4f4d31fee4c3669fc07a5e1b">набір контейнерів</param>
+    <param name="Упаковка" paramcode="5344" valuecode="32b2d2fb343fe5c4ce027075633a6ed7">плівка</param>
+    <param name="Форма" paramcode="5361" valuecode="20cf4750d8a509dcc73e004c4e0ff524">прямокутна</param>
+    <param name="Комплектація" paramcode="767">Набір пластикових харчових контейнерів з кришками 3шт</param>
+    <param name="Колір виробника" paramcode="78" valuecode="jzc98nkm">прозорий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>180</width>
+    <height>120</height>
+    <weight>500</weight>
+    <length>250</length>
+  </offer>
+  <offer id="3249195357" available="true">
+    <price>685</price>
+    <category code="3710">Посуд туристичний</category>
+    <attribute_set code="3710">Посуд туристичний</attribute_set>
+    <picture>https://images.prom.ua/7839872361_vedro-skladnoe-jyzy.jpg</picture>
+    <picture>https://images.prom.ua/7829526798_vedro-skladnoe-jyzy.jpg</picture>
+    <picture>https://images.prom.ua/7829526799_vedro-skladnoe-jyzy.jpg</picture>
+    <picture>https://images.prom.ua/7829526800_vedro-skladnoe-jyzy.jpg</picture>
+    <picture>https://images.prom.ua/7829526802_vedro-skladnoe-jyzy.jpg</picture>
+    <picture>https://images.prom.ua/7829526807_vedro-skladnoe-jyzy.jpg</picture>
     <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <name lang="ru">Ведро складное JYZY для рыбалки из EVA с крышкой-сеткой 24×24×22 см Beige (3_08848)</name>
+    <name lang="ua">Відро складне JYZY для риболовлі з EVA з кришкою-сіткою 24×24×22 см Beige (3_08848)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Складное рыболовное ведро JYZY из EVA с крышкой-сеткой 24×24×22 см</strong></b></p>
+<p>Складное рыболовное ведро JYZY — это удобное и практичное решение для рыбалки и активного отдыха на природе. Изготовленное из водонепроницаемого материала EVA, оно предназначено для временного хранения живца, улова, приготовления прикормки и переноса воды. Благодаря складной конструкции ведро легко транспортировать и хранить, экономя место.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Складная конструкция для удобства транспортировки.</li>
+<li>Водонепроницаемое благодаря материалу EVA.</li>
+<li>Сетчатая крышка на молнии обеспечивает вентиляцию.</li>
+<li>Ручка с пластиковым держателем для удобного переноса.</li>
+<li>Боковой карман для дополнительных аксессуаров.</li>
+<li>Квадратная форма корпуса для оптимального размещения.</li>
+<li>Многократное применение после очистки и сушки.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Рыбный мешок.</li>
+<li>Материал: ЭВА.</li>
+<li>Размеры: 24×24×22 см.</li>
+<li>Состояние: Новое.</li>
+</ul>
+<p>Это ведро станет незаменимым помощником для любителей рыбалки и активного отдыха, обеспечивая удобство и функциональность в использовании.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Складне рибальське відро JYZY з EVA з кришкою-сіткою 24×24×22 см</strong></b></p>
+<p>Складне рибальське відро JYZY — це зручне та практичне рішення для риболовлі та активного відпочинку на природі. Виготовлене з водонепроникного матеріалу EVA, воно призначене для тимчасового зберігання живця, улову, приготування прикорму та перенесення води. Завдяки складній конструкції відро легко транспортувати та зберігати, економлячи місце.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Складна конструкція для зручності транспортування.</li>
+<li>Водонепроникне завдяки матеріалу EVA.</li>
+<li>Кришка-сітка на блискавці забезпечує вентиляцію.</li>
+<li>Ручка з пластиковим тримачем для зручного перенесення.</li>
+<li>Бічна кишеня для додаткових аксесуарів.</li>
+<li>Квадратна форма корпусу для оптимального розміщення.</li>
+<li>Багаторазове використання після очищення та сушки.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Рибний мішок.</li>
+<li>Матеріал: ЕВА.</li>
+<li>Розміри: 24×24×22 см.</li>
+<li>Стан: Новий.</li>
+</ul>
+<p>Це відро стане незамінним помічником для любителів риболовлі та активного відпочинку, забезпечуючи зручність та функціональність у використанні.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <width>150</width>
+    <param name="Об'єм" paramcode="104">12.672</param>
+    <param name="Вид посуду" paramcode="10924" valuecode="a11d9052dfe41cd7ab97b2994307df03">складані відра</param>
+    <param name="Матеріал" paramcode="10925" valuecode="ba8c051b046859b0ab4f3f3f5ec51297">пластик</param>
+    <param name="Довжина" paramcode="2471">240</param>
+    <param name="Додаткові характеристики" paramcode="2771">Складна конструкція, водонепроникний матеріал, кришка-сітка</param>
+    <param name="Додаткова інформація" paramcode="4062" valuecode="4aace178554cfa66cae420cd78257b7f,816d6823f684fee0da0c7b9790853350">легко транспортується, зручний для перенесення</param>
+    <param name="Матеріал виробу" paramcode="4328" valuecode="27824ec2460b15c04c3900c66758297d">пластик</param>
+    <param name="Особливості" paramcode="4411" valuecode="eb2dcdcb5a9f1670b5d43fcb8985b761,1c04ee4bb0157ad0b7d4e2383a5c7216">складаний, з ручками</param>
+    <param name="Висота" paramcode="4814">220</param>
+    <param name="Комплектація" paramcode="6021">Відро, кришка-сітка</param>
+    <param name="Кількість коробок" paramcode="6485">1</param>
+    <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>250</width>
+    <height>230</height>
+    <weight>500</weight>
+    <length>250</length>
+  </offer>
+  <offer id="3249195355" available="true">
+    <price>1578</price>
+    <category code="77">Пральні машини</category>
+    <attribute_set code="77">Пральні машини</attribute_set>
+    <picture>https://images.prom.ua/7839898761_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <picture>https://images.prom.ua/7829526786_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <picture>https://images.prom.ua/7829526790_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <picture>https://images.prom.ua/7829526795_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <picture>https://images.prom.ua/7829526796_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <picture>https://images.prom.ua/7829526797_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <picture>https://images.prom.ua/7829526789_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <picture>https://images.prom.ua/7829526794_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <picture>https://images.prom.ua/7829526793_portativnaya-skladnaya-stiralnaya.jpg</picture>
+    <vendor>Без бренда</vendor>
+    <name lang="ru">Портативная складная стиральная машина RIAS R-723 2в1 с ведром 1kg 220V Pink (3_08846)</name>
+    <name lang="ua">Портативна складна пральна машина RIAS R-723 2в1 з відром 1kg 220V Pink (3_08846)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Портативная складная стиральная машина RIAS R-723 2в1 с ведром 1kg 220V</strong></b></p>
+<p>Портативная складная стиральная машина RIAS R-723 — это идеальное решение для тех, кто ценит удобство и функциональность. Эта миниатюрная стиральная машина позволяет быстро и эффективно стирать небольшие объемы одежды, такие как белье, детская одежда и носки. Благодаря складному дизайну, она легко помещается в багаж, что делает ее отличным выбором для путешествий или использования в условиях ограниченного пространства.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Портативность и компактность</li>
+<li>Складной дизайн для удобного хранения</li>
+<li>Загрузка до 1 кг</li>
+<li>200 вращений в минуту для эффективной стирки</li>
+<li>Ультразвуковой режим для удаления пятен</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Размер в сложенном виде: 28 * 15 см</li>
+<li>Размер в разложенном виде: 28 * 27 см</li>
+<li>Материал: PP + TPR</li>
+<li>Питание: 220V</li>
+<li>Скорость вращения: 200 вращений/минуту</li>
+<li>Время работы турбины: 5 минут</li>
+<li>Ультразвуковой режим: 60 секунд</li>
+</ul>
+<p>Эта стиральная машина станет незаменимым помощником в быту, особенно если у вас есть маленькие дети или вы часто путешествуете. Она позволяет быстро и без усилий справляться с небольшими объемами стирки, экономя ваше время и силы.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Портативна складна пральна машина RIAS R-723 2в1 з відром 1kg 220V</strong></b></p>
+<p>Портативна складна пральна машина RIAS R-723 — це ідеальне рішення для тих, хто цінує зручність і функціональність. Ця мініатюрна пральна машина дозволяє швидко та ефективно прати невеликі обсяги одягу, такі як білизна, дитячий одяг та шкарпетки. Завдяки складному дизайну, вона легко вміщується в багаж, що робить її чудовим вибором для подорожей або використання в умовах обмеженого простору.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Портативність і компактність</li>
+<li>Складний дизайн для зручного зберігання</li>
+<li>Завантаження до 1 кг</li>
+<li>200 обертів на хвилину для ефективного прання</li>
+<li>Ультразвуковий режим для видалення плям</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Розмір у складеному вигляді: 28 * 15 см</li>
+<li>Розмір у розкладеному вигляді: 28 * 27 см</li>
+<li>Матеріал: PP + TPR</li>
+<li>Живлення: 220V</li>
+<li>Швидкість обертання: 200 обертів/хвилину</li>
+<li>Час роботи турбіни: 5 хвилин</li>
+<li>Ультразвуковий режим: 60 секунд</li>
+</ul>
+<p>Ця пральна машина стане незамінним помічником у побуті, особливо якщо у вас є маленькі діти або ви часто подорожуєте. Вона дозволяє швидко і без зусиль справлятися з невеликими обсягами прання, заощаджуючи ваш час і сили.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Завантаження білизни (max)" paramcode="10877" valuecode="598840db89dc3a760edf67fbfcde8085">1,5-3,5 кг</param>
+    <param name="Глибина" paramcode="10878" valuecode="68ce340b1cc681ae13d054be85135ec7">менш ніж 34 см</param>
+    <param name="Швидкість віджимання (max)" paramcode="10879" valuecode="a6390f13032485bb061a8e4aebf2d0a4">до 800 об./хв</param>
+    <param name="Висота" paramcode="110">27</param>
+    <param name="Ширина" paramcode="111">28</param>
+    <param name="Глибина" paramcode="112">28</param>
+    <param name="Особливості" paramcode="11224">Портативність і компактність, Складний дизайн для зручного зберігання</param>
+    <param name="Розмір (ВхШхГ)" paramcode="12495">27х28х28</param>
+    <param name="Тип розміщення" paramcode="13486" valuecode="98b369fcfe13af601a10e6f0ad7103ef">окремо стоячий</param>
+    <param name="Керування" paramcode="168" valuecode="26278d2d5b19fa4382210af095be4768">механічне</param>
+    <param name="Кількість програм" paramcode="184">1</param>
+    <param name="Колір" paramcode="2845" valuecode="c0fe6fc0ef7742b52bcd09ab101106fc">рожевий</param>
+    <param name="Корпус" paramcode="637" valuecode="d6b76c4c70e70bb5afcb0d58fdce1a23">компактний</param>
+    <param name="Тип машини" paramcode="649" valuecode="a304130792bfee62a8cb89b64e334c5d">пральна</param>
+    <param name="Тип завантаження білизни" paramcode="650" valuecode="82f4736c5ac50ba495f9b1119d3ad3b2">вертикальний</param>
+    <param name="Ступінь автоматизації" paramcode="651" valuecode="3297b7c500b8aafb5f8b33b4202a4fd2">напівавтоматична</param>
+    <param name="Завантаження білизни (max)" paramcode="657">1</param>
+    <param name="Швидкість віджимання (max)" paramcode="659">200</param>
+    <param name="Колір виробника" paramcode="78" valuecode="nlmlmqnr">рожевий</param>
+    <param name="Особливості" paramcode="9638" valuecode="e369787ee14030f828cf012680a19677">дисплей</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">R-723</param>
+    <width>300</width>
     <height>300</height>
     <weight>1500</weight>
-    <length>400</length>
-  </offer>
-  <offer id="NO_SKU_7" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>500</weight>
     <length>300</length>
   </offer>
-  <offer id="NO_SKU_8" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+  <offer id="3249195354" available="true">
+    <price>1353</price>
+    <category code="8702">Органайзери для кухні</category>
+    <attribute_set code="8702">Органайзери для кухні</attribute_set>
+    <picture>https://images.prom.ua/7839848861_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526772_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526776_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526778_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526785_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526775_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526779_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526782_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526783_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <picture>https://images.prom.ua/7829526784_podstavka-organajzer-rias-kitchen.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Подставка-органайзер RIAS Kitchen Rack 2001 с пластиковым поддоном 43×24.5×18 см Grey (3_08845)</name>
+    <name lang="ua">Підставка-органайзер RIAS Kitchen Rack 2001 з пластиковим піддоном 43×24.5×18 см Grey (3_08845)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Подставка-органайзер для кухонных принадлежностей RIAS Kitchen Rack 2001 с пластиковым поддоном 43×24.5×18 см</strong></b></p>
+<p>Подставка-органайзер RIAS Kitchen Rack 2001 — это идеальное решение для хранения и организации кухонных принадлежностей. Изготовленная из прочного металла и пластика, она обеспечивает долговечность и устойчивость к коррозии. Компактный дизайн позволяет экономить место на кухонной поверхности, а стильное сочетание материалов делает ее эстетичным дополнением к вашему интерьеру.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Эффективная организация: все кухонные принадлежности, включая ножи, лопатки, ложки и ножницы, хранятся в одном месте.</li>
+<li>Компактный дизайн: не занимает много места на кухонной поверхности.</li>
+<li>Прочность и долговечность: металлическая основа устойчива к коррозии и механическим повреждениям.</li>
+<li>Легкость ухода: гладкие поверхности легко чистить.</li>
+<li>Универсальность: подходит для хранения различных кухонных аксессуаров.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Подставка для кухонных принадлежностей</li>
+<li>Материал: металл, пластик</li>
+<li>Размер: 43×24.5×18 см</li>
+<li>Тип установки: Настольная</li>
+<li>Особенность: пластиковый поддон</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Съемный поддон</li>
+</ul>
+<p>Подставка-органайзер RIAS Kitchen Rack 2001 — это практичное и стильное решение для вашей кухни, которое поможет поддерживать порядок и удобство в использовании кухонных принадлежностей.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Підставка-органайзер для кухонного приладдя RIAS Kitchen Rack 2001 з пластиковим піддоном 43×24.5×18 см</strong></b></p>
+<p>Підставка-органайзер RIAS Kitchen Rack 2001 — це ідеальне рішення для зберігання та організації кухонного приладдя. Виготовлена з міцного металу та пластику, вона забезпечує довговічність і стійкість до корозії. Компактний дизайн дозволяє економити місце на кухонній поверхні, а стильне поєднання матеріалів робить її естетичним доповненням до вашого інтер'єру.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Ефективна організація: всі кухонні прилади, включаючи ножі, лопатки, ложки та ножиці, зберігаються в одному місці.</li>
+<li>Компактний дизайн: не займає багато місця на кухонній поверхні.</li>
+<li>Міцність і довговічність: металева основа стійка до корозії та механічних пошкоджень.</li>
+<li>Легкість догляду: гладкі поверхні легко чистити.</li>
+<li>Універсальність: підходить для зберігання різноманітних кухонних аксесуарів.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Підставка для кухонного приладдя</li>
+<li>Матеріал: метал, пластик</li>
+<li>Розмір: 43×24.5×18 см</li>
+<li>Тип встановлення: Настільна</li>
+<li>Особливість: пластиковий піддон</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Знімний піддон</li>
+</ul>
+<p>Підставка-органайзер RIAS Kitchen Rack 2001 — це практичне та стильне рішення для вашої кухні, яке допоможе підтримувати порядок і зручність у використанні кухонного приладдя.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
     <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>150</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>400</length>
-  </offer>
-  <offer id="NO_SKU_9" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_10" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_11" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_12" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_13" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_14" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>500</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_15" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_16" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_17" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>150</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>400</length>
-  </offer>
-  <offer id="NO_SKU_18" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>150</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>400</length>
-  </offer>
-  <offer id="NO_SKU_19" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_20" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>150</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>400</length>
-  </offer>
-  <offer id="NO_SKU_21" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_22" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>200</width>
-    <height>200</height>
-    <weight>500</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_23" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_24" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_25" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>100</width>
-    <height>150</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_26" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
-    <width>150</width>
-    <height>150</height>
-    <weight>1500</weight>
-    <length>400</length>
-  </offer>
-  <offer id="NO_SKU_27" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_28" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Тип пилозбірника" paramcode="6563" valuecode="6f81066544cd463a33a36dca36800d97">контейнер</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <param name="Спосіб встановлення" paramcode="10672" valuecode="45a528adf733d11b6cdc9daf817a9b86">настільний</param>
+    <param name="Тип" paramcode="10776" valuecode="uljoky9lwb3oy8ps">підставка</param>
+    <param name="Призначення" paramcode="1120" valuecode="02a9cc8fb1fda78b04e04a80d4dbe465,52cee42c70598f4c8f97a2b61f0e1273">для столових приборів, для кришок</param>
+    <param name="Додаткові характеристики" paramcode="2771">З пластиковим піддоном, знімний піддон</param>
+    <param name="Кількість в упаковці" paramcode="2847">1</param>
+    <param name="Декоративний ефект" paramcode="3158" valuecode="571b50666f2356b3e70d5e42fdacea7c">без ефекту</param>
+    <param name="Покриття" paramcode="4427" valuecode="e62d130a4b802cab6c13794266328294">пластик</param>
+    <param name="Висота" paramcode="4814">180</param>
+    <param name="Матеріал" paramcode="4905" valuecode="o57qfo25,1cecxo7y">метал, пластик</param>
+    <param name="Глибина" paramcode="5932">245</param>
+    <param name="Ширина" paramcode="6455">430</param>
+    <param name="Комплектація" paramcode="767">Знімний піддон</param>
+    <param name="Колір виробника" paramcode="78" valuecode="gsyiryzw">сірий</param>
     <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
-    <width>100</width>
-    <height>150</height>
+    <width>450</width>
+    <height>200</height>
     <weight>1500</weight>
-    <length>300</length>
+    <length>260</length>
+  </offer>
+  <offer id="3249195346" available="true">
+    <price>1586</price>
+    <category code="3708">Каремати</category>
+    <attribute_set code="3708">Каремати</attribute_set>
+    <picture>https://images.prom.ua/7839694672_naduvnoj-turisticheskij-kovrik.jpg</picture>
+    <picture>https://images.prom.ua/7839694679_naduvnoj-turisticheskij-kovrik.jpg</picture>
+    <vendor>Без бренда</vendor>
+    <name lang="ru">Надувной туристический коврик Pacoone со встроенным насосом и подушкой 190х60 см Blue (3_08837)</name>
+    <name lang="ua">Надувний туристичний килимок Pacoone з вбудованим насосом та подушкою 190х60 см Blue (3_08837)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Надувной туристический коврик со встроенным насосом и подушкой 190х60 см</strong></b></p>
+<p>Надувной туристический коврик Pacoone — это идеальное решение для комфортного отдыха на природе. Он оснащен встроенным насосом, что позволяет быстро и легко его надуть. Благодаря многослойной конструкции и износоустойчивому нейлону, коврик обеспечивает надежную поддержку и комфорт во время сна, защищая от неровностей земли. Компактные размеры и легкий вес делают его удобным для переноски и хранения.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Качественные материалы</li>
+<li>Компактные размеры и легкий вес</li>
+<li>Влагозащитный</li>
+<li>Обеспечивает мягкость</li>
+<li>Легко надувается</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: каремат кемпинговый</li>
+<li>Материал: 40D нейлон + супернадежный шов TPU</li>
+<li>Материал клапана: пластик</li>
+<li>Тип каремата: надувной</li>
+<li>Назначение: для кемпинга, отдыха, универсальное</li>
+<li>Размер спального коврика в надутом виде: 190 х 60 см</li>
+<li>Размер в сложенном виде: 24 x 10 см</li>
+<li>Вес: 750 г</li>
+<li>Количество мест матраса: одноместный</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Надувной коврик</li>
+<li>Чехол для переноски</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Надувний туристичний килимок зі вбудованим насосом і подушкою 190х60 см</strong></b></p>
+<p>Надувний туристичний килимок Pacoone — це ідеальне рішення для комфортного відпочинку на природі. Він оснащений вбудованим насосом, що дозволяє швидко та легко його надути. Завдяки багатошаровій конструкції та зносостійкому нейлону, килимок забезпечує надійну підтримку та комфорт під час сну, захищаючи від нерівностей землі. Компактні розміри та легка вага роблять його зручним для перенесення та зберігання.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Якісні матеріали</li>
+<li>Компактні розміри та легка вага</li>
+<li>Вологозахисний</li>
+<li>Забезпечує м'якість</li>
+<li>Легко надувається</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: каремат кемпінговий</li>
+<li>Матеріал: 40D нейлон + супернадійний шов TPU</li>
+<li>Матеріал клапана: пластик</li>
+<li>Тип каремата: надувний</li>
+<li>Призначення: для кемпінгу, відпочинку, універсальне</li>
+<li>Розмір спального килимка в надутому вигляді: 190 х 60 см</li>
+<li>Розмір у складеному вигляді: 24 x 10 см</li>
+<li>Вага: 750 г</li>
+<li>Кількість місць матраца: одномісний</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Надувний килимок</li>
+<li>Чохол для перенесення</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Матеріал зовнішнього шару" paramcode="10896" valuecode="79a71cb6f53e5858b0989d48437e3674">нейлон</param>
+    <param name="Матеріал внутрішнього шару" paramcode="10897" valuecode="d56d4c74225aad577e9d2144a571c51a">нейлон</param>
+    <param name="Тип" paramcode="10927" valuecode="2a2474491428e6451fa55bb7b46feb37">килимок</param>
+    <param name="Вид каремата" paramcode="10928" valuecode="52554f0d3f715ba97bcb6fc1b98e5fdb">надувний</param>
+    <param name="Ширина" paramcode="111">60.0</param>
+    <param name="Призначення" paramcode="1120" valuecode="eecc91b6b7fbf53dd4a04e78f1026eb4,f08a458fa84f27969f13ae09ece48644">для туризму, для відпочинку</param>
+    <param name="Вага" paramcode="150">750.0</param>
+    <param name="Довжина" paramcode="2470">190.0</param>
+    <param name="Додаткові характеристики" paramcode="2771">Вбудований насос, подушка</param>
+    <param name="Особливості" paramcode="4411" valuecode="9ca0d469a48aa47ec95c58802c1311b6,78863162e48702d6ba0406a549fc4c69">водонепроникний матеріал, з чохлом</param>
+    <param name="Комплектація" paramcode="6021">Надувний килимок, чохол для перенесення</param>
+    <param name="Колір виробника" paramcode="78" valuecode="roiaf3xb">синій</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>70</width>
+    <height>110</height>
+    <weight>800</weight>
+    <length>200</length>
+  </offer>
+  <offer id="3249195329" available="true">
+    <price>1521</price>
+    <category code="92">Електросушарки для взуття</category>
+    <attribute_set code="92">Електросушарки для взуття</attribute_set>
+    <picture>https://images.prom.ua/7829526385_elektrosushilka-dlya-odezhdy.jpg</picture>
+    <picture>https://images.prom.ua/7829526386_elektrosushilka-dlya-odezhdy.jpg</picture>
+    <picture>https://images.prom.ua/7829526387_elektrosushilka-dlya-odezhdy.jpg</picture>
+    <picture>https://images.prom.ua/7829526388_elektrosushilka-dlya-odezhdy.jpg</picture>
+    <picture>https://images.prom.ua/7829526389_elektrosushilka-dlya-odezhdy.jpg</picture>
+    <picture>https://images.prom.ua/7829526390_elektrosushilka-dlya-odezhdy.jpg</picture>
+    <picture>https://images.prom.ua/7829526391_elektrosushilka-dlya-odezhdy.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Электросушилка для одежды RIAS R-600 с чехлом 600W Beige (3_08820)</name>
+    <name lang="ua">Електросушарка для одягу RIAS R-600 з чохлом 600W Beige (3_08820)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Электросушилка для одежды RIAS R-600 с чехлом 600W 29×22×10 см</strong></b></p>
+<p>Электросушилка для одежды RIAS R-600 — это практичное устройство, предназначенное для быстрой и эффективной сушки белья и одежды в различных условиях. Благодаря мощному нагревательному блоку на 600 Вт и закрытой конструкции с тканевым чехлом, сушилка обеспечивает равномерную циркуляцию теплого воздуха, что позволяет сушить вещи независимо от погодных условий и наличия балкона. Компактная складная конструкция и возможность размещения одежды на вешалках делают ее идеальным выбором для квартиры, дома, дачи или общежития.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Мощность 600 Вт для эффективной сушки.</li>
+<li>Электронная панель управления с таймером до 8 часов.</li>
+<li>Защита от перегрева для безопасной эксплуатации.</li>
+<li>Компактная складная конструкция для удобного хранения.</li>
+<li>Возможность размещения вещей на вешалках внутри чехла.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип товара: электрическая сушилка для одежды.</li>
+<li>Тип конструкции: вертикальная, подвесная.</li>
+<li>Назначение: сушка одежды и белья.</li>
+<li>Питание: от электросети (220–240 В, 50/60 Гц).</li>
+<li>Максимальный режим таймера: 8 часов.</li>
+<li>Максимальная температура нагрева: до 90 °C.</li>
+<li>Максимальная нагрузка: до 10 кг.</li>
+<li>Материал корпуса: пластик.</li>
+<li>Материал чехла: синтетическая ткань, нейлон.</li>
+<li>Тип закрытия чехла: молния.</li>
+<li>Размер основного блока: 29×22×10 см.</li>
+<li>Размер чехла: 125×41 см.</li>
+<li>Длина сетевого кабеля: 1,8 м.</li>
+<li>Тип вилки: EU.</li>
+<li>Управление: электронное.</li>
+<li>Защита от перегрева: есть.</li>
+</ul>
+<p><b><strong>Комплектация:</strong></b></p>
+<ul>
+<li>Основной блок.</li>
+<li>Тканевый чехол.</li>
+</ul>
+<p>Электросушилка RIAS R-600 — это надежное решение для сушки одежды в любое время года, особенно при отсутствии балкона или места для обычной сушилки.</p>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Електросушарка для одягу RIAS R-600 з чохлом 600W 29×22×10 см</strong></b></p>
+<p>Електросушарка для одягу RIAS R-600 — це практичний пристрій, призначений для швидкого та ефективного сушіння білизни та одягу в різних умовах. Завдяки потужному нагрівальному блоку на 600 Вт та закритій конструкції з тканинним чохлом, сушарка забезпечує рівномірну циркуляцію теплого повітря, що дозволяє сушити речі незалежно від погодних умов та наявності балкона. Компактна складна конструкція та можливість розміщення одягу на вішалках роблять її ідеальним вибором для квартири, будинку, дачі або гуртожитку.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Потужність 600 Вт для ефективного сушіння.</li>
+<li>Електронна панель керування з таймером до 8 годин.</li>
+<li>Захист від перегріву для безпечної експлуатації.</li>
+<li>Компактна складна конструкція для зручного зберігання.</li>
+<li>Можливість розміщення речей на вішалках всередині чохла.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип товару: електрична сушарка для одягу.</li>
+<li>Тип конструкції: вертикальна, підвісна.</li>
+<li>Призначення: сушіння одягу та білизни.</li>
+<li>Живлення: від електромережі (220–240 В, 50/60 Гц).</li>
+<li>Максимальний режим таймера: 8 годин.</li>
+<li>Максимальна температура нагріву: до 90 °C.</li>
+<li>Максимальне навантаження: до 10 кг.</li>
+<li>Матеріал корпусу: пластик.</li>
+<li>Матеріал чохла: синтетична тканина, нейлон.</li>
+<li>Тип закриття чохла: блискавка.</li>
+<li>Розмір основного блоку: 29×22×10 см.</li>
+<li>Розмір чохла: 125×41 см.</li>
+<li>Довжина мережевого кабелю: 1,8 м.</li>
+<li>Тип вилки: EU.</li>
+<li>Керування: електронне.</li>
+<li>Захист від перегріву: є.</li>
+</ul>
+<p><b><strong>Комплектація:</strong></b></p>
+<ul>
+<li>Основний блок.</li>
+<li>Тканинний чохол.</li>
+</ul>
+<p>Електросушарка RIAS R-600 — це надійне рішення для сушіння одягу в будь-яку пору року, особливо за відсутності балкона або місця для звичайної сушарки.</p>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Потужність" paramcode="103">600</param>
+    <param name="Висота" paramcode="110">135</param>
+    <param name="Спосіб сушіння" paramcode="11091" valuecode="9b82d88effd00ebfd620f2e2c0cd7dd6">за допомогою нагрівального елементу</param>
+    <param name="Ширина" paramcode="111">41</param>
+    <param name="Глибина" paramcode="112">22</param>
+    <param name="Час сушіння" paramcode="304">8</param>
+    <param name="Особливості" paramcode="308" valuecode="fe5bddd26d67ab7af4b032db76ab26e6">індикатор роботи</param>
+    <param name="Максимальна робоча температура" paramcode="3249">90</param>
+    <param name="Модель" paramcode="4351">RIAS R-600</param>
+    <param name="Матеріал" paramcode="52" valuecode="59474de511ea0,59474de511b68">пластик, нейлон</param>
+    <param name="Комплектація" paramcode="767">Основний блок, Тканинний чохол</param>
+    <param name="Колір виробника" paramcode="78" valuecode="e3fyw7jf">бежевий</param>
+    <param name="Додаткові характеристики" paramcode="9486">Електронна панель керування з таймером до 8 годин, Захист від перегріву</param>
+    <param name="Живлення" paramcode="9924" valuecode="5c9ed0b170ec405243a247c067a70628">від мережі</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>450</width>
+    <height>1400</height>
+    <weight>3000</weight>
+    <length>250</length>
+  </offer>
+  <offer id="3249195338" available="true">
+    <price>964</price>
+    <category code="3130">Сушарки для білизни</category>
+    <attribute_set code="3130">Сушарки для білизни</attribute_set>
+    <picture>https://images.prom.ua/7829526473_elektricheskaya-sushilka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526480_elektricheskaya-sushilka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526474_elektricheskaya-sushilka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526475_elektricheskaya-sushilka-dlya.jpg</picture>
+    <picture>https://images.prom.ua/7829526481_elektricheskaya-sushilka-dlya.jpg</picture>
+    <vendor code="d04a0de081234af0be53164964b40f49">RIAS</vendor>
+    <name lang="ru">Электрическая сушилка для обуви RIAS Shoes Dryer HXQ-08 с таймером 150W White (3_08829)</name>
+    <name lang="ua">Електрична сушарка для взуття RIAS Shoes Dryer HXQ-08 з таймером 150W White (3_08829)</name>
+    <description lang="ru"><![CDATA[<p><b><strong>Электрическая сушилка для обуви с таймером RIAS Shoes Dryer HXQ-08</strong></b></p>
+<p>Электрическая сушилка для обуви RIAS Shoes Dryer HXQ-08 — это идеальное решение для быстрой и эффективной сушки вашей обуви. Благодаря интеллектуальной системе контроля температуры и встроенному таймеру, вы можете настроить сушку в соответствии с вашими потребностями. Компактная и складная конструкция позволяет легко хранить устройство даже в небольших помещениях.</p>
+<p><b><strong>Преимущества:</strong></b></p>
+<ul>
+<li>Портативная и складная конструкция для удобного хранения и использования.</li>
+<li>Интеллектуальный контроль температуры для защиты обуви.</li>
+<li>Быстрая сушка на 360° благодаря циркуляции горячего воздуха.</li>
+<li>Экономия места за счет компактной конструкции.</li>
+<li>Таймер на 60, 120 и 180 минут для автоматического отключения.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Сушилка для обуви</li>
+<li>Номинальная частота: 50 Гц</li>
+<li>Номинальная мощность: 150 Вт</li>
+<li>Номинальное напряжение: 220 В</li>
+<li>Температура нагрева: 40°C~45°C</li>
+<li>Материал: Пластик</li>
+<li>Размер: 278*175*80 мм</li>
+<li>Тип питания: Сеть 220 В</li>
+<li>Индикатор работы: Да</li>
+<li>Кнопка вкл./выкл.: Да</li>
+<li>Область применения: сушка обуви</li>
+</ul>]]></description>
+    <description lang="ua"><![CDATA[<p><b><strong>Електрична сушарка для взуття з таймером RIAS Shoes Dryer HXQ-08</strong></b></p>
+<p>Електрична сушарка для взуття RIAS Shoes Dryer HXQ-08 — це ідеальне рішення для швидкого та ефективного сушіння вашого взуття. Завдяки інтелектуальній системі контролю температури та вбудованому таймеру, ви можете налаштувати сушіння відповідно до ваших потреб. Компактна та складна конструкція дозволяє легко зберігати пристрій навіть у невеликих приміщеннях.</p>
+<p><b><strong>Переваги:</strong></b></p>
+<ul>
+<li>Портативна та складна конструкція для зручного зберігання та використання.</li>
+<li>Інтелектуальний контроль температури для захисту взуття.</li>
+<li>Швидке сушіння на 360° завдяки циркуляції гарячого повітря.</li>
+<li>Економія місця завдяки компактній конструкції.</li>
+<li>Таймер на 60, 120 та 180 хвилин для автоматичного вимкнення.</li>
+</ul>
+<p><b><strong>Характеристики:</strong></b></p>
+<ul>
+<li>Тип: Сушарка для взуття</li>
+<li>Номінальна частота: 50 Гц</li>
+<li>Номінальна потужність: 150 Вт</li>
+<li>Номінальна напруга: 220 В</li>
+<li>Температура нагріву: 40°C~45°C</li>
+<li>Матеріал: Пластик</li>
+<li>Розмір: 278*175*80 мм</li>
+<li>Тип живлення: Мережа 220 В</li>
+<li>Індикатор роботи: Так</li>
+<li>Кнопка вкл./вимк.: Так</li>
+<li>Область застосування: сушіння взуття</li>
+</ul>]]></description>
+    <country_of_origin>Китай</country_of_origin>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Висота" paramcode="110">8.0</param>
+    <param name="Ширина" paramcode="111">17.5</param>
+    <param name="Глибина" paramcode="112">27.8</param>
+    <param name="Конструкція" paramcode="12823" valuecode="5380af970c4f8b284ab377088e3eab8b">розкладна</param>
+    <param name="Особливості" paramcode="2129" valuecode="163b6f257c7ccee988d484e493538607,2022e203a2b55417aa5541137d481e3b">компактні, електрична</param>
+    <param name="Розміри в розкладеному вигляді" paramcode="2143">278*175*80 мм</param>
+    <param name="Довжина" paramcode="2470">27.8</param>
+    <param name="Додаткові характеристики" paramcode="2771">Інтелектуальний контроль температури, таймер на 60, 120, 180 хвилин</param>
+    <param name="Колір виробу" paramcode="3361" valuecode="a368045be8238d862f64d508204be3da">білий</param>
+    <param name="Додаткова інформація" paramcode="4061">Портативна та складна конструкція, інтелектуальний контроль температури</param>
+    <param name="Комплектація" paramcode="767">Електрична сушарка для взуття з таймером</param>
+    <param name="Колір виробника" paramcode="78" valuecode="ophru6z8">білий</param>
+    <param name="Матеріал" paramcode="9493" valuecode="fa167f4f492a1e0f5285ac3cb9bba54a">пластик</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <param name="Модель виробника (референцiя)" paramcode="producer_code">HXQ-08</param>
+    <width>185</width>
+    <height>90</height>
+    <weight>500</weight>
+    <length>288</length>
   </offer>
   </offers>
 </yml_catalog>

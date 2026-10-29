@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-28 23:09">
+<yml_catalog date="2026-10-29 12:32">
   <offers>
   <offer id="NO_SKU_1" available="true">
     <category code="2964">Автопилососи</category>
@@ -26,8 +26,10 @@
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
     <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Тип пилозбірника" paramcode="6563" valuecode="6f81066544cd463a33a36dca36800d97">контейнер</param>
     <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
     <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
     <width>100</width>
     <height>150</height>
     <weight>1500</weight>
@@ -54,38 +56,15 @@
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <width>200</width>
-    <height>200</height>
-    <weight>500</weight>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <width>100</width>
+    <height>150</height>
+    <weight>1500</weight>
     <length>300</length>
   </offer>
   <offer id="NO_SKU_5" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>500</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_6" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_7" available="true">
     <category code="2964">Автопилососи</category>
     <attribute_set code="2964">Автопилососи</attribute_set>
     <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
@@ -101,7 +80,20 @@
     <weight>1500</weight>
     <length>400</length>
   </offer>
-  <offer id="NO_SKU_8" available="true">
+  <offer id="NO_SKU_6" available="true">
+    <category code="2964">Автопилососи</category>
+    <attribute_set code="2964">Автопилососи</attribute_set>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <width>150</width>
+    <height>300</height>
+    <weight>1500</weight>
+    <length>400</length>
+  </offer>
+  <offer id="NO_SKU_7" available="true">
     <category code="2964">Автопилососи</category>
     <attribute_set code="2964">Автопилососи</attribute_set>
     <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
@@ -111,8 +103,24 @@
     <param name="Гарантія" paramcode="113">1.00</param>
     <width>100</width>
     <height>100</height>
-    <weight>1000</weight>
+    <weight>500</weight>
     <length>300</length>
+  </offer>
+  <offer id="NO_SKU_8" available="true">
+    <category code="2964">Автопилососи</category>
+    <attribute_set code="2964">Автопилососи</attribute_set>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <width>150</width>
+    <height>150</height>
+    <weight>1500</weight>
+    <length>400</length>
   </offer>
   <offer id="NO_SKU_9" available="true">
     <category code="2964">Автопилососи</category>
@@ -124,7 +132,7 @@
     <param name="Гарантія" paramcode="113">1.00</param>
     <width>100</width>
     <height>100</height>
-    <weight>500</weight>
+    <weight>1000</weight>
     <length>300</length>
   </offer>
   <offer id="NO_SKU_10" available="true">
@@ -148,11 +156,8 @@
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
-    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
-    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
     <width>100</width>
-    <height>150</height>
+    <height>100</height>
     <weight>1000</weight>
     <length>300</length>
   </offer>
@@ -164,9 +169,12 @@
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
     <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
+    <height>150</height>
+    <weight>1500</weight>
     <length>300</length>
   </offer>
   <offer id="NO_SKU_13" available="true">
@@ -177,8 +185,11 @@
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
     <width>100</width>
-    <height>100</height>
+    <height>150</height>
     <weight>1000</weight>
     <length>300</length>
   </offer>
@@ -192,7 +203,7 @@
     <param name="Гарантія" paramcode="113">1.00</param>
     <width>100</width>
     <height>100</height>
-    <weight>1000</weight>
+    <weight>500</weight>
     <length>300</length>
   </offer>
   <offer id="NO_SKU_15" available="true">
@@ -216,9 +227,12 @@
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <width>200</width>
-    <height>200</height>
-    <weight>500</weight>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <width>100</width>
+    <height>150</height>
+    <weight>1500</weight>
     <length>300</length>
   </offer>
   <offer id="NO_SKU_17" available="true">
@@ -229,10 +243,13 @@
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
-    <length>300</length>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <width>150</width>
+    <height>150</height>
+    <weight>1500</weight>
+    <length>400</length>
   </offer>
   <offer id="NO_SKU_18" available="true">
     <category code="2964">Автопилососи</category>
@@ -258,19 +275,6 @@
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <width>200</width>
-    <height>200</height>
-    <weight>500</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_20" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
     <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
     <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
     <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
@@ -279,7 +283,7 @@
     <weight>1000</weight>
     <length>300</length>
   </offer>
-  <offer id="NO_SKU_21" available="true">
+  <offer id="NO_SKU_20" available="true">
     <category code="2964">Автопилососи</category>
     <attribute_set code="2964">Автопилососи</attribute_set>
     <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
@@ -295,6 +299,22 @@
     <weight>1500</weight>
     <length>400</length>
   </offer>
+  <offer id="NO_SKU_21" available="true">
+    <category code="2964">Автопилососи</category>
+    <attribute_set code="2964">Автопилососи</attribute_set>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <width>100</width>
+    <height>150</height>
+    <weight>1000</weight>
+    <length>300</length>
+  </offer>
   <offer id="NO_SKU_22" available="true">
     <category code="2964">Автопилососи</category>
     <attribute_set code="2964">Автопилососи</attribute_set>
@@ -303,9 +323,9 @@
     <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
     <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
     <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>1000</weight>
+    <width>200</width>
+    <height>200</height>
+    <weight>500</weight>
     <length>300</length>
   </offer>
   <offer id="NO_SKU_23" available="true">
@@ -331,49 +351,10 @@
     <param name="Гарантія" paramcode="113">1.00</param>
     <width>100</width>
     <height>100</height>
-    <weight>500</weight>
-    <length>200</length>
-  </offer>
-  <offer id="NO_SKU_25" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
     <weight>1000</weight>
     <length>300</length>
   </offer>
-  <offer id="NO_SKU_26" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>500</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_27" available="true">
-    <category code="2964">Автопилососи</category>
-    <attribute_set code="2964">Автопилососи</attribute_set>
-    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
-    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
-    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
-    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
-    <param name="Гарантія" paramcode="113">1.00</param>
-    <width>100</width>
-    <height>100</height>
-    <weight>500</weight>
-    <length>300</length>
-  </offer>
-  <offer id="NO_SKU_28" available="true">
+  <offer id="NO_SKU_25" available="true">
     <category code="2964">Автопилососи</category>
     <attribute_set code="2964">Автопилососи</attribute_set>
     <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
@@ -387,6 +368,53 @@
     <width>100</width>
     <height>150</height>
     <weight>1000</weight>
+    <length>300</length>
+  </offer>
+  <offer id="NO_SKU_26" available="true">
+    <category code="2964">Автопилососи</category>
+    <attribute_set code="2964">Автопилососи</attribute_set>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <width>150</width>
+    <height>150</height>
+    <weight>1500</weight>
+    <length>400</length>
+  </offer>
+  <offer id="NO_SKU_27" available="true">
+    <category code="2964">Автопилососи</category>
+    <attribute_set code="2964">Автопилососи</attribute_set>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <width>100</width>
+    <height>100</height>
+    <weight>1000</weight>
+    <length>300</length>
+  </offer>
+  <offer id="NO_SKU_28" available="true">
+    <category code="2964">Автопилососи</category>
+    <attribute_set code="2964">Автопилососи</attribute_set>
+    <vendor code="827b4a70220f11ea918e001e67ecc97b">Інше</vendor>
+    <param name="Одиниця виміру та кількість" paramcode="measure" valuecode="measure_pcs">шт.</param>
+    <param name="Мінімальна кратність товару" paramcode="ratio">1</param>
+    <param name="Обмін та повернення" paramcode="14195" valuecode="0e28a481b4511ac498d0061d0f702bd5">14 днів з дня покупки</param>
+    <param name="Гарантія" paramcode="113">1.00</param>
+    <param name="Тип пилососа" paramcode="10974" valuecode="b8e96a2ef89ffeac1be8dec2f3ff8fce">акумуляторний</param>
+    <param name="Тип пилозбірника" paramcode="6563" valuecode="6f81066544cd463a33a36dca36800d97">контейнер</param>
+    <param name="Підключення через" paramcode="6627" valuecode="97ea738dc8ee2fd47bed32133be73e3b">незалежне живлення (акум.)</param>
+    <param name="Тип прибирання" paramcode="8799" valuecode="8f9d9924b8ebae5ab9ea324326ec6ea3">сухе</param>
+    <param name="Країна-виробник" paramcode="country_of_origin" valuecode="chn">Китай</param>
+    <width>100</width>
+    <height>150</height>
+    <weight>1500</weight>
     <length>300</length>
   </offer>
   </offers>
